@@ -4,32 +4,37 @@ import string
 import random
 from spotipy.oauth2 import SpotifyClientCredentials
 
-sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id="0e68f0587b144b6bab4a8086ee5fea8e",
-                                                           client_secret="e378892e60de4f43b9afde4d15a0184b"))
+from genres import Genres
 
-letter = random.choice(string.ascii_lowercase)
-offset = random.randint(0, 1000)
-rand = random.randint(0, 2)
-if rand == 0:
-    pattern = letter + "%"
-elif rand == 1:
-    pattern = "%" + letter
-else:
-    pattern = "%" + letter + "%"
+# genres = Genres()
+# genres.add("Rock")
+# genres.add("Pop")
+# genres.add("Rock")
+# print(genres.toJSON())
+from spotify import Spotify
 
-results = sp.search(q="track:" + pattern, limit=1, offset=offset)
-# print(json.dumps(results, indent=4, sort_keys=False))
-print("Pattern: " + pattern + " Offset: " + str(offset))
+spotify = Spotify()
 
-artist_ids = []
+genres = Genres()
 
-for idx, track in enumerate(results['tracks']['items']):
-    print(track['name'] + " " + track['id'])
-    for artist in enumerate(track['artists']):
-        artist_ids.append(artist[1]['id'])
+for i in range(1, 8000):
+    results = spotify.random()
+    artists_ids = []
+    number = round(i / 800, 2)
+    print(i)
+    for idx, track in enumerate(results['tracks']['items']):
 
-for artist_id in artist_ids:
-    print(artist_id + " ")
+        for artist in enumerate(track['artists']):
+            artists_ids.append(artist[1]['id'])
+    for artist_id in artists_ids:
+        artistsGenres = spotify.genres_from_artist(artist_id)
+        for genre in artistsGenres:
+            genres.add(genre)
+
+with open('data/genres.json', 'w') as genres_file:
+    genres_file.write(genres.toJSON())
+
+
 
 # results = sp.search(q='offspring', limit=20)
 # results = sp.artist('5LfGQac0EIXyAN8aUwmNAQ')
