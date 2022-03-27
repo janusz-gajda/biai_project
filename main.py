@@ -14,44 +14,47 @@ from genres import Genres
 from spotify import Spotify
 
 spotify = Spotify()
+sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id="0e68f0587b144b6bab4a8086ee5fea8e",
+                                                           client_secret="e378892e60de4f43b9afde4d15a0184b"))
 
+
+
+# results = spotify.random()
+# artists_ids = []
+#
+# with open('data/genres.json', 'w') as genres_file:
+#     genres_file.write(genres.toJSON())
+
+song = {}
+track = {}
 genres = Genres()
+features = {}
+analysis = {}
 
-for i in range(1, 8000):
-    results = spotify.random()
-    artists_ids = []
-    number = round(i / 800, 2)
-    print(i)
-    for idx, track in enumerate(results['tracks']['items']):
-
-        for artist in enumerate(track['artists']):
-            artists_ids.append(artist[1]['id'])
-    for artist_id in artists_ids:
-        artistsGenres = spotify.genres_from_artist(artist_id)
-        for genre in artistsGenres:
-            genres.add(genre)
-
-with open('data/genres.json', 'w') as genres_file:
-    genres_file.write(genres.toJSON())
+#print(json.dumps(song))
 
 
 
-# results = sp.search(q='offspring', limit=20)
-# results = sp.artist('5LfGQac0EIXyAN8aUwmNAQ')
-# with open('data/artist.json', 'w') as artist_file:
-#     artist_file.write(json.dumps(results, indent=4, sort_keys=False))
-#
-# results = sp.track('6TfBA04WJ3X1d1wXhaCFVT')
-#
-# with open('data/track.json', 'w') as track_file:
-#     track_file.write(json.dumps(results, indent=4, sort_keys=False))
-#
-# results = sp.audio_analysis('6TfBA04WJ3X1d1wXhaCFVT')
-#
-# with open('data/analysis.json', 'w') as analysis_ile:
-#     analysis_ile.write(json.dumps(results, indent=4, sort_keys=False))
-#
-# results = sp.audio_features('6TfBA04WJ3X1d1wXhaCFVT')
-#
-# with open('data/features.json', 'w') as features_file:
-#     features_file.write(json.dumps(results, indent=4, sort_keys=False))
+
+# for idx, track in enumerate(results['tracks']['items']):
+#     for artist in enumerate(track['artists']):
+#         artists_ids.append(artist[1]['id'])
+# for artist_id in artists_ids:
+#     artistsGenres = spotify.genres_from_artist(artist_id)
+#     for genre in artistsGenres:
+#         genres.add(genre)
+track = sp.track('6TfBA04WJ3X1d1wXhaCFVT')
+artists = track['artists']
+del track['artists']
+del track['album']
+features = sp.audio_features('6TfBA04WJ3X1d1wXhaCFVT')
+analysis = sp.audio_analysis('6TfBA04WJ3X1d1wXhaCFVT')
+genres = spotify.genres_from_artist('5LfGQac0EIXyAN8aUwmNAQ')
+
+song['track'] = track
+song['features'] = features
+song['analysis'] = analysis
+song['genres'] = genres
+with open('data/single_song.json', 'w') as song_file:
+    song_file.write(json.dumps(song, sort_keys=False, indent=4))
+
