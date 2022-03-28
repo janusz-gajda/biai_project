@@ -43,18 +43,7 @@ analysis = {}
 #     artistsGenres = spotify.genres_from_artist(artist_id)
 #     for genre in artistsGenres:
 #         genres.add(genre)
-track = sp.track('6TfBA04WJ3X1d1wXhaCFVT')
-artists = track['artists']
-del track['artists']
-del track['album']
-features = sp.audio_features('6TfBA04WJ3X1d1wXhaCFVT')
-analysis = sp.audio_analysis('6TfBA04WJ3X1d1wXhaCFVT')
-genres = spotify.genres_from_artist('5LfGQac0EIXyAN8aUwmNAQ')
-
-song['track'] = track
-song['features'] = features
-song['analysis'] = analysis
-song['genres'] = genres
+song = spotify.get_random_learning()
 with open('data/single_song.json', 'w') as song_file:
     song_file.write(json.dumps(song, sort_keys=False, indent=4))
 
