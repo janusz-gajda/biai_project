@@ -1,2 +1,5 @@
 .idea/
 data/
+!data/total.json
+!data/genres_dictionary.json
+*.csv

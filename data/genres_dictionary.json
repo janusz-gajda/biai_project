@@ -1,0 +1,11031 @@
+{
+    "pop": [
+        "pop"
+    ],
+    "dance pop": [
+        "pop"
+    ],
+    "rap": [
+        "rap"
+    ],
+    "rock": [
+        "rock"
+    ],
+    "hip hop": [
+        "hip-hop"
+    ],
+    "pop rap": [
+        "pop",
+        "rap"
+    ],
+    "trap latino": [
+        "trap"
+    ],
+    "reggaeton": [
+        "reggae"
+    ],
+    "trap": [
+        "trap"
+    ],
+    "modern rock": [
+        "rock"
+    ],
+    "pop dance": [
+        "pop"
+    ],
+    "latin pop": [
+        "pop"
+    ],
+    "post-teen pop": [
+        "pop"
+    ],
+    "tropical house": [
+        "house"
+    ],
+    "classic rock": [
+        "rock",
+        "classic"
+    ],
+    "musica mexicana": [
+        "mexican"
+    ],
+    "electropop": [
+        "electronic",
+        "pop"
+    ],
+    "pop rock": [
+        "rock",
+        "pop"
+    ],
+    "soft rock": [
+        "rock"
+    ],
+    "r&b": [
+        "r&b"
+    ],
+    "southern hip hop": [
+        "hip-hop"
+    ],
+    "album rock": [
+        "rock"
+    ],
+    "alternative metal": [
+        "metal",
+        "alternative"
+    ],
+    "contemporary country": [
+        "country"
+    ],
+    "k-pop": [
+        "pop"
+    ],
+    "nueva musica mexicana": [
+        "mexican"
+    ],
+    "canadian pop": [
+        "pop"
+    ],
+    "electro house": [
+        "electronic",
+        "house"
+    ],
+    "country": [
+        "country"
+    ],
+    "melodic rap": [
+        "rap"
+    ],
+    "gangster rap": [
+        "rap"
+    ],
+    "hard rock": [
+        "rock"
+    ],
+    "indie pop": [
+        "pop",
+        "indie"
+    ],
+    "uk pop": [
+        "pop"
+    ],
+    "nu metal": [
+        "metal"
+    ],
+    "alternative rock": [
+        "rock",
+        "alternative"
+    ],
+    "desi pop": [
+        "pop"
+    ],
+    "latin hip hop": [
+        "hip-hop"
+    ],
+    "art pop": [
+        "pop"
+    ],
+    "rock en espanol": [
+        "rock"
+    ],
+    "atl hip hop": [
+        "hip-hop"
+    ],
+    "folk rock": [
+        "rock",
+        "folk"
+    ],
+    "country road": [
+        "country"
+    ],
+    "new wave pop": [
+        "pop"
+    ],
+    "french hip hop": [
+        "hip-hop"
+    ],
+    "underground hip hop": [
+        "hip-hop"
+    ],
+    "country rock": [
+        "rock",
+        "country"
+    ],
+    "german hip hop": [
+        "hip-hop"
+    ],
+    "pop urbaine": [
+        "pop"
+    ],
+    "art rock": [
+        "rock"
+    ],
+    "modern alternative rock": [
+        "rock",
+        "alternative"
+    ],
+    "latin alternative": [
+        "alternative"
+    ],
+    "conscious hip hop": [
+        "hip-hop"
+    ],
+    "mexican pop": [
+        "pop"
+    ],
+    "house": [
+        "house"
+    ],
+    "latin rock": [
+        "rock"
+    ],
+    "chicago rap": [
+        "rap"
+    ],
+    "j-pop": [
+        "pop"
+    ],
+    "k-pop boy group": [
+        "pop"
+    ],
+    "soul": [
+        "soul"
+    ],
+    "alternative r&b": [
+        "alternative",
+        "r&b"
+    ],
+    "europop": [
+        "pop"
+    ],
+    "indie rock": [
+        "rock",
+        "indie"
+    ],
+    "funk carioca": [
+        "funk"
+    ],
+    "latin arena pop": [
+        "pop"
+    ],
+    "hip pop": [
+        "hip-hop",
+        "pop"
+    ],
+    "west coast rap": [
+        "rap"
+    ],
+    "neo soul": [
+        "soul"
+    ],
+    "reggaeton colombiano": [
+        "reggae"
+    ],
+    "metal": [
+        "metal"
+    ],
+    "blues rock": [
+        "rock",
+        "blues"
+    ],
+    "sertanejo pop": [
+        "pop"
+    ],
+    "colombian pop": [
+        "pop"
+    ],
+    "viral pop": [
+        "pop"
+    ],
+    "reggaeton flow": [
+        "reggae"
+    ],
+    "spanish pop": [
+        "pop"
+    ],
+    "pop punk": [
+        "pop",
+        "punk"
+    ],
+    "disco": [
+        "disco"
+    ],
+    "east coast hip hop": [
+        "hip-hop"
+    ],
+    "indie poptimism": [
+        "pop",
+        "indie"
+    ],
+    "funk": [
+        "funk"
+    ],
+    "italian hip hop": [
+        "hip-hop"
+    ],
+    "indie folk": [
+        "indie",
+        "folk"
+    ],
+    "canadian hip hop": [
+        "hip-hop"
+    ],
+    "psychedelic rock": [
+        "rock",
+        "psychedelic"
+    ],
+    "miami hip hop": [
+        "hip-hop"
+    ],
+    "canadian contemporary r&b": [
+        "r&b"
+    ],
+    "slap house": [
+        "house"
+    ],
+    "emo rap": [
+        "rap"
+    ],
+    "indie soul": [
+        "indie",
+        "soul"
+    ],
+    "indietronica": [
+        "indie"
+    ],
+    "indonesian pop": [
+        "pop"
+    ],
+    "rap francais": [
+        "rap"
+    ],
+    "german pop": [
+        "pop"
+    ],
+    "rap metal": [
+        "metal",
+        "rap"
+    ],
+    "modern country rock": [
+        "rock",
+        "country"
+    ],
+    "bedroom pop": [
+        "pop"
+    ],
+    "trap argentino": [
+        "trap"
+    ],
+    "toronto rap": [
+        "rap"
+    ],
+    "turkish pop": [
+        "pop"
+    ],
+    "progressive house": [
+        "house"
+    ],
+    "glam rock": [
+        "rock"
+    ],
+    "pop edm": [
+        "pop"
+    ],
+    "piano rock": [
+        "rock"
+    ],
+    "rap rock": [
+        "rock",
+        "rap"
+    ],
+    "dark trap": [
+        "trap"
+    ],
+    "folk": [
+        "folk"
+    ],
+    "brill building pop": [
+        "pop"
+    ],
+    "metropopolis": [
+        "pop"
+    ],
+    "k-pop girl group": [
+        "pop"
+    ],
+    "vapor trap": [
+        "trap"
+    ],
+    "swedish pop": [
+        "pop"
+    ],
+    "metalcore": [
+        "metal"
+    ],
+    "roots rock": [
+        "rock"
+    ],
+    "punk": [
+        "punk"
+    ],
+    "argentine rock": [
+        "rock"
+    ],
+    "puerto rican pop": [
+        "pop"
+    ],
+    "hardcore hip hop": [
+        "hip-hop",
+        "hardcore"
+    ],
+    "desi hip hop": [
+        "hip-hop"
+    ],
+    "sad rap": [
+        "rap"
+    ],
+    "electronica": [
+        "electronic"
+    ],
+    "australian pop": [
+        "pop"
+    ],
+    "mexican hip hop": [
+        "hip-hop"
+    ],
+    "heartland rock": [
+        "rock"
+    ],
+    "polish hip hop": [
+        "hip-hop"
+    ],
+    "chill r&b": [
+        "r&b"
+    ],
+    "social media pop": [
+        "pop"
+    ],
+    "synthpop": [
+        "pop"
+    ],
+    "alternative hip hop": [
+        "hip-hop",
+        "alternative"
+    ],
+    "progressive electro house": [
+        "electronic",
+        "house"
+    ],
+    "uk hip hop": [
+        "hip-hop"
+    ],
+    "dirty south rap": [
+        "rap"
+    ],
+    "italian pop": [
+        "pop"
+    ],
+    "detroit hip hop": [
+        "hip-hop"
+    ],
+    "indie r&b": [
+        "indie",
+        "r&b"
+    ],
+    "alternative dance": [
+        "alternative"
+    ],
+    "lgbtq+ hip hop": [
+        "hip-hop"
+    ],
+    "pop r&b": [
+        "pop",
+        "r&b"
+    ],
+    "italian adult pop": [
+        "pop"
+    ],
+    "pop nacional": [
+        "pop"
+    ],
+    "contemporary r&b": [
+        "r&b"
+    ],
+    "dance rock": [
+        "rock"
+    ],
+    "argentine hip hop": [
+        "hip-hop"
+    ],
+    "british soul": [
+        "soul"
+    ],
+    "punjabi pop": [
+        "pop"
+    ],
+    "worship": [
+        "worship"
+    ],
+    "glam metal": [
+        "metal"
+    ],
+    "deep house": [
+        "house"
+    ],
+    "yacht rock": [
+        "rock"
+    ],
+    "trap queen": [
+        "trap"
+    ],
+    "french pop": [
+        "pop"
+    ],
+    "folk-pop": [
+        "pop",
+        "folk"
+    ],
+    "classical": [
+        "classic"
+    ],
+    "funk metal": [
+        "metal",
+        "funk"
+    ],
+    "garage rock": [
+        "rock"
+    ],
+    "turkish trap pop": [
+        "pop",
+        "trap"
+    ],
+    "j-rock": [
+        "rock"
+    ],
+    "soundtrack": [
+        "soundtrack"
+    ],
+    "vocal jazz": [
+        "jazz"
+    ],
+    "cali rap": [
+        "rap"
+    ],
+    "rock-and-roll": [
+        "rock"
+    ],
+    "christian alternative rock": [
+        "rock",
+        "alternative"
+    ],
+    "classic soul": [
+        "classic",
+        "soul"
+    ],
+    "mexican rock": [
+        "rock"
+    ],
+    "brazilian rock": [
+        "rock"
+    ],
+    "rap conscient": [
+        "rap"
+    ],
+    "dutch pop": [
+        "pop"
+    ],
+    "trap triste": [
+        "trap"
+    ],
+    "g funk": [
+        "funk"
+    ],
+    "country pop": [
+        "pop",
+        "country"
+    ],
+    "queens hip hop": [
+        "hip-hop"
+    ],
+    "russian hip hop": [
+        "hip-hop"
+    ],
+    "pop soul": [
+        "pop",
+        "soul"
+    ],
+    "brazilian hip hop": [
+        "hip-hop"
+    ],
+    "funk ostentacao": [
+        "funk"
+    ],
+    "melodic metalcore": [
+        "metal"
+    ],
+    "mandopop": [
+        "pop"
+    ],
+    "kentucky hip hop": [
+        "hip-hop"
+    ],
+    "aesthetic rap": [
+        "rap"
+    ],
+    "bubblegum pop": [
+        "pop"
+    ],
+    "german trap": [
+        "trap"
+    ],
+    "symphonic rock": [
+        "rock"
+    ],
+    "turkish hip hop": [
+        "hip-hop"
+    ],
+    "dfw rap": [
+        "rap"
+    ],
+    "industrial metal": [
+        "metal"
+    ],
+    "baroque pop": [
+        "pop"
+    ],
+    "dream pop": [
+        "pop"
+    ],
+    "memphis hip hop": [
+        "hip-hop"
+    ],
+    "outlaw country": [
+        "country"
+    ],
+    "tamil pop": [
+        "pop"
+    ],
+    "funk rock": [
+        "rock",
+        "funk"
+    ],
+    "dutch hip hop": [
+        "hip-hop"
+    ],
+    "nigerian pop": [
+        "pop"
+    ],
+    "world worship": [
+        "worship"
+    ],
+    "deep underground hip hop": [
+        "hip-hop"
+    ],
+    "orchestral soundtrack": [
+        "orchestra",
+        "soundtrack"
+    ],
+    "trap italiana": [
+        "trap"
+    ],
+    "acoustic pop": [
+        "pop"
+    ],
+    "texas country": [
+        "country"
+    ],
+    "electronic trap": [
+        "electronic",
+        "trap"
+    ],
+    "turkish trap": [
+        "trap"
+    ],
+    "florida rap": [
+        "rap"
+    ],
+    "north carolina hip hop": [
+        "hip-hop"
+    ],
+    "country dawn": [
+        "country"
+    ],
+    "britpop": [
+        "pop"
+    ],
+    "deep groove house": [
+        "house"
+    ],
+    "progressive rock": [
+        "rock"
+    ],
+    "funk mtg": [
+        "funk"
+    ],
+    "shimmer pop": [
+        "pop"
+    ],
+    "reggae": [
+        "reggae"
+    ],
+    "reggae fusion": [
+        "reggae"
+    ],
+    "modern blues rock": [
+        "rock",
+        "blues"
+    ],
+    "german rock": [
+        "rock"
+    ],
+    "nyc rap": [
+        "rap"
+    ],
+    "la indie": [
+        "indie"
+    ],
+    "vapor soul": [
+        "soul"
+    ],
+    "j-poprock": [
+        "rock",
+        "pop"
+    ],
+    "latin viral pop": [
+        "pop"
+    ],
+    "trap brasileiro": [
+        "trap"
+    ],
+    "afropop": [
+        "pop"
+    ],
+    "australian hip hop": [
+        "hip-hop"
+    ],
+    "australian rock": [
+        "rock"
+    ],
+    "candy pop": [
+        "pop"
+    ],
+    "polish trap": [
+        "trap"
+    ],
+    "atl trap": [
+        "trap"
+    ],
+    "brazilian gospel": [
+        "gospel"
+    ],
+    "power metal": [
+        "metal",
+        "power"
+    ],
+    "r&b en espanol": [
+        "r&b"
+    ],
+    "turkish rock": [
+        "rock"
+    ],
+    "pop venezolano": [
+        "pop"
+    ],
+    "rockabilly": [
+        "rock"
+    ],
+    "anime rock": [
+        "rock"
+    ],
+    "ohio hip hop": [
+        "hip-hop"
+    ],
+    "norwegian pop": [
+        "pop"
+    ],
+    "new orleans rap": [
+        "rap"
+    ],
+    "barbadian pop": [
+        "pop"
+    ],
+    "industrial rock": [
+        "rock"
+    ],
+    "canadian rock": [
+        "rock"
+    ],
+    "indiecoustica": [
+        "indie"
+    ],
+    "pittsburgh rap": [
+        "rap"
+    ],
+    "dominican pop": [
+        "pop"
+    ],
+    "classic italian pop": [
+        "pop",
+        "classic"
+    ],
+    "instrumental lullaby": [
+        "instrumental"
+    ],
+    "neo-psychedelic": [
+        "psychedelic"
+    ],
+    "rap latina": [
+        "rap"
+    ],
+    "roots reggae": [
+        "reggae"
+    ],
+    "skate punk": [
+        "punk"
+    ],
+    "mexican indie": [
+        "indie"
+    ],
+    "russian pop": [
+        "pop"
+    ],
+    "sophisti-pop": [
+        "pop"
+    ],
+    "german metal": [
+        "metal"
+    ],
+    "japanese teen pop": [
+        "pop"
+    ],
+    "pop argentino": [
+        "pop"
+    ],
+    "modern indie pop": [
+        "pop",
+        "indie"
+    ],
+    "oklahoma country": [
+        "country"
+    ],
+    "classic bollywood": [
+        "classic"
+    ],
+    "danish pop": [
+        "pop"
+    ],
+    "philly rap": [
+        "rap"
+    ],
+    "rap calme": [
+        "rap"
+    ],
+    "dutch rap pop": [
+        "pop",
+        "rap"
+    ],
+    "disco house": [
+        "house",
+        "disco"
+    ],
+    "spanish pop rock": [
+        "rock",
+        "pop"
+    ],
+    "brooklyn indie": [
+        "indie"
+    ],
+    "neo-classical": [
+        "classic"
+    ],
+    "italian indie pop": [
+        "pop",
+        "indie"
+    ],
+    "taiwan pop": [
+        "pop"
+    ],
+    "deep german hip hop": [
+        "hip-hop"
+    ],
+    "rock nacional": [
+        "rock"
+    ],
+    "tennessee hip hop": [
+        "hip-hop"
+    ],
+    "french indie pop": [
+        "pop",
+        "indie"
+    ],
+    "spanish hip hop": [
+        "hip-hop"
+    ],
+    "chamber pop": [
+        "pop"
+    ],
+    "viral rap": [
+        "rap"
+    ],
+    "indie garage rock": [
+        "rock",
+        "indie"
+    ],
+    "electric blues": [
+        "blues"
+    ],
+    "uk contemporary r&b": [
+        "r&b"
+    ],
+    "hyperpop": [
+        "pop"
+    ],
+    "trap soul": [
+        "trap",
+        "soul"
+    ],
+    "filter house": [
+        "house"
+    ],
+    "bass trap": [
+        "trap"
+    ],
+    "gauze pop": [
+        "pop"
+    ],
+    "trap boricua": [
+        "trap"
+    ],
+    "sheffield indie": [
+        "indie"
+    ],
+    "classic uk pop": [
+        "pop",
+        "classic"
+    ],
+    "c-pop": [
+        "pop"
+    ],
+    "southern soul": [
+        "soul"
+    ],
+    "hip house": [
+        "hip-hop",
+        "house"
+    ],
+    "houston rap": [
+        "rap"
+    ],
+    "baton rouge rap": [
+        "rap"
+    ],
+    "polish pop": [
+        "pop"
+    ],
+    "thrash metal": [
+        "metal"
+    ],
+    "swedish hip hop": [
+        "hip-hop"
+    ],
+    "deep tropical house": [
+        "house"
+    ],
+    "rap marseille": [
+        "rap"
+    ],
+    "southern rock": [
+        "rock"
+    ],
+    "funk paulista": [
+        "funk"
+    ],
+    "swedish trap pop": [
+        "pop",
+        "trap"
+    ],
+    "meme rap": [
+        "rap"
+    ],
+    "nu jazz": [
+        "jazz"
+    ],
+    "la pop": [
+        "pop"
+    ],
+    "christian rock": [
+        "rock"
+    ],
+    "latin worship": [
+        "worship"
+    ],
+    "uk alternative pop": [
+        "pop",
+        "alternative"
+    ],
+    "vocal house": [
+        "house"
+    ],
+    "rap espanol": [
+        "rap"
+    ],
+    "rock nacional brasileiro": [
+        "rock"
+    ],
+    "jazz": [
+        "jazz"
+    ],
+    "socal pop punk": [
+        "pop",
+        "punk"
+    ],
+    "anthem worship": [
+        "worship"
+    ],
+    "k-rap": [
+        "rap"
+    ],
+    "korean pop": [
+        "pop"
+    ],
+    "dmv rap": [
+        "rap"
+    ],
+    "indie pop rap": [
+        "pop",
+        "rap",
+        "indie"
+    ],
+    "rap conciencia": [
+        "rap"
+    ],
+    "bass house": [
+        "house"
+    ],
+    "korean r&b": [
+        "r&b"
+    ],
+    "australian indie": [
+        "indie"
+    ],
+    "irish rock": [
+        "rock"
+    ],
+    "musica popular colombiana": [
+        "pop"
+    ],
+    "pop flamenco": [
+        "pop"
+    ],
+    "modern alternative pop": [
+        "pop",
+        "alternative"
+    ],
+    "punjabi hip hop": [
+        "hip-hop"
+    ],
+    "dutch rock": [
+        "rock"
+    ],
+    "swedish electropop": [
+        "electronic",
+        "pop"
+    ],
+    "minnesota hip hop": [
+        "hip-hop"
+    ],
+    "post-disco": [
+        "disco"
+    ],
+    "turkish alt pop": [
+        "pop"
+    ],
+    "punk blues": [
+        "punk",
+        "blues"
+    ],
+    "post-punk": [
+        "punk"
+    ],
+    "funk pop": [
+        "pop",
+        "funk"
+    ],
+    "german underground rap": [
+        "rap"
+    ],
+    "shiver pop": [
+        "pop"
+    ],
+    "indie triste": [
+        "indie"
+    ],
+    "pop reggaeton": [
+        "pop",
+        "reggae"
+    ],
+    "french rock": [
+        "rock"
+    ],
+    "cantopop": [
+        "pop"
+    ],
+    "lo-fi indie": [
+        "indie"
+    ],
+    "pop emo": [
+        "pop"
+    ],
+    "nz pop": [
+        "pop"
+    ],
+    "bedroom soul": [
+        "soul"
+    ],
+    "alternative country": [
+        "country",
+        "alternative"
+    ],
+    "cumbia pop": [
+        "pop"
+    ],
+    "bow pop": [
+        "pop"
+    ],
+    "uk alternative hip hop": [
+        "hip-hop",
+        "alternative"
+    ],
+    "norwegian indie": [
+        "indie"
+    ],
+    "scandipop": [
+        "pop"
+    ],
+    "jazz pop": [
+        "pop",
+        "jazz"
+    ],
+    "canadian trap": [
+        "trap"
+    ],
+    "indonesian indie": [
+        "indie"
+    ],
+    "spanish rock": [
+        "rock"
+    ],
+    "groove metal": [
+        "metal"
+    ],
+    "country rap": [
+        "rap",
+        "country"
+    ],
+    "indian instrumental": [
+        "instrumental"
+    ],
+    "lo-fi jazzhop": [
+        "jazz"
+    ],
+    "indonesian pop rock": [
+        "rock",
+        "pop"
+    ],
+    "classic swedish pop": [
+        "pop",
+        "classic"
+    ],
+    "turkish folk": [
+        "folk"
+    ],
+    "rap napoletano": [
+        "rap"
+    ],
+    "electro": [
+        "electronic"
+    ],
+    "new school turkce rap": [
+        "rap"
+    ],
+    "classic canadian rock": [
+        "rock",
+        "classic"
+    ],
+    "thai pop": [
+        "pop"
+    ],
+    "contemporary vocal jazz": [
+        "jazz"
+    ],
+    "power pop": [
+        "pop",
+        "power"
+    ],
+    "neon pop punk": [
+        "pop",
+        "punk"
+    ],
+    "japanese alternative rock": [
+        "rock",
+        "alternative"
+    ],
+    "canadian indie": [
+        "indie"
+    ],
+    "russian trap": [
+        "trap"
+    ],
+    "uk post-punk": [
+        "punk"
+    ],
+    "french indietronica": [
+        "indie"
+    ],
+    "blues": [
+        "blues"
+    ],
+    "neo-synthpop": [
+        "pop"
+    ],
+    "jazz blues": [
+        "blues",
+        "jazz"
+    ],
+    "alternative emo": [
+        "alternative"
+    ],
+    "romanian pop": [
+        "pop"
+    ],
+    "pop house": [
+        "pop",
+        "house"
+    ],
+    "electro latino": [
+        "electronic"
+    ],
+    "dutch house": [
+        "house"
+    ],
+    "classic j-pop": [
+        "pop",
+        "classic"
+    ],
+    "etherpop": [
+        "pop"
+    ],
+    "argentine indie": [
+        "indie"
+    ],
+    "funk bh": [
+        "funk"
+    ],
+    "narco rap": [
+        "rap"
+    ],
+    "pop rap brasileiro": [
+        "pop",
+        "rap"
+    ],
+    "czsk hip hop": [
+        "hip-hop"
+    ],
+    "rap dominicano": [
+        "rap"
+    ],
+    "tamil hip hop": [
+        "hip-hop"
+    ],
+    "golden age hip hop": [
+        "hip-hop"
+    ],
+    "uk metalcore": [
+        "metal"
+    ],
+    "turbo folk": [
+        "folk"
+    ],
+    "anti-folk": [
+        "folk"
+    ],
+    "panamanian pop": [
+        "pop"
+    ],
+    "tech house": [
+        "house"
+    ],
+    "pinoy rock": [
+        "rock"
+    ],
+    "jazz fusion": [
+        "jazz"
+    ],
+    "funk consciente": [
+        "funk"
+    ],
+    "classic country pop": [
+        "pop",
+        "classic",
+        "country"
+    ],
+    "irish pop": [
+        "pop"
+    ],
+    "traprun": [
+        "trap"
+    ],
+    "oxford indie": [
+        "indie"
+    ],
+    "australian electropop": [
+        "electronic",
+        "pop"
+    ],
+    "pop peruano": [
+        "pop"
+    ],
+    "nyc pop": [
+        "pop"
+    ],
+    "deep turkish pop": [
+        "pop"
+    ],
+    "modern folk rock": [
+        "rock",
+        "folk"
+    ],
+    "canadian metal": [
+        "metal"
+    ],
+    "lovers rock": [
+        "rock"
+    ],
+    "belgian pop": [
+        "pop"
+    ],
+    "polish alternative rap": [
+        "rap",
+        "alternative"
+    ],
+    "old school atlanta hip hop": [
+        "hip-hop"
+    ],
+    "finnish dance pop": [
+        "pop"
+    ],
+    "indie rock italiano": [
+        "rock",
+        "indie"
+    ],
+    "protopunk": [
+        "punk"
+    ],
+    "hamburg hip hop": [
+        "hip-hop"
+    ],
+    "deep euro house": [
+        "house"
+    ],
+    "indie surf": [
+        "indie"
+    ],
+    "chilean rock": [
+        "rock"
+    ],
+    "finnish pop": [
+        "pop"
+    ],
+    "indonesian jazz": [
+        "jazz"
+    ],
+    "indie electropop": [
+        "electronic",
+        "pop",
+        "indie"
+    ],
+    "v-pop": [
+        "pop"
+    ],
+    "pop rock brasileiro": [
+        "rock",
+        "pop"
+    ],
+    "celtic rock": [
+        "rock"
+    ],
+    "old school hip hop": [
+        "hip-hop"
+    ],
+    "russian alt pop": [
+        "pop"
+    ],
+    "post-hardcore": [
+        "hardcore"
+    ],
+    "jazz funk": [
+        "jazz",
+        "funk"
+    ],
+    "trap chileno": [
+        "trap"
+    ],
+    "pinoy hip hop": [
+        "hip-hop"
+    ],
+    "neo classical metal": [
+        "metal",
+        "classic"
+    ],
+    "memphis soul": [
+        "soul"
+    ],
+    "british blues": [
+        "blues"
+    ],
+    "german alternative rap": [
+        "rap",
+        "alternative"
+    ],
+    "london rap": [
+        "rap"
+    ],
+    "death metal": [
+        "metal"
+    ],
+    "nu disco": [
+        "disco"
+    ],
+    "channel pop": [
+        "pop"
+    ],
+    "reggae rock": [
+        "rock",
+        "reggae"
+    ],
+    "greek trap": [
+        "trap"
+    ],
+    "progressive metal": [
+        "metal"
+    ],
+    "turkish alternative rock": [
+        "rock",
+        "alternative"
+    ],
+    "melodic metal": [
+        "metal"
+    ],
+    "brazilian reggae": [
+        "reggae"
+    ],
+    "smooth jazz": [
+        "jazz"
+    ],
+    "reggae en espanol": [
+        "reggae"
+    ],
+    "ska punk": [
+        "punk"
+    ],
+    "tagalog rap": [
+        "rap"
+    ],
+    "modern blues": [
+        "blues"
+    ],
+    "r&b brasileiro": [
+        "r&b"
+    ],
+    "afro r&b": [
+        "r&b"
+    ],
+    "nigerian hip hop": [
+        "hip-hop"
+    ],
+    "noise pop": [
+        "pop"
+    ],
+    "modern reggae": [
+        "reggae"
+    ],
+    "pop lgbtq+ brasileira": [
+        "pop"
+    ],
+    "indie anthem-folk": [
+        "indie",
+        "folk"
+    ],
+    "chill pop": [
+        "pop"
+    ],
+    "arkansas country": [
+        "country"
+    ],
+    "rome indie": [
+        "indie"
+    ],
+    "german indie": [
+        "indie"
+    ],
+    "chicago indie": [
+        "indie"
+    ],
+    "speed metal": [
+        "metal"
+    ],
+    "classical era": [
+        "classic"
+    ],
+    "trap mexicano": [
+        "trap"
+    ],
+    "classic schlager": [
+        "classic"
+    ],
+    "modern hard rock": [
+        "rock"
+    ],
+    "oakland hip hop": [
+        "hip-hop"
+    ],
+    "uk funky": [
+        "funk"
+    ],
+    "swedish gangsta rap": [
+        "rap"
+    ],
+    "political hip hop": [
+        "hip-hop"
+    ],
+    "czech hip hop": [
+        "hip-hop"
+    ],
+    "greek pop": [
+        "pop"
+    ],
+    "pop romantico": [
+        "pop"
+    ],
+    "swamp rock": [
+        "rock"
+    ],
+    "albanian hip hop": [
+        "hip-hop"
+    ],
+    "belgian hip hop": [
+        "hip-hop"
+    ],
+    "canadian electronic": [
+        "electronic"
+    ],
+    "soul blues": [
+        "blues",
+        "soul"
+    ],
+    "venezuelan hip hop": [
+        "hip-hop"
+    ],
+    "detroit trap": [
+        "trap"
+    ],
+    "chicano rap": [
+        "rap"
+    ],
+    "swedish metal": [
+        "metal"
+    ],
+    "classic hardstyle": [
+        "classic"
+    ],
+    "danish hip hop": [
+        "hip-hop"
+    ],
+    "stoner rock": [
+        "rock"
+    ],
+    "christian pop": [
+        "pop"
+    ],
+    "ambient pop": [
+        "pop"
+    ],
+    "j-rap": [
+        "rap"
+    ],
+    "acid rock": [
+        "rock"
+    ],
+    "microhouse": [
+        "house"
+    ],
+    "post-punk argentina": [
+        "punk"
+    ],
+    "finnish hip hop": [
+        "hip-hop"
+    ],
+    "new jersey rap": [
+        "rap"
+    ],
+    "israeli pop": [
+        "pop"
+    ],
+    "antiviral pop": [
+        "pop"
+    ],
+    "classic pakistani pop": [
+        "pop",
+        "classic"
+    ],
+    "canadian country": [
+        "country"
+    ],
+    "latin jazz": [
+        "jazz"
+    ],
+    "rap canario": [
+        "rap"
+    ],
+    "modern dream pop": [
+        "pop"
+    ],
+    "trap colombiano": [
+        "trap"
+    ],
+    "spanish indie pop": [
+        "pop",
+        "indie"
+    ],
+    "german cloud rap": [
+        "rap"
+    ],
+    "japanese r&b": [
+        "r&b"
+    ],
+    "experimental pop": [
+        "pop"
+    ],
+    "south african pop": [
+        "pop"
+    ],
+    "swedish idol pop": [
+        "pop"
+    ],
+    "rebel blues": [
+        "blues"
+    ],
+    "frauenrap": [
+        "rap"
+    ],
+    "sunshine pop": [
+        "pop"
+    ],
+    "vancouver indie": [
+        "indie"
+    ],
+    "german soundtrack": [
+        "soundtrack"
+    ],
+    "dance-punk": [
+        "punk"
+    ],
+    "pakistani hip hop": [
+        "hip-hop"
+    ],
+    "italian underground hip hop": [
+        "hip-hop"
+    ],
+    "canadian punk": [
+        "punk"
+    ],
+    "christian hip hop": [
+        "hip-hop"
+    ],
+    "french reggae": [
+        "reggae"
+    ],
+    "modern power pop": [
+        "pop",
+        "power"
+    ],
+    "operatic pop": [
+        "pop"
+    ],
+    "south carolina hip hop": [
+        "hip-hop"
+    ],
+    "pacific islands pop": [
+        "pop"
+    ],
+    "danspunk": [
+        "punk"
+    ],
+    "g-house": [
+        "house"
+    ],
+    "swedish trap": [
+        "trap"
+    ],
+    "hardcore punk": [
+        "punk",
+        "hardcore"
+    ],
+    "virginia hip hop": [
+        "hip-hop"
+    ],
+    "el paso indie": [
+        "indie"
+    ],
+    "anadolu rock": [
+        "rock"
+    ],
+    "swedish synthpop": [
+        "pop"
+    ],
+    "birmingham metal": [
+        "metal"
+    ],
+    "philly indie": [
+        "indie"
+    ],
+    "sacramento indie": [
+        "indie"
+    ],
+    "gothic metal": [
+        "metal"
+    ],
+    "polish alternative": [
+        "alternative"
+    ],
+    "edmonton indie": [
+        "indie"
+    ],
+    "rap belge": [
+        "rap"
+    ],
+    "pop nacional antigas": [
+        "pop"
+    ],
+    "canadian contemporary country": [
+        "country"
+    ],
+    "hawaiian hip hop": [
+        "hip-hop"
+    ],
+    "scottish rock": [
+        "rock"
+    ],
+    "rap politico": [
+        "rap"
+    ],
+    "pakistani pop": [
+        "pop"
+    ],
+    "psychedelic hip hop": [
+        "hip-hop",
+        "psychedelic"
+    ],
+    "rap genovese": [
+        "rap"
+    ],
+    "trap baiano": [
+        "trap"
+    ],
+    "indie hip hop": [
+        "hip-hop",
+        "indie"
+    ],
+    "folklore argentino": [
+        "folk"
+    ],
+    "australian alternative rock": [
+        "rock",
+        "alternative"
+    ],
+    "melodic hardcore": [
+        "hardcore"
+    ],
+    "rock cristiano": [
+        "rock"
+    ],
+    "turkish jazz": [
+        "jazz"
+    ],
+    "japanese soundtrack": [
+        "soundtrack"
+    ],
+    "nederpop": [
+        "pop"
+    ],
+    "norwegian pop rap": [
+        "pop",
+        "rap"
+    ],
+    "diva house": [
+        "house"
+    ],
+    "chinese viral pop": [
+        "pop"
+    ],
+    "greek hip hop": [
+        "hip-hop"
+    ],
+    "arab pop": [
+        "pop"
+    ],
+    "argentine telepop": [
+        "pop"
+    ],
+    "west coast trap": [
+        "trap"
+    ],
+    "jazz rap": [
+        "rap",
+        "jazz"
+    ],
+    "russian rock": [
+        "rock"
+    ],
+    "dark pop": [
+        "pop"
+    ],
+    "melodic death metal": [
+        "metal"
+    ],
+    "alabama rap": [
+        "rap"
+    ],
+    "suomi rock": [
+        "rock"
+    ],
+    "pub rock": [
+        "rock"
+    ],
+    "french synthpop": [
+        "pop"
+    ],
+    "argentine reggae": [
+        "reggae"
+    ],
+    "christian indie": [
+        "indie"
+    ],
+    "detroit rock": [
+        "rock"
+    ],
+    "indie game soundtrack": [
+        "indie",
+        "soundtrack"
+    ],
+    "italian disco": [
+        "disco"
+    ],
+    "malaysian pop": [
+        "pop"
+    ],
+    "classic soundtrack": [
+        "classic",
+        "soundtrack"
+    ],
+    "desi trap": [
+        "trap"
+    ],
+    "organic house": [
+        "house"
+    ],
+    "milan indie": [
+        "indie"
+    ],
+    "traditional blues": [
+        "blues",
+        "traditional"
+    ],
+    "comic metal": [
+        "metal"
+    ],
+    "rock urbano mexicano": [
+        "rock"
+    ],
+    "albanian pop": [
+        "pop"
+    ],
+    "classic opm": [
+        "classic"
+    ],
+    "alternative pop rock": [
+        "rock",
+        "pop",
+        "alternative"
+    ],
+    "rap tunisien": [
+        "rap"
+    ],
+    "hungarian pop": [
+        "pop"
+    ],
+    "lo-fi rap": [
+        "rap"
+    ],
+    "classic mandopop": [
+        "pop",
+        "classic"
+    ],
+    "old school rap francais": [
+        "rap"
+    ],
+    "modern southern rock": [
+        "rock"
+    ],
+    "indie jazz": [
+        "indie",
+        "jazz"
+    ],
+    "instrumental worship": [
+        "instrumental",
+        "worship"
+    ],
+    "northern soul": [
+        "soul"
+    ],
+    "symphonic metal": [
+        "metal"
+    ],
+    "reggaeton mexicano": [
+        "reggae"
+    ],
+    "indie punk": [
+        "indie",
+        "punk"
+    ],
+    "gospel": [
+        "gospel"
+    ],
+    "canadian pop punk": [
+        "pop",
+        "punk"
+    ],
+    "chinese indie": [
+        "indie"
+    ],
+    "jazz trumpet": [
+        "jazz"
+    ],
+    "sleaze rock": [
+        "rock"
+    ],
+    "boston rock": [
+        "rock"
+    ],
+    "philly soul": [
+        "soul"
+    ],
+    "trap funk": [
+        "trap",
+        "funk"
+    ],
+    "swedish alternative rock": [
+        "rock",
+        "alternative"
+    ],
+    "rhythm and blues": [
+        "blues"
+    ],
+    "hindi indie": [
+        "indie"
+    ],
+    "hindi hip hop": [
+        "hip-hop"
+    ],
+    "rap cearense": [
+        "rap"
+    ],
+    "st louis rap": [
+        "rap"
+    ],
+    "ambient worship": [
+        "worship"
+    ],
+    "swedish indie pop": [
+        "pop",
+        "indie"
+    ],
+    "hard rock brasileiro": [
+        "rock"
+    ],
+    "indian indie": [
+        "indie"
+    ],
+    "ukrainian pop": [
+        "pop"
+    ],
+    "rock drums": [
+        "rock"
+    ],
+    "instrumental rock": [
+        "rock",
+        "instrumental"
+    ],
+    "pop electronico": [
+        "electronic",
+        "pop"
+    ],
+    "pinoy indie": [
+        "indie"
+    ],
+    "seattle hip hop": [
+        "hip-hop"
+    ],
+    "pinoy r&b": [
+        "r&b"
+    ],
+    "rap chileno": [
+        "rap"
+    ],
+    "happy hardcore": [
+        "hardcore"
+    ],
+    "mexican rock-and-roll": [
+        "rock"
+    ],
+    "afro soul": [
+        "soul"
+    ],
+    "colombian hip hop": [
+        "hip-hop"
+    ],
+    "british soundtrack": [
+        "soundtrack"
+    ],
+    "j-pop boy group": [
+        "pop"
+    ],
+    "german reggae": [
+        "reggae"
+    ],
+    "spanish punk": [
+        "punk"
+    ],
+    "stoner metal": [
+        "metal"
+    ],
+    "hardcore techno": [
+        "hardcore"
+    ],
+    "folk brasileiro": [
+        "folk"
+    ],
+    "rap baiano": [
+        "rap"
+    ],
+    "boston hip hop": [
+        "hip-hop"
+    ],
+    "jazz saxophone": [
+        "jazz"
+    ],
+    "turkish alternative": [
+        "alternative"
+    ],
+    "background jazz": [
+        "jazz"
+    ],
+    "english indie rock": [
+        "rock",
+        "indie"
+    ],
+    "gothic symphonic metal": [
+        "metal"
+    ],
+    "cool jazz": [
+        "jazz"
+    ],
+    "german hard rock": [
+        "rock"
+    ],
+    "rhode island rap": [
+        "rap"
+    ],
+    "proto-hyperpop": [
+        "pop"
+    ],
+    "rap algerien": [
+        "rap"
+    ],
+    "asian american hip hop": [
+        "hip-hop"
+    ],
+    "latin metal": [
+        "metal"
+    ],
+    "new jersey indie": [
+        "indie"
+    ],
+    "finnish metal": [
+        "metal"
+    ],
+    "australian reggae fusion": [
+        "reggae"
+    ],
+    "rap df": [
+        "rap"
+    ],
+    "czech rock": [
+        "rock"
+    ],
+    "austindie": [
+        "indie"
+    ],
+    "british folk": [
+        "folk"
+    ],
+    "mainland chinese pop": [
+        "pop"
+    ],
+    "acoustic blues": [
+        "blues"
+    ],
+    "k-indie": [
+        "indie"
+    ],
+    "rock gospel brasileiro": [
+        "rock",
+        "gospel"
+    ],
+    "rap cristiano": [
+        "rap"
+    ],
+    "electronic rock": [
+        "electronic",
+        "rock"
+    ],
+    "brighton indie": [
+        "indie"
+    ],
+    "rock alternativo brasileiro": [
+        "rock"
+    ],
+    "christian trap": [
+        "trap"
+    ],
+    "swedish tropical house": [
+        "house"
+    ],
+    "japanese electropop": [
+        "electronic",
+        "pop"
+    ],
+    "future house": [
+        "house"
+    ],
+    "calming instrumental": [
+        "instrumental"
+    ],
+    "classic cantopop": [
+        "pop",
+        "classic"
+    ],
+    "rave funk": [
+        "funk"
+    ],
+    "haryanvi pop": [
+        "pop"
+    ],
+    "chilean indie": [
+        "indie"
+    ],
+    "baltimore indie": [
+        "indie"
+    ],
+    "cyberpunk": [
+        "punk"
+    ],
+    "garage rock revival": [
+        "rock"
+    ],
+    "australian indie folk": [
+        "indie",
+        "folk"
+    ],
+    "jazz piano": [
+        "jazz"
+    ],
+    "uptempo hardcore": [
+        "hardcore"
+    ],
+    "stomp pop": [
+        "pop"
+    ],
+    "persian pop": [
+        "pop"
+    ],
+    "australian country": [
+        "country"
+    ],
+    "roots worship": [
+        "worship"
+    ],
+    "ambient folk": [
+        "folk"
+    ],
+    "mississippi hip hop": [
+        "hip-hop"
+    ],
+    "jazz boom bap": [
+        "jazz"
+    ],
+    "jazz cover": [
+        "jazz"
+    ],
+    "german punk": [
+        "punk"
+    ],
+    "soul jazz": [
+        "jazz",
+        "soul"
+    ],
+    "jazztronica": [
+        "jazz"
+    ],
+    "vegas indie": [
+        "indie"
+    ],
+    "liquid funk": [
+        "funk"
+    ],
+    "japanese soul": [
+        "soul"
+    ],
+    "trap carioca": [
+        "trap"
+    ],
+    "indonesian r&b": [
+        "r&b"
+    ],
+    "swedish pop rap": [
+        "pop",
+        "rap"
+    ],
+    "electro swing": [
+        "electronic"
+    ],
+    "swedish power metal": [
+        "metal",
+        "power"
+    ],
+    "post-rock": [
+        "rock"
+    ],
+    "singaporean pop": [
+        "pop"
+    ],
+    "contemporary jazz": [
+        "jazz"
+    ],
+    "electropowerpop": [
+        "electronic",
+        "pop",
+        "power"
+    ],
+    "float house": [
+        "house"
+    ],
+    "ukrainian rock": [
+        "rock"
+    ],
+    "experimental hip hop": [
+        "hip-hop"
+    ],
+    "funk viral": [
+        "funk"
+    ],
+    "taiwan indie": [
+        "indie"
+    ],
+    "medieval rock": [
+        "rock"
+    ],
+    "indonesian rock": [
+        "rock"
+    ],
+    "korean old school hip hop": [
+        "hip-hop"
+    ],
+    "synth funk": [
+        "funk"
+    ],
+    "quebec indie": [
+        "indie"
+    ],
+    "electronica argentina": [
+        "electronic"
+    ],
+    "art punk": [
+        "punk"
+    ],
+    "arabic hip hop": [
+        "hip-hop"
+    ],
+    "anime rap": [
+        "rap"
+    ],
+    "manchester hip hop": [
+        "hip-hop"
+    ],
+    "abstract hip hop": [
+        "hip-hop"
+    ],
+    "indonesian folk pop": [
+        "pop",
+        "folk"
+    ],
+    "progressive post-hardcore": [
+        "hardcore"
+    ],
+    "bronx hip hop": [
+        "hip-hop"
+    ],
+    "german house": [
+        "house"
+    ],
+    "pinoy trap": [
+        "trap"
+    ],
+    "reggaeton chileno": [
+        "reggae"
+    ],
+    "athens indie": [
+        "indie"
+    ],
+    "danish rock": [
+        "rock"
+    ],
+    "early modern classical": [
+        "classic"
+    ],
+    "proto-metal": [
+        "metal"
+    ],
+    "rap underground mexicano": [
+        "rap"
+    ],
+    "uk contemporary jazz": [
+        "jazz"
+    ],
+    "hk-pop": [
+        "pop"
+    ],
+    "j-pop girl group": [
+        "pop"
+    ],
+    "kentucky indie": [
+        "indie"
+    ],
+    "russian dance pop": [
+        "pop"
+    ],
+    "rock uruguayo": [
+        "rock"
+    ],
+    "rap maroc": [
+        "rap"
+    ],
+    "harlem hip hop": [
+        "hip-hop"
+    ],
+    "classic indonesian rock": [
+        "rock",
+        "classic"
+    ],
+    "nu-metalcore": [
+        "metal"
+    ],
+    "funk mandelao": [
+        "funk"
+    ],
+    "psychedelic soul": [
+        "psychedelic",
+        "soul"
+    ],
+    "hip hop tuga": [
+        "hip-hop"
+    ],
+    "classic city pop": [
+        "pop",
+        "classic"
+    ],
+    "retro soul": [
+        "soul"
+    ],
+    "electro-pop francais": [
+        "electronic",
+        "pop"
+    ],
+    "classic danish pop": [
+        "pop",
+        "classic"
+    ],
+    "austropop": [
+        "pop"
+    ],
+    "organic electronic": [
+        "electronic"
+    ],
+    "trap venezolano": [
+        "trap"
+    ],
+    "british indie rock": [
+        "rock",
+        "indie"
+    ],
+    "ecuadorian pop": [
+        "pop"
+    ],
+    "dutch indie": [
+        "indie"
+    ],
+    "deep disco house": [
+        "house",
+        "disco"
+    ],
+    "surf punk": [
+        "punk"
+    ],
+    "rocksteady": [
+        "rock"
+    ],
+    "uk reggae": [
+        "reggae"
+    ],
+    "liverpool indie": [
+        "indie"
+    ],
+    "classic girl group": [
+        "classic"
+    ],
+    "uk doom metal": [
+        "metal"
+    ],
+    "ghanaian pop": [
+        "pop"
+    ],
+    "hamburg electronic": [
+        "electronic"
+    ],
+    "vapor pop": [
+        "pop"
+    ],
+    "classic norwegian pop": [
+        "pop",
+        "classic"
+    ],
+    "danish electronic": [
+        "electronic"
+    ],
+    "discofox": [
+        "disco"
+    ],
+    "spanish metal": [
+        "metal"
+    ],
+    "jazz guitar": [
+        "jazz"
+    ],
+    "czech pop": [
+        "pop"
+    ],
+    "polish viral rap": [
+        "rap"
+    ],
+    "idol rock": [
+        "rock"
+    ],
+    "romanian house": [
+        "house"
+    ],
+    "tamaulipas rap": [
+        "rap"
+    ],
+    "classic indo pop": [
+        "pop",
+        "classic"
+    ],
+    "chihuahua indie": [
+        "indie"
+    ],
+    "neoclassical darkwave": [
+        "classic"
+    ],
+    "canadian electropop": [
+        "electronic",
+        "pop"
+    ],
+    "gujarati pop": [
+        "pop"
+    ],
+    "modern funk": [
+        "funk"
+    ],
+    "rap underground espanol": [
+        "rap"
+    ],
+    "rap mineiro": [
+        "rap"
+    ],
+    "turkish deep house": [
+        "house"
+    ],
+    "ottawa rap": [
+        "rap"
+    ],
+    "portland hip hop": [
+        "hip-hop"
+    ],
+    "eau claire indie": [
+        "indie"
+    ],
+    "pinoy reggae": [
+        "reggae"
+    ],
+    "instrumental funk": [
+        "instrumental",
+        "funk"
+    ],
+    "experimental rock": [
+        "rock"
+    ],
+    "upstate ny rap": [
+        "rap"
+    ],
+    "chicago punk": [
+        "punk"
+    ],
+    "polish classical": [
+        "classic"
+    ],
+    "chicago soul": [
+        "soul"
+    ],
+    "scream rap": [
+        "rap"
+    ],
+    "swedish jazz": [
+        "jazz"
+    ],
+    "italian pop rock": [
+        "rock",
+        "pop"
+    ],
+    "welsh rock": [
+        "rock"
+    ],
+    "future funk": [
+        "funk"
+    ],
+    "egyptian pop": [
+        "pop"
+    ],
+    "brazilian jazz": [
+        "jazz"
+    ],
+    "oakland indie": [
+        "indie"
+    ],
+    "funky tech house": [
+        "house",
+        "funk"
+    ],
+    "pop virale italiano": [
+        "pop"
+    ],
+    "australian house": [
+        "house"
+    ],
+    "russian gangster rap": [
+        "rap"
+    ],
+    "rap geek": [
+        "rap"
+    ],
+    "classic russian rock": [
+        "rock",
+        "classic"
+    ],
+    "german power metal": [
+        "metal",
+        "power"
+    ],
+    "uk melodic rap": [
+        "rap"
+    ],
+    "finnish power metal": [
+        "metal",
+        "power"
+    ],
+    "indie quebecois": [
+        "indie"
+    ],
+    "traphall": [
+        "trap"
+    ],
+    "german alternative rock": [
+        "rock",
+        "alternative"
+    ],
+    "bc underground hip hop": [
+        "hip-hop"
+    ],
+    "danish metal": [
+        "metal"
+    ],
+    "portuguese pop": [
+        "pop"
+    ],
+    "south african alternative": [
+        "alternative"
+    ],
+    "morelos indie": [
+        "indie"
+    ],
+    "j-metal": [
+        "metal"
+    ],
+    "folk punk": [
+        "punk",
+        "folk"
+    ],
+    "colombian rock": [
+        "rock"
+    ],
+    "pop violin": [
+        "pop"
+    ],
+    "scam rap": [
+        "rap"
+    ],
+    "medieval folk": [
+        "folk"
+    ],
+    "alternative pop": [
+        "pop",
+        "alternative"
+    ],
+    "german pop rock": [
+        "rock",
+        "pop"
+    ],
+    "israeli rock": [
+        "rock"
+    ],
+    "cologne indie": [
+        "indie"
+    ],
+    "russian post-punk": [
+        "punk"
+    ],
+    "nz reggae": [
+        "reggae"
+    ],
+    "australian garage punk": [
+        "punk"
+    ],
+    "japanese classical": [
+        "classic"
+    ],
+    "swedish indie rock": [
+        "rock",
+        "indie"
+    ],
+    "guadalajara indie": [
+        "indie"
+    ],
+    "irish folk": [
+        "folk"
+    ],
+    "comedy rap": [
+        "rap"
+    ],
+    "gospel antigas": [
+        "gospel"
+    ],
+    "peruvian rock": [
+        "rock"
+    ],
+    "instrumental grime": [
+        "instrumental"
+    ],
+    "progressive metalcore": [
+        "metal"
+    ],
+    "australian metalcore": [
+        "metal"
+    ],
+    "veracruz indie": [
+        "indie"
+    ],
+    "thai indie pop": [
+        "pop",
+        "indie"
+    ],
+    "rock brasiliense": [
+        "rock"
+    ],
+    "bergen indie": [
+        "indie"
+    ],
+    "german r&b": [
+        "r&b"
+    ],
+    "funky house": [
+        "house",
+        "funk"
+    ],
+    "uk house": [
+        "house"
+    ],
+    "swiss indie": [
+        "indie"
+    ],
+    "south african rock": [
+        "rock"
+    ],
+    "minimal tech house": [
+        "house"
+    ],
+    "christian metal": [
+        "metal"
+    ],
+    "boston indie": [
+        "indie"
+    ],
+    "icelandic pop": [
+        "pop"
+    ],
+    "kosovan pop": [
+        "pop"
+    ],
+    "argentine alternative rock": [
+        "rock",
+        "alternative"
+    ],
+    "rock kapak": [
+        "rock"
+    ],
+    "psychedelic trance": [
+        "psychedelic"
+    ],
+    "romanian trap": [
+        "trap"
+    ],
+    "kansas city hip hop": [
+        "hip-hop"
+    ],
+    "indonesian pop punk": [
+        "pop",
+        "punk"
+    ],
+    "swedish death metal": [
+        "metal"
+    ],
+    "black metal": [
+        "metal"
+    ],
+    "classic turkish pop": [
+        "pop",
+        "classic"
+    ],
+    "indonesian folk": [
+        "folk"
+    ],
+    "australian alternative pop": [
+        "pop",
+        "alternative"
+    ],
+    "icelandic indie": [
+        "indie"
+    ],
+    "russian emo rap": [
+        "rap"
+    ],
+    "vietnamese hip hop": [
+        "hip-hop"
+    ],
+    "indonesian alternative rock": [
+        "rock",
+        "alternative"
+    ],
+    "classic israeli pop": [
+        "pop",
+        "classic"
+    ],
+    "dinner jazz": [
+        "jazz"
+    ],
+    "space rock": [
+        "rock"
+    ],
+    "brazilian indie": [
+        "indie"
+    ],
+    "belgian rock": [
+        "rock"
+    ],
+    "rap inde": [
+        "rap"
+    ],
+    "australian trap": [
+        "trap"
+    ],
+    "pop folk": [
+        "pop",
+        "folk"
+    ],
+    "okinawan pop": [
+        "pop"
+    ],
+    "indonesian worship": [
+        "worship"
+    ],
+    "pop quebecois": [
+        "pop"
+    ],
+    "scottish indie": [
+        "indie"
+    ],
+    "seattle indie": [
+        "indie"
+    ],
+    "new orleans jazz": [
+        "jazz"
+    ],
+    "french soundtrack": [
+        "soundtrack"
+    ],
+    "rock gaucho": [
+        "rock"
+    ],
+    "lebanese pop": [
+        "pop"
+    ],
+    "norwegian rock": [
+        "rock"
+    ],
+    "r&b italiano": [
+        "r&b"
+    ],
+    "swedish hard rock": [
+        "rock"
+    ],
+    "newcastle nsw indie": [
+        "indie"
+    ],
+    "ukrainian viral pop": [
+        "pop"
+    ],
+    "folk metal": [
+        "metal",
+        "folk"
+    ],
+    "argentine punk": [
+        "punk"
+    ],
+    "reggaeton cristiano": [
+        "reggae"
+    ],
+    "chicago hardcore": [
+        "hardcore"
+    ],
+    "singaporean mandopop": [
+        "pop"
+    ],
+    "folk rock italiano": [
+        "rock",
+        "folk"
+    ],
+    "gothenburg indie": [
+        "indie"
+    ],
+    "danish pop rock": [
+        "rock",
+        "pop"
+    ],
+    "indie curitibano": [
+        "indie"
+    ],
+    "north east england indie": [
+        "indie"
+    ],
+    "noise rock": [
+        "rock"
+    ],
+    "j-indie": [
+        "indie"
+    ],
+    "progressive groove metal": [
+        "metal"
+    ],
+    "classic polish pop": [
+        "pop",
+        "classic"
+    ],
+    "nashville hip hop": [
+        "hip-hop"
+    ],
+    "underground rap": [
+        "rap"
+    ],
+    "punk urbano": [
+        "punk"
+    ],
+    "karadeniz pop": [
+        "pop"
+    ],
+    "japanese punk rock": [
+        "rock",
+        "punk"
+    ],
+    "sludge metal": [
+        "metal"
+    ],
+    "norwegian hip hop": [
+        "hip-hop"
+    ],
+    "czech folk": [
+        "folk"
+    ],
+    "trap antillais": [
+        "trap"
+    ],
+    "kiwi rock": [
+        "rock"
+    ],
+    "polish rock": [
+        "rock"
+    ],
+    "dark synthpop": [
+        "pop"
+    ],
+    "electroclash": [
+        "electronic"
+    ],
+    "icelandic rock": [
+        "rock"
+    ],
+    "moroccan pop": [
+        "pop"
+    ],
+    "uk pop punk": [
+        "pop",
+        "punk"
+    ],
+    "mexican classic rock": [
+        "rock",
+        "classic"
+    ],
+    "swedish soul": [
+        "soul"
+    ],
+    "classic malaysian pop": [
+        "pop",
+        "classic"
+    ],
+    "hungarian rock": [
+        "rock"
+    ],
+    "thai indie rock": [
+        "rock",
+        "indie"
+    ],
+    "opera metal": [
+        "metal"
+    ],
+    "r&b argentino": [
+        "r&b"
+    ],
+    "austrian pop": [
+        "pop"
+    ],
+    "jangle pop": [
+        "pop"
+    ],
+    "modern jazz piano": [
+        "jazz"
+    ],
+    "italian alternative": [
+        "alternative"
+    ],
+    "yugoslav rock": [
+        "rock"
+    ],
+    "rock andaluz": [
+        "rock"
+    ],
+    "maga rap": [
+        "rap"
+    ],
+    "pop chileno": [
+        "pop"
+    ],
+    "indie rock mexicano": [
+        "rock",
+        "indie"
+    ],
+    "chinese r&b": [
+        "r&b"
+    ],
+    "mexican pop punk": [
+        "pop",
+        "punk"
+    ],
+    "alternative americana": [
+        "alternative"
+    ],
+    "folktronica": [
+        "folk"
+    ],
+    "deutschrock": [
+        "rock"
+    ],
+    "saskatchewan indie": [
+        "indie"
+    ],
+    "texas pop punk": [
+        "pop",
+        "punk"
+    ],
+    "classic colombian pop": [
+        "pop",
+        "classic"
+    ],
+    "brutal death metal": [
+        "metal"
+    ],
+    "british alternative rock": [
+        "rock",
+        "alternative"
+    ],
+    "neo r&b": [
+        "r&b"
+    ],
+    "city pop": [
+        "pop"
+    ],
+    "ukrainian hip hop": [
+        "hip-hop"
+    ],
+    "afghan pop": [
+        "pop"
+    ],
+    "bay area indie": [
+        "indie"
+    ],
+    "ectofolk": [
+        "folk"
+    ],
+    "buffalo hip hop": [
+        "hip-hop"
+    ],
+    "indie catala": [
+        "indie"
+    ],
+    "celtic metal": [
+        "metal"
+    ],
+    "doom metal": [
+        "metal"
+    ],
+    "funk das antigas": [
+        "funk"
+    ],
+    "rap sardegna": [
+        "rap"
+    ],
+    "tribal house": [
+        "house"
+    ],
+    "japanese trap": [
+        "trap"
+    ],
+    "viking metal": [
+        "metal"
+    ],
+    "japanese instrumental": [
+        "instrumental"
+    ],
+    "christlicher rap": [
+        "rap"
+    ],
+    "bitpop": [
+        "pop"
+    ],
+    "electro jazz": [
+        "electronic",
+        "jazz"
+    ],
+    "future rock": [
+        "rock"
+    ],
+    "scandinavian r&b": [
+        "r&b"
+    ],
+    "experimental r&b": [
+        "r&b"
+    ],
+    "acoustic rock": [
+        "rock"
+    ],
+    "egyptian hip hop": [
+        "hip-hop"
+    ],
+    "latinx alternative": [
+        "alternative"
+    ],
+    "swedish reggae": [
+        "reggae"
+    ],
+    "gothic rock": [
+        "rock"
+    ],
+    "classic kollywood": [
+        "classic"
+    ],
+    "classic garage rock": [
+        "rock",
+        "classic"
+    ],
+    "canadian soundtrack": [
+        "soundtrack"
+    ],
+    "hip hop quebecois": [
+        "hip-hop"
+    ],
+    "classic disco polo": [
+        "classic",
+        "disco"
+    ],
+    "rock mineiro": [
+        "rock"
+    ],
+    "celtic punk": [
+        "punk"
+    ],
+    "magyar alternative": [
+        "alternative"
+    ],
+    "deep pop edm": [
+        "pop"
+    ],
+    "indonesian viral pop": [
+        "pop"
+    ],
+    "belgian indie": [
+        "indie"
+    ],
+    "taiwan hip hop": [
+        "hip-hop"
+    ],
+    "korean instrumental": [
+        "instrumental"
+    ],
+    "classic house": [
+        "classic",
+        "house"
+    ],
+    "ann arbor indie": [
+        "indie"
+    ],
+    "washington indie": [
+        "indie"
+    ],
+    "boston folk": [
+        "folk"
+    ],
+    "transpop": [
+        "pop"
+    ],
+    "nottingham hip hop": [
+        "hip-hop"
+    ],
+    "early us punk": [
+        "punk"
+    ],
+    "japanese alternative pop": [
+        "pop",
+        "alternative"
+    ],
+    "texas metal": [
+        "metal"
+    ],
+    "lithuanian electronic": [
+        "electronic"
+    ],
+    "battle rap": [
+        "rap"
+    ],
+    "thai rock": [
+        "rock"
+    ],
+    "rune folk": [
+        "folk"
+    ],
+    "piano blues": [
+        "blues"
+    ],
+    "arab electronic": [
+        "electronic"
+    ],
+    "croatian pop": [
+        "pop"
+    ],
+    "hyperpop en espanol": [
+        "pop"
+    ],
+    "puerto rican rock": [
+        "rock"
+    ],
+    "german metalcore": [
+        "metal"
+    ],
+    "canadian folk": [
+        "folk"
+    ],
+    "indian folk": [
+        "folk"
+    ],
+    "hungarian hip hop": [
+        "hip-hop"
+    ],
+    "indonesian lo-fi pop": [
+        "pop"
+    ],
+    "brega funk": [
+        "funk"
+    ],
+    "brazilian punk": [
+        "punk"
+    ],
+    "ghanaian hip hop": [
+        "hip-hop"
+    ],
+    "texas blues": [
+        "blues"
+    ],
+    "classic iskelma": [
+        "classic"
+    ],
+    "egyptian trap": [
+        "trap"
+    ],
+    "witch house": [
+        "house"
+    ],
+    "classic belgian pop": [
+        "pop",
+        "classic"
+    ],
+    "free jazz": [
+        "jazz"
+    ],
+    "symphonic power metal": [
+        "metal",
+        "power"
+    ],
+    "south african house": [
+        "house"
+    ],
+    "toronto indie": [
+        "indie"
+    ],
+    "kurdish pop": [
+        "pop"
+    ],
+    "chicago blues": [
+        "blues"
+    ],
+    "chicago house": [
+        "house"
+    ],
+    "american folk revival": [
+        "folk"
+    ],
+    "jazz trio": [
+        "jazz"
+    ],
+    "ghanaian alternative": [
+        "alternative"
+    ],
+    "britpop revival": [
+        "pop"
+    ],
+    "classic arab pop": [
+        "pop",
+        "classic"
+    ],
+    "new jersey underground rap": [
+        "rap"
+    ],
+    "oc rap": [
+        "rap"
+    ],
+    "nordic soundtrack": [
+        "soundtrack"
+    ],
+    "emo rap italiano": [
+        "rap"
+    ],
+    "steampunk": [
+        "punk"
+    ],
+    "auckland indie": [
+        "indie"
+    ],
+    "bulgarian pop": [
+        "pop"
+    ],
+    "rap catala": [
+        "rap"
+    ],
+    "technical death metal": [
+        "metal"
+    ],
+    "thai hip hop": [
+        "hip-hop"
+    ],
+    "children's folk": [
+        "folk"
+    ],
+    "brisbane indie": [
+        "indie"
+    ],
+    "volkspop": [
+        "pop"
+    ],
+    "russian punk": [
+        "punk"
+    ],
+    "turkish instrumental": [
+        "instrumental"
+    ],
+    "gospel r&b": [
+        "gospel",
+        "r&b"
+    ],
+    "kazakh hip hop": [
+        "hip-hop"
+    ],
+    "swiss pop": [
+        "pop"
+    ],
+    "christian metalcore": [
+        "metal"
+    ],
+    "trap beats": [
+        "trap"
+    ],
+    "trap dominicano": [
+        "trap"
+    ],
+    "east coast reggae": [
+        "reggae"
+    ],
+    "indie viet": [
+        "indie"
+    ],
+    "classic peruvian pop": [
+        "pop",
+        "classic"
+    ],
+    "japanese viral pop": [
+        "pop"
+    ],
+    "czsk emo rap": [
+        "rap"
+    ],
+    "welsh metal": [
+        "metal"
+    ],
+    "nordic house": [
+        "house"
+    ],
+    "trap pesado": [
+        "trap"
+    ],
+    "rap uliczny": [
+        "rap"
+    ],
+    "classic russian pop": [
+        "pop",
+        "classic"
+    ],
+    "dark post-punk": [
+        "punk"
+    ],
+    "swedish country": [
+        "country"
+    ],
+    "modern ska punk": [
+        "punk"
+    ],
+    "metallic hardcore": [
+        "metal",
+        "hardcore"
+    ],
+    "indonesian hip hop": [
+        "hip-hop"
+    ],
+    "rap lyonnais": [
+        "rap"
+    ],
+    "spanish folk metal": [
+        "metal",
+        "folk"
+    ],
+    "swedish indie folk": [
+        "indie",
+        "folk"
+    ],
+    "gothenburg metal": [
+        "metal"
+    ],
+    "classic finnish pop": [
+        "pop",
+        "classic"
+    ],
+    "texas latin rap": [
+        "rap"
+    ],
+    "ecm-style jazz": [
+        "jazz"
+    ],
+    "vintage italian soundtrack": [
+        "soundtrack"
+    ],
+    "psychedelic doom": [
+        "psychedelic"
+    ],
+    "viking folk": [
+        "folk"
+    ],
+    "san diego rap": [
+        "rap"
+    ],
+    "brit funk": [
+        "funk"
+    ],
+    "colombian indie": [
+        "indie"
+    ],
+    "souldies": [
+        "soul"
+    ],
+    "pinoy alternative rap": [
+        "rap",
+        "alternative"
+    ],
+    "spanish modern rock": [
+        "rock"
+    ],
+    "rap antillais": [
+        "rap"
+    ],
+    "naija worship": [
+        "worship"
+    ],
+    "turkce kadin rap": [
+        "rap"
+    ],
+    "latin classical": [
+        "classic"
+    ],
+    "digital hardcore": [
+        "hardcore"
+    ],
+    "uk tech house": [
+        "house"
+    ],
+    "punk 'n' roll": [
+        "punk"
+    ],
+    "central asian hip hop": [
+        "hip-hop"
+    ],
+    "horror punk": [
+        "punk"
+    ],
+    "russian electronic": [
+        "electronic"
+    ],
+    "slc indie": [
+        "indie"
+    ],
+    "french jazz": [
+        "jazz"
+    ],
+    "country gospel": [
+        "country",
+        "gospel"
+    ],
+    "northern irish indie": [
+        "indie"
+    ],
+    "israeli hip hop": [
+        "hip-hop"
+    ],
+    "nottingham indie": [
+        "indie"
+    ],
+    "australian indie rock": [
+        "rock",
+        "indie"
+    ],
+    "trap peruano": [
+        "trap"
+    ],
+    "trap catala": [
+        "trap"
+    ],
+    "alberta country": [
+        "country"
+    ],
+    "german indie folk": [
+        "indie",
+        "folk"
+    ],
+    "persian hip hop": [
+        "hip-hop"
+    ],
+    "samba-rock": [
+        "rock"
+    ],
+    "australian underground hip hop": [
+        "hip-hop"
+    ],
+    "louisiana blues": [
+        "blues"
+    ],
+    "afro house": [
+        "house"
+    ],
+    "country blues": [
+        "blues",
+        "country"
+    ],
+    "classic finnish rock": [
+        "rock",
+        "classic"
+    ],
+    "sacramento hip hop": [
+        "hip-hop"
+    ],
+    "samba-jazz": [
+        "jazz"
+    ],
+    "australian r&b": [
+        "r&b"
+    ],
+    "latin viral rap": [
+        "rap"
+    ],
+    "hard alternative": [
+        "alternative"
+    ],
+    "venezuelan rock": [
+        "rock"
+    ],
+    "irish country": [
+        "country"
+    ],
+    "finnish alternative rock": [
+        "rock",
+        "alternative"
+    ],
+    "vietnamese melodic rap": [
+        "rap"
+    ],
+    "peruvian hip hop": [
+        "hip-hop"
+    ],
+    "minneapolis indie": [
+        "indie"
+    ],
+    "indonesian city pop": [
+        "pop"
+    ],
+    "nashville indie": [
+        "indie"
+    ],
+    "new jersey hardcore": [
+        "hardcore"
+    ],
+    "alabama indie": [
+        "indie"
+    ],
+    "soulful house": [
+        "house",
+        "soul"
+    ],
+    "japanese pop punk": [
+        "pop",
+        "punk"
+    ],
+    "icelandic classical": [
+        "classic"
+    ],
+    "asbury park indie": [
+        "indie"
+    ],
+    "popping": [
+        "pop"
+    ],
+    "balkan hip hop": [
+        "hip-hop"
+    ],
+    "portland indie": [
+        "indie"
+    ],
+    "malaysian mandopop": [
+        "pop"
+    ],
+    "swedish melodic rock": [
+        "rock"
+    ],
+    "pinoy pop punk": [
+        "pop",
+        "punk"
+    ],
+    "german viral rap": [
+        "rap"
+    ],
+    "japanese metalcore": [
+        "metal"
+    ],
+    "electro-industrial": [
+        "electronic"
+    ],
+    "jewish pop": [
+        "pop"
+    ],
+    "concepcion indie": [
+        "indie"
+    ],
+    "nepali pop": [
+        "pop"
+    ],
+    "post-doom metal": [
+        "metal"
+    ],
+    "indiana hip hop": [
+        "hip-hop"
+    ],
+    "monterrey indie": [
+        "indie"
+    ],
+    "spanish noise pop": [
+        "pop"
+    ],
+    "italian soundtrack": [
+        "soundtrack"
+    ],
+    "rock independant francais": [
+        "rock"
+    ],
+    "reggae cover": [
+        "reggae"
+    ],
+    "magyar trap": [
+        "trap"
+    ],
+    "acoustic punk": [
+        "punk"
+    ],
+    "jamaican hip hop": [
+        "hip-hop"
+    ],
+    "romanian rap": [
+        "rap"
+    ],
+    "dutch metal": [
+        "metal"
+    ],
+    "tagalog worship": [
+        "worship"
+    ],
+    "bandung indie": [
+        "indie"
+    ],
+    "glam punk": [
+        "punk"
+    ],
+    "rap boricua": [
+        "rap"
+    ],
+    "funk 150 bpm": [
+        "funk"
+    ],
+    "south african hip hop": [
+        "hip-hop"
+    ],
+    "lo-fi house": [
+        "house"
+    ],
+    "hardcore": [
+        "hardcore"
+    ],
+    "latin funk": [
+        "funk"
+    ],
+    "norwegian country": [
+        "country"
+    ],
+    "ukrainian indie": [
+        "indie"
+    ],
+    "samba reggae": [
+        "reggae"
+    ],
+    "irish hip hop": [
+        "hip-hop"
+    ],
+    "malaysian indie": [
+        "indie"
+    ],
+    "perth indie": [
+        "indie"
+    ],
+    "emo trap en espanol": [
+        "trap"
+    ],
+    "industrial hip hop": [
+        "hip-hop"
+    ],
+    "classic thai pop": [
+        "pop",
+        "classic"
+    ],
+    "bouncy house": [
+        "house"
+    ],
+    "neoclassicism": [
+        "classic"
+    ],
+    "finnish heavy metal": [
+        "metal"
+    ],
+    "kindie rock": [
+        "rock",
+        "indie"
+    ],
+    "modern indie folk": [
+        "indie",
+        "folk"
+    ],
+    "japanese old school hip hop": [
+        "hip-hop"
+    ],
+    "lithuanian pop": [
+        "pop"
+    ],
+    "gypsy jazz": [
+        "jazz"
+    ],
+    "reggae tuga": [
+        "reggae"
+    ],
+    "flute rock": [
+        "rock"
+    ],
+    "russian indie": [
+        "indie"
+    ],
+    "thai trap": [
+        "trap"
+    ],
+    "mande pop": [
+        "pop"
+    ],
+    "leicester indie": [
+        "indie"
+    ],
+    "canadian old school hip hop": [
+        "hip-hop"
+    ],
+    "classical tenor": [
+        "classic"
+    ],
+    "dark rock": [
+        "rock"
+    ],
+    "moldovan pop": [
+        "pop"
+    ],
+    "swedish garage rock": [
+        "rock"
+    ],
+    "japanese jazz fusion": [
+        "jazz"
+    ],
+    "kazakh pop": [
+        "pop"
+    ],
+    "nuevo folklore mexicano": [
+        "folk"
+    ],
+    "west coast reggae": [
+        "reggae"
+    ],
+    "progressive jazz fusion": [
+        "jazz"
+    ],
+    "pop teen brasileiro": [
+        "pop"
+    ],
+    "belo horizonte indie": [
+        "indie"
+    ],
+    "oldschool deutschrap": [
+        "rap"
+    ],
+    "balkan trap": [
+        "trap"
+    ],
+    "k-rock": [
+        "rock"
+    ],
+    "birmingham hip hop": [
+        "hip-hop"
+    ],
+    "piano worship": [
+        "worship"
+    ],
+    "rock catala": [
+        "rock"
+    ],
+    "cologne hip hop": [
+        "hip-hop"
+    ],
+    "contemporary gospel": [
+        "gospel"
+    ],
+    "bergamo indie": [
+        "indie"
+    ],
+    "japanese pop rap": [
+        "pop",
+        "rap"
+    ],
+    "classic french pop": [
+        "pop",
+        "classic"
+    ],
+    "japanese jazz": [
+        "jazz"
+    ],
+    "indie dream pop": [
+        "pop",
+        "indie"
+    ],
+    "turkish soundtrack": [
+        "soundtrack"
+    ],
+    "classic czech pop": [
+        "pop",
+        "classic"
+    ],
+    "dark jazz": [
+        "jazz"
+    ],
+    "psychedelic pop": [
+        "pop",
+        "psychedelic"
+    ],
+    "groove gospel": [
+        "gospel"
+    ],
+    "argentine heavy metal": [
+        "metal"
+    ],
+    "rock baiano": [
+        "rock"
+    ],
+    "korean city pop": [
+        "pop"
+    ],
+    "popwave": [
+        "pop"
+    ],
+    "smutny rap": [
+        "rap"
+    ],
+    "punk rock mexicano": [
+        "rock",
+        "punk"
+    ],
+    "chinese idol pop": [
+        "pop"
+    ],
+    "swiss hip hop": [
+        "hip-hop"
+    ],
+    "italian reggae": [
+        "reggae"
+    ],
+    "christian punk": [
+        "punk"
+    ],
+    "new orleans blues": [
+        "blues"
+    ],
+    "scottish indie rock": [
+        "rock",
+        "indie"
+    ],
+    "slovak hip hop": [
+        "hip-hop"
+    ],
+    "indie rockism": [
+        "rock",
+        "indie"
+    ],
+    "slovak pop": [
+        "pop"
+    ],
+    "new jersey punk": [
+        "punk"
+    ],
+    "nederreggae": [
+        "reggae"
+    ],
+    "chinese hip hop": [
+        "hip-hop"
+    ],
+    "rap nacional antigo": [
+        "rap"
+    ],
+    "hip-hop experimental": [
+        "hip-hop"
+    ],
+    "arab trap": [
+        "trap"
+    ],
+    "norwegian metal": [
+        "metal"
+    ],
+    "indonesian reggae": [
+        "reggae"
+    ],
+    "rap anime": [
+        "rap"
+    ],
+    "finnish trap": [
+        "trap"
+    ],
+    "teen pop": [
+        "pop"
+    ],
+    "venezuelan indie": [
+        "indie"
+    ],
+    "classic hungarian pop": [
+        "pop",
+        "classic"
+    ],
+    "classic praise": [
+        "classic"
+    ],
+    "rap feminino nacional": [
+        "rap"
+    ],
+    "suomirap": [
+        "rap"
+    ],
+    "nz hip hop": [
+        "hip-hop"
+    ],
+    "classic dubstep": [
+        "classic"
+    ],
+    "instrumental post-rock": [
+        "rock",
+        "instrumental"
+    ],
+    "belarusian indie": [
+        "indie"
+    ],
+    "reggae cristao": [
+        "reggae"
+    ],
+    "french metal": [
+        "metal"
+    ],
+    "new italo disco": [
+        "disco"
+    ],
+    "rap uruguayo": [
+        "rap"
+    ],
+    "japanese post-hardcore": [
+        "hardcore"
+    ],
+    "hyperpop francais": [
+        "pop"
+    ],
+    "russian hyperpop": [
+        "pop"
+    ],
+    "classic tollywood": [
+        "classic"
+    ],
+    "canadian post-hardcore": [
+        "hardcore"
+    ],
+    "classic j-rock": [
+        "rock",
+        "classic"
+    ],
+    "tempe indie": [
+        "indie"
+    ],
+    "polish reggae": [
+        "reggae"
+    ],
+    "british power metal": [
+        "metal",
+        "power"
+    ],
+    "rap montrealais": [
+        "rap"
+    ],
+    "cumbia andina mexicana": [
+        "mexican"
+    ],
+    "contemporary classical": [
+        "classic"
+    ],
+    "south african pop dance": [
+        "pop"
+    ],
+    "josei rap": [
+        "rap"
+    ],
+    "garage pop": [
+        "pop"
+    ],
+    "victoria bc indie": [
+        "indie"
+    ],
+    "viral trap": [
+        "trap"
+    ],
+    "cancion infantil mexicana": [
+        "mexican"
+    ],
+    "polish indie": [
+        "indie"
+    ],
+    "australian post-hardcore": [
+        "hardcore"
+    ],
+    "classic venezuelan pop": [
+        "pop",
+        "classic"
+    ],
+    "queer country": [
+        "country"
+    ],
+    "belarusian hip hop": [
+        "hip-hop"
+    ],
+    "rap baixada fluminense": [
+        "rap"
+    ],
+    "spanish synthpop": [
+        "pop"
+    ],
+    "russian witch house": [
+        "house"
+    ],
+    "albuquerque indie": [
+        "indie"
+    ],
+    "delta blues": [
+        "blues"
+    ],
+    "danish alternative rock": [
+        "rock",
+        "alternative"
+    ],
+    "swiss rock": [
+        "rock"
+    ],
+    "turkish modern jazz": [
+        "jazz"
+    ],
+    "indie liguria": [
+        "indie"
+    ],
+    "indian classical": [
+        "classic"
+    ],
+    "uk experimental electronic": [
+        "electronic"
+    ],
+    "assamese pop": [
+        "pop"
+    ],
+    "twee pop": [
+        "pop"
+    ],
+    "boston punk": [
+        "punk"
+    ],
+    "czech pop rock": [
+        "rock",
+        "pop"
+    ],
+    "rap regio": [
+        "rap"
+    ],
+    "appalachian folk": [
+        "folk"
+    ],
+    "neurofunk": [
+        "funk"
+    ],
+    "kawaii metal": [
+        "metal"
+    ],
+    "trap tuga": [
+        "trap"
+    ],
+    "rap romantico": [
+        "rap"
+    ],
+    "vintage french electronic": [
+        "electronic"
+    ],
+    "sudanese pop": [
+        "pop"
+    ],
+    "japanese dance pop": [
+        "pop"
+    ],
+    "polish punk": [
+        "punk"
+    ],
+    "dark disco": [
+        "disco"
+    ],
+    "j-reggae": [
+        "reggae"
+    ],
+    "chilean hardcore": [
+        "hardcore"
+    ],
+    "finnish death metal": [
+        "metal"
+    ],
+    "american metalcore": [
+        "metal"
+    ],
+    "atlanta indie": [
+        "indie"
+    ],
+    "atlanta metal": [
+        "metal"
+    ],
+    "nantes indie": [
+        "indie"
+    ],
+    "deep tech house": [
+        "house"
+    ],
+    "brazilian soul": [
+        "soul"
+    ],
+    "post-metal": [
+        "metal"
+    ],
+    "african gospel": [
+        "gospel"
+    ],
+    "rap underground argentino": [
+        "rap"
+    ],
+    "traditional country": [
+        "country",
+        "traditional"
+    ],
+    "acid house": [
+        "house"
+    ],
+    "manchester indie": [
+        "indie"
+    ],
+    "oc indie": [
+        "indie"
+    ],
+    "virginia metal": [
+        "metal"
+    ],
+    "melodic groove metal": [
+        "metal"
+    ],
+    "rock alternativo espanol": [
+        "rock"
+    ],
+    "military rap": [
+        "rap"
+    ],
+    "harmonica blues": [
+        "blues"
+    ],
+    "classic persian pop": [
+        "pop",
+        "classic"
+    ],
+    "jazz house": [
+        "jazz",
+        "house"
+    ],
+    "classic greek pop": [
+        "pop",
+        "classic"
+    ],
+    "brazilian metal": [
+        "metal"
+    ],
+    "vintage chinese pop": [
+        "pop"
+    ],
+    "polish alternative rock": [
+        "rock",
+        "alternative"
+    ],
+    "comedy rock": [
+        "rock"
+    ],
+    "rock quebecois": [
+        "rock"
+    ],
+    "north carolina indie": [
+        "indie"
+    ],
+    "french folk pop": [
+        "pop",
+        "folk"
+    ],
+    "instrumental soul": [
+        "instrumental",
+        "soul"
+    ],
+    "south carolina indie": [
+        "indie"
+    ],
+    "greek underground rap": [
+        "rap"
+    ],
+    "j-punk": [
+        "punk"
+    ],
+    "dutch r&b": [
+        "r&b"
+    ],
+    "african rock": [
+        "rock"
+    ],
+    "uk post-punk revival": [
+        "punk"
+    ],
+    "greek indie": [
+        "indie"
+    ],
+    "alternative roots rock": [
+        "rock",
+        "alternative"
+    ],
+    "psychedelic folk": [
+        "folk",
+        "psychedelic"
+    ],
+    "baltimore hip hop": [
+        "hip-hop"
+    ],
+    "canadian classical": [
+        "classic"
+    ],
+    "reggae catala": [
+        "reggae"
+    ],
+    "german punk rock": [
+        "rock",
+        "punk"
+    ],
+    "indie extremena": [
+        "indie"
+    ],
+    "retro metal": [
+        "metal"
+    ],
+    "french tech house": [
+        "house"
+    ],
+    "power-pop punk": [
+        "pop",
+        "punk",
+        "power"
+    ],
+    "russian viral rap": [
+        "rap"
+    ],
+    "french psychedelic": [
+        "psychedelic"
+    ],
+    "brazilian house": [
+        "house"
+    ],
+    "san marcos tx indie": [
+        "indie"
+    ],
+    "neo-traditional bluegrass": [
+        "traditional"
+    ],
+    "russian underground rap": [
+        "rap"
+    ],
+    "boston metal": [
+        "metal"
+    ],
+    "deep southern trap": [
+        "trap"
+    ],
+    "rap cristao": [
+        "rap"
+    ],
+    "flint hip hop": [
+        "hip-hop"
+    ],
+    "estonian pop": [
+        "pop"
+    ],
+    "space age pop": [
+        "pop"
+    ],
+    "german jazz rap": [
+        "rap",
+        "jazz"
+    ],
+    "bhojpuri pop": [
+        "pop"
+    ],
+    "jazz rock": [
+        "rock",
+        "jazz"
+    ],
+    "symphonic black metal": [
+        "metal"
+    ],
+    "reggae gaucho": [
+        "reggae"
+    ],
+    "ambient house": [
+        "house"
+    ],
+    "ontario indie": [
+        "indie"
+    ],
+    "neo-traditional country": [
+        "country",
+        "traditional"
+    ],
+    "pittsburgh indie": [
+        "indie"
+    ],
+    "russian metal": [
+        "metal"
+    ],
+    "orchestra": [
+        "orchestra"
+    ],
+    "tolkien metal": [
+        "metal"
+    ],
+    "malayalam pop": [
+        "pop"
+    ],
+    "italian tech house": [
+        "house"
+    ],
+    "trova mexicana": [
+        "mexican"
+    ],
+    "kingston on indie": [
+        "indie"
+    ],
+    "norwegian trap": [
+        "trap"
+    ],
+    "italian jazz": [
+        "jazz"
+    ],
+    "alaska indie": [
+        "indie"
+    ],
+    "channel islands indie": [
+        "indie"
+    ],
+    "hokkaido indie": [
+        "indie"
+    ],
+    "schweizer rap": [
+        "rap"
+    ],
+    "avant-garde jazz": [
+        "jazz"
+    ],
+    "sinhala pop": [
+        "pop"
+    ],
+    "fremantle indie": [
+        "indie"
+    ],
+    "orlando indie": [
+        "indie"
+    ],
+    "disco polo": [
+        "disco"
+    ],
+    "montreal indie": [
+        "indie"
+    ],
+    "german worship": [
+        "worship"
+    ],
+    "marathi pop": [
+        "pop"
+    ],
+    "arab alternative": [
+        "alternative"
+    ],
+    "japanese indie rock": [
+        "rock",
+        "indie"
+    ],
+    "us power metal": [
+        "metal",
+        "power"
+    ],
+    "korean indie rock": [
+        "rock",
+        "indie"
+    ],
+    "math rock": [
+        "rock"
+    ],
+    "british jazz": [
+        "jazz"
+    ],
+    "swedish progressive metal": [
+        "metal"
+    ],
+    "malay rap": [
+        "rap"
+    ],
+    "memphis blues": [
+        "blues"
+    ],
+    "portuguese rock": [
+        "rock"
+    ],
+    "cuban alternative": [
+        "alternative"
+    ],
+    "trap metal italiana": [
+        "metal",
+        "trap"
+    ],
+    "futurepop": [
+        "pop"
+    ],
+    "uzbek pop": [
+        "pop"
+    ],
+    "jacksonville indie": [
+        "indie"
+    ],
+    "kc indie": [
+        "indie"
+    ],
+    "southern gospel": [
+        "gospel"
+    ],
+    "san diego indie": [
+        "indie"
+    ],
+    "classical performance": [
+        "classic"
+    ],
+    "leipzig electronic": [
+        "electronic"
+    ],
+    "irish indie rock": [
+        "rock",
+        "indie"
+    ],
+    "bangla pop": [
+        "pop"
+    ],
+    "classic bangla pop": [
+        "pop",
+        "classic"
+    ],
+    "traditional folk": [
+        "folk",
+        "traditional"
+    ],
+    "latin soundtrack": [
+        "soundtrack"
+    ],
+    "vienna indie": [
+        "indie"
+    ],
+    "russian punk rock": [
+        "rock",
+        "punk"
+    ],
+    "kurdish hip hop": [
+        "hip-hop"
+    ],
+    "norwegian black metal": [
+        "metal"
+    ],
+    "louisville indie": [
+        "indie"
+    ],
+    "uk worship": [
+        "worship"
+    ],
+    "american contemporary classical": [
+        "classic"
+    ],
+    "hong kong indie": [
+        "indie"
+    ],
+    "indonesian idol pop": [
+        "pop"
+    ],
+    "folklore paraguayo": [
+        "folk"
+    ],
+    "melbourne indie": [
+        "indie"
+    ],
+    "outsider house": [
+        "house"
+    ],
+    "new orleans funk": [
+        "funk"
+    ],
+    "sudanese hip hop": [
+        "hip-hop"
+    ],
+    "slovak rock": [
+        "rock"
+    ],
+    "bristol indie": [
+        "indie"
+    ],
+    "russian modern classical": [
+        "classic"
+    ],
+    "murcia indie": [
+        "indie"
+    ],
+    "melodic hard rock": [
+        "rock"
+    ],
+    "french death metal": [
+        "metal"
+    ],
+    "bolobedu house": [
+        "house"
+    ],
+    "swedish metalcore": [
+        "metal"
+    ],
+    "jazz quartet": [
+        "jazz"
+    ],
+    "musica popular mineira": [
+        "pop"
+    ],
+    "socal indie": [
+        "indie"
+    ],
+    "thai folk rock": [
+        "rock",
+        "folk"
+    ],
+    "indian rock": [
+        "rock"
+    ],
+    "hong kong hip hop": [
+        "hip-hop"
+    ],
+    "estonian hip hop": [
+        "hip-hop"
+    ],
+    "pagan black metal": [
+        "metal"
+    ],
+    "p funk": [
+        "funk"
+    ],
+    "russian viral pop": [
+        "pop"
+    ],
+    "vietnamese pop": [
+        "pop"
+    ],
+    "collage pop": [
+        "pop"
+    ],
+    "azeri rap": [
+        "rap"
+    ],
+    "reading indie": [
+        "indie"
+    ],
+    "chinese electropop": [
+        "electronic",
+        "pop"
+    ],
+    "scottish metal": [
+        "metal"
+    ],
+    "american modern classical": [
+        "classic"
+    ],
+    "south african gospel": [
+        "gospel"
+    ],
+    "melanesian pop": [
+        "pop"
+    ],
+    "folklore surero": [
+        "folk"
+    ],
+    "fidget house": [
+        "house"
+    ],
+    "french indie folk": [
+        "indie",
+        "folk"
+    ],
+    "early synthpop": [
+        "pop"
+    ],
+    "instrumental bluegrass": [
+        "instrumental"
+    ],
+    "polish old school hip hop": [
+        "hip-hop"
+    ],
+    "california hardcore": [
+        "hardcore"
+    ],
+    "czech punk": [
+        "punk"
+    ],
+    "finnish indie": [
+        "indie"
+    ],
+    "musica popular paraense": [
+        "pop"
+    ],
+    "malian blues": [
+        "blues"
+    ],
+    "cowpunk": [
+        "punk"
+    ],
+    "italian metal": [
+        "metal"
+    ],
+    "antilliaanse rap": [
+        "rap"
+    ],
+    "polish metal": [
+        "metal"
+    ],
+    "classic portuguese pop": [
+        "pop",
+        "classic"
+    ],
+    "ukrainian classical": [
+        "classic"
+    ],
+    "virgin islands reggae": [
+        "reggae"
+    ],
+    "folklore ecuatoriano": [
+        "folk"
+    ],
+    "manipuri pop": [
+        "pop"
+    ],
+    "cape town indie": [
+        "indie"
+    ],
+    "american post-rock": [
+        "rock"
+    ],
+    "latin house": [
+        "house"
+    ],
+    "latvian pop": [
+        "pop"
+    ],
+    "vermont indie": [
+        "indie"
+    ],
+    "christmas instrumental": [
+        "instrumental"
+    ],
+    "atmospheric black metal": [
+        "metal"
+    ],
+    "bluegrass gospel": [
+        "gospel"
+    ],
+    "glasgow indie": [
+        "indie"
+    ],
+    "japanese chill rap": [
+        "rap"
+    ],
+    "latin tech house": [
+        "house"
+    ],
+    "gypsy punk": [
+        "punk"
+    ],
+    "bosnian pop": [
+        "pop"
+    ],
+    "uk post-hardcore": [
+        "hardcore"
+    ],
+    "rap maromba": [
+        "rap"
+    ],
+    "japanese indie pop": [
+        "pop",
+        "indie"
+    ],
+    "emo punk": [
+        "punk"
+    ],
+    "oriental metal": [
+        "metal"
+    ],
+    "pakistani indie": [
+        "indie"
+    ],
+    "freak folk": [
+        "folk"
+    ],
+    "rochester mn indie": [
+        "indie"
+    ],
+    "scottish electronic": [
+        "electronic"
+    ],
+    "dutch trap": [
+        "trap"
+    ],
+    "himachali pop": [
+        "pop"
+    ],
+    "argentine metal": [
+        "metal"
+    ],
+    "post-post-hardcore": [
+        "hardcore"
+    ],
+    "charlottesville indie": [
+        "indie"
+    ],
+    "south african trap": [
+        "trap"
+    ],
+    "popgaze": [
+        "pop"
+    ],
+    "classic k-pop": [
+        "pop",
+        "classic"
+    ],
+    "azeri traditional": [
+        "traditional"
+    ],
+    "krautrock": [
+        "rock"
+    ],
+    "olympia wa indie": [
+        "indie"
+    ],
+    "electronic djent": [
+        "electronic"
+    ],
+    "turkish punk": [
+        "punk"
+    ],
+    "thai viral pop": [
+        "pop"
+    ],
+    "egyptian alternative": [
+        "alternative"
+    ],
+    "london indie": [
+        "indie"
+    ],
+    "sertanejo gospel": [
+        "gospel"
+    ],
+    "children's choir": [
+        "choir"
+    ],
+    "african reggae": [
+        "reggae"
+    ],
+    "irish indie": [
+        "indie"
+    ],
+    "nordic folk metal": [
+        "metal",
+        "folk"
+    ],
+    "croatian rock": [
+        "rock"
+    ],
+    "oceania soundtrack": [
+        "soundtrack"
+    ],
+    "modern jazz trio": [
+        "jazz"
+    ],
+    "peruvian indie": [
+        "indie"
+    ],
+    "instrumental math rock": [
+        "rock",
+        "instrumental"
+    ],
+    "russian folk rock": [
+        "rock",
+        "folk"
+    ],
+    "tatar pop": [
+        "pop"
+    ],
+    "jump blues": [
+        "blues"
+    ],
+    "german heavy metal": [
+        "metal"
+    ],
+    "christian hardcore": [
+        "hardcore"
+    ],
+    "romanian rock": [
+        "rock"
+    ],
+    "bayerischer rap": [
+        "rap"
+    ],
+    "swedish electronic": [
+        "electronic"
+    ],
+    "russian indie rock": [
+        "rock",
+        "indie"
+    ],
+    "arkansas hip hop": [
+        "hip-hop"
+    ],
+    "classical piano": [
+        "classic"
+    ],
+    "beach house": [
+        "house"
+    ],
+    "thai folk pop": [
+        "pop",
+        "folk"
+    ],
+    "danish electropop": [
+        "electronic",
+        "pop"
+    ],
+    "canadian house": [
+        "house"
+    ],
+    "french worship": [
+        "worship"
+    ],
+    "pop minang": [
+        "pop"
+    ],
+    "swedish punk": [
+        "punk"
+    ],
+    "russian reggae": [
+        "reggae"
+    ],
+    "finnish hard rock": [
+        "rock"
+    ],
+    "k-pop reality show": [
+        "pop"
+    ],
+    "drumfunk": [
+        "funk"
+    ],
+    "reunion pop": [
+        "pop"
+    ],
+    "eugene indie": [
+        "indie"
+    ],
+    "turin indie": [
+        "indie"
+    ],
+    "tanzanian pop": [
+        "pop"
+    ],
+    "korean electropop": [
+        "electronic",
+        "pop"
+    ],
+    "connecticut indie": [
+        "indie"
+    ],
+    "euskal rock": [
+        "rock"
+    ],
+    "neo-trad metal": [
+        "metal"
+    ],
+    "canadian metalcore": [
+        "metal"
+    ],
+    "taiwan idol pop": [
+        "pop"
+    ],
+    "electro dub": [
+        "electronic"
+    ],
+    "rap ivoire": [
+        "rap"
+    ],
+    "classic bhangra": [
+        "classic"
+    ],
+    "swiss metal": [
+        "metal"
+    ],
+    "canto popular uruguayo": [
+        "pop"
+    ],
+    "german post-hardcore": [
+        "hardcore"
+    ],
+    "japanese folk": [
+        "folk"
+    ],
+    "norwegian classical": [
+        "classic"
+    ],
+    "arab folk": [
+        "folk"
+    ],
+    "japanese power metal": [
+        "metal",
+        "power"
+    ],
+    "syrian pop": [
+        "pop"
+    ],
+    "instrumental acoustic guitar": [
+        "instrumental"
+    ],
+    "israeli indie": [
+        "indie"
+    ],
+    "brazilian classical": [
+        "classic"
+    ],
+    "japanese jazztronica": [
+        "jazz"
+    ],
+    "welsh indie": [
+        "indie"
+    ],
+    "rock piauiense": [
+        "rock"
+    ],
+    "rap motywacja": [
+        "rap"
+    ],
+    "cambridgeshire indie": [
+        "indie"
+    ],
+    "folklore boliviano": [
+        "folk"
+    ],
+    "prog metal": [
+        "metal"
+    ],
+    "russian alternative rock": [
+        "rock",
+        "alternative"
+    ],
+    "synth punk": [
+        "punk"
+    ],
+    "experimental classical": [
+        "classic"
+    ],
+    "ska jazz": [
+        "jazz"
+    ],
+    "avant-garde metal": [
+        "metal"
+    ],
+    "jazz metal": [
+        "metal",
+        "jazz"
+    ],
+    "irish electronic": [
+        "electronic"
+    ],
+    "chaotic hardcore": [
+        "hardcore"
+    ],
+    "nuevo folklore argentino": [
+        "folk"
+    ],
+    "technical groove metal": [
+        "metal"
+    ],
+    "british modern classical": [
+        "classic"
+    ],
+    "vispop": [
+        "pop"
+    ],
+    "nepali indie": [
+        "indie"
+    ],
+    "heavy alternative": [
+        "alternative"
+    ],
+    "dutch indie rock": [
+        "rock",
+        "indie"
+    ],
+    "belarusian pop": [
+        "pop"
+    ],
+    "rap siciliano": [
+        "rap"
+    ],
+    "hyperpop brasileiro": [
+        "pop"
+    ],
+    "munich indie": [
+        "indie"
+    ],
+    "nordic folk": [
+        "folk"
+    ],
+    "florida death metal": [
+        "metal"
+    ],
+    "serbian hip hop": [
+        "hip-hop"
+    ],
+    "frankfurt electronic": [
+        "electronic"
+    ],
+    "southern metal": [
+        "metal"
+    ],
+    "instrumental djent": [
+        "instrumental"
+    ],
+    "omaha indie": [
+        "indie"
+    ],
+    "mexican metal": [
+        "metal"
+    ],
+    "chicago pop punk": [
+        "pop",
+        "punk"
+    ],
+    "thai indie": [
+        "indie"
+    ],
+    "vancouver punk": [
+        "punk"
+    ],
+    "hip hop cubano": [
+        "hip-hop"
+    ],
+    "drone metal": [
+        "metal"
+    ],
+    "icelandic folk": [
+        "folk"
+    ],
+    "dc hardcore": [
+        "hardcore"
+    ],
+    "swedish heavy metal": [
+        "metal"
+    ],
+    "polish post-punk": [
+        "punk"
+    ],
+    "nz indie": [
+        "indie"
+    ],
+    "czech classical": [
+        "classic"
+    ],
+    "deep latin alternative": [
+        "alternative"
+    ],
+    "dayton indie": [
+        "indie"
+    ],
+    "deep christian rock": [
+        "rock"
+    ],
+    "jazz trombone": [
+        "jazz"
+    ],
+    "new delhi indie": [
+        "indie"
+    ],
+    "danish indie pop": [
+        "pop",
+        "indie"
+    ],
+    "southern soul blues": [
+        "blues",
+        "soul"
+    ],
+    "folkmusik": [
+        "folk"
+    ],
+    "hong kong rock": [
+        "rock"
+    ],
+    "dalarna indie": [
+        "indie"
+    ],
+    "vintage swedish pop": [
+        "pop"
+    ],
+    "soul flow": [
+        "soul"
+    ],
+    "norwegian folk rock": [
+        "rock",
+        "folk"
+    ],
+    "rap italiano old school": [
+        "rap"
+    ],
+    "industrial pop": [
+        "pop"
+    ],
+    "indie psych-pop": [
+        "pop",
+        "indie"
+    ],
+    "brazilian punk rock": [
+        "rock",
+        "punk"
+    ],
+    "folklore peruano": [
+        "folk"
+    ],
+    "country quebecois": [
+        "country"
+    ],
+    "vietnamese trap": [
+        "trap"
+    ],
+    "polish electronica": [
+        "electronic"
+    ],
+    "west australian hip hop": [
+        "hip-hop"
+    ],
+    "garage house": [
+        "house"
+    ],
+    "ukrainian electronic": [
+        "electronic"
+    ],
+    "canadian modern jazz": [
+        "jazz"
+    ],
+    "turkish metal": [
+        "metal"
+    ],
+    "swamp pop": [
+        "pop"
+    ],
+    "african-american classical": [
+        "classic"
+    ],
+    "desert blues": [
+        "blues"
+    ],
+    "austrian indie": [
+        "indie"
+    ],
+    "scottish folk": [
+        "folk"
+    ],
+    "thai teen pop": [
+        "pop"
+    ],
+    "progressive trance house": [
+        "house"
+    ],
+    "png pop": [
+        "pop"
+    ],
+    "jazz mexicano": [
+        "jazz"
+    ],
+    "dusseldorf electronic": [
+        "electronic"
+    ],
+    "new orleans soul": [
+        "soul"
+    ],
+    "german indie pop": [
+        "pop",
+        "indie"
+    ],
+    "miami indie": [
+        "indie"
+    ],
+    "finnish punk": [
+        "punk"
+    ],
+    "israeli trap": [
+        "trap"
+    ],
+    "nl folk": [
+        "folk"
+    ],
+    "funk mexicano": [
+        "funk"
+    ],
+    "kenyan pop": [
+        "pop"
+    ],
+    "thai folk": [
+        "folk"
+    ],
+    "progressive death metal": [
+        "metal"
+    ],
+    "nz electronic": [
+        "electronic"
+    ],
+    "deep melodic metalcore": [
+        "metal"
+    ],
+    "ukrainian folk rock": [
+        "rock",
+        "folk"
+    ],
+    "guitarra mexicana": [
+        "mexican"
+    ],
+    "gainesville indie": [
+        "indie"
+    ],
+    "czsk viral pop": [
+        "pop"
+    ],
+    "rap criolo": [
+        "rap"
+    ],
+    "dutch tech house": [
+        "house"
+    ],
+    "metal guitar": [
+        "metal"
+    ],
+    "instrumental stoner rock": [
+        "rock",
+        "instrumental"
+    ],
+    "arabic jazz": [
+        "jazz"
+    ],
+    "brazilian thrash metal": [
+        "metal"
+    ],
+    "pinoy idol pop": [
+        "pop"
+    ],
+    "south african jazz": [
+        "jazz"
+    ],
+    "indie cordoba": [
+        "indie"
+    ],
+    "rock alternatif francais": [
+        "rock"
+    ],
+    "funk melody": [
+        "funk"
+    ],
+    "piedmont blues": [
+        "blues"
+    ],
+    "christchurch indie": [
+        "indie"
+    ],
+    "crust punk": [
+        "punk"
+    ],
+    "rap francais nouvelle vague": [
+        "rap"
+    ],
+    "korean dream pop": [
+        "pop"
+    ],
+    "irish metal": [
+        "metal"
+    ],
+    "granada indie": [
+        "indie"
+    ],
+    "japanese post-rock": [
+        "rock"
+    ],
+    "symphonic death metal": [
+        "metal"
+    ],
+    "japanese math rock": [
+        "rock"
+    ],
+    "kurdish folk": [
+        "folk"
+    ],
+    "egg punk": [
+        "punk"
+    ],
+    "greek metal": [
+        "metal"
+    ],
+    "slovenian pop": [
+        "pop"
+    ],
+    "indonesian blues": [
+        "blues"
+    ],
+    "british orchestra": [
+        "orchestra"
+    ],
+    "christian hard rock": [
+        "rock"
+    ],
+    "dunedin indie": [
+        "indie"
+    ],
+    "romanian electronic": [
+        "electronic"
+    ],
+    "hungarian folk": [
+        "folk"
+    ],
+    "swedish doom metal": [
+        "metal"
+    ],
+    "bristol electronic": [
+        "electronic"
+    ],
+    "italian progressive rock": [
+        "rock"
+    ],
+    "electrofox": [
+        "electronic"
+    ],
+    "manitoba indie": [
+        "indie"
+    ],
+    "new wave of thrash metal": [
+        "metal"
+    ],
+    "indonesian indie pop": [
+        "pop",
+        "indie"
+    ],
+    "grand rapids indie": [
+        "rap",
+        "indie"
+    ],
+    "emo trap italiana": [
+        "trap"
+    ],
+    "deep soundtrack": [
+        "soundtrack"
+    ],
+    "danish post-punk": [
+        "punk"
+    ],
+    "ecuadorian indie": [
+        "indie"
+    ],
+    "austrian hip hop": [
+        "hip-hop"
+    ],
+    "denton tx indie": [
+        "indie"
+    ],
+    "vancouver metal": [
+        "metal"
+    ],
+    "german country": [
+        "country"
+    ],
+    "slovak punk": [
+        "punk"
+    ],
+    "kent indie": [
+        "indie"
+    ],
+    "atlanta punk": [
+        "punk"
+    ],
+    "oulu metal": [
+        "metal"
+    ],
+    "birmingham indie": [
+        "indie"
+    ],
+    "malaysian hip hop": [
+        "hip-hop"
+    ],
+    "middle east hip hop": [
+        "hip-hop"
+    ],
+    "tulsa indie": [
+        "indie"
+    ],
+    "galician rock": [
+        "rock"
+    ],
+    "asheville indie": [
+        "indie"
+    ],
+    "neo-rockabilly": [
+        "rock"
+    ],
+    "smooth soul": [
+        "soul"
+    ],
+    "classic greek rock": [
+        "rock",
+        "classic"
+    ],
+    "dark electro": [
+        "electronic"
+    ],
+    "bath indie": [
+        "indie"
+    ],
+    "italian power metal": [
+        "metal",
+        "power"
+    ],
+    "classical guitar": [
+        "classic"
+    ],
+    "glitch pop": [
+        "pop"
+    ],
+    "azeri pop": [
+        "pop"
+    ],
+    "persian rock": [
+        "rock"
+    ],
+    "brazilian hardcore": [
+        "hardcore"
+    ],
+    "norwegian jazz": [
+        "jazz"
+    ],
+    "rap kreyol": [
+        "rap"
+    ],
+    "miami metal": [
+        "metal"
+    ],
+    "indie platense": [
+        "indie"
+    ],
+    "indie siciliano": [
+        "indie"
+    ],
+    "leeds indie": [
+        "indie"
+    ],
+    "orebro indie": [
+        "indie"
+    ],
+    "classic nz pop": [
+        "pop",
+        "classic"
+    ],
+    "michigan indie": [
+        "indie"
+    ],
+    "huayno popular": [
+        "pop"
+    ],
+    "japanese underground rap": [
+        "rap"
+    ],
+    "nordic post-rock": [
+        "rock"
+    ],
+    "classic australian country": [
+        "classic",
+        "country"
+    ],
+    "coral gospel": [
+        "gospel"
+    ],
+    "scouse rap": [
+        "rap"
+    ],
+    "melodic power metal": [
+        "metal",
+        "power"
+    ],
+    "pakistani folk": [
+        "folk"
+    ],
+    "cincinnati rap": [
+        "rap"
+    ],
+    "jazz clarinet": [
+        "jazz"
+    ],
+    "metal mineiro": [
+        "metal"
+    ],
+    "swedish house": [
+        "house"
+    ],
+    "vlaamse rap": [
+        "rap"
+    ],
+    "rock keyboard": [
+        "rock"
+    ],
+    "jazz organ": [
+        "jazz"
+    ],
+    "canadian indie folk": [
+        "indie",
+        "folk"
+    ],
+    "cdmx indie": [
+        "indie"
+    ],
+    "russian metalcore": [
+        "metal"
+    ],
+    "kyushu indie": [
+        "indie"
+    ],
+    "taiwanese indie": [
+        "indie"
+    ],
+    "spanish folk rock": [
+        "rock",
+        "folk"
+    ],
+    "manso indie": [
+        "indie"
+    ],
+    "pop costarricense": [
+        "pop"
+    ],
+    "nz folk": [
+        "folk"
+    ],
+    "german indie rock": [
+        "rock",
+        "indie"
+    ],
+    "duluth indie": [
+        "indie"
+    ],
+    "hindustani classical": [
+        "classic"
+    ],
+    "vgm instrumental": [
+        "instrumental"
+    ],
+    "japanese rockabilly": [
+        "rock"
+    ],
+    "australian metal": [
+        "metal"
+    ],
+    "spiritual hip hop": [
+        "hip-hop"
+    ],
+    "deep disco": [
+        "disco"
+    ],
+    "alabama metal": [
+        "metal"
+    ],
+    "black punk": [
+        "punk"
+    ],
+    "brazilian groove metal": [
+        "metal"
+    ],
+    "man's orchestra": [
+        "orchestra"
+    ],
+    "bulgarian hip hop": [
+        "hip-hop"
+    ],
+    "deep soul house": [
+        "house",
+        "soul"
+    ],
+    "rap angolano": [
+        "rap"
+    ],
+    "early reggae": [
+        "reggae"
+    ],
+    "classic icelandic pop": [
+        "pop",
+        "classic"
+    ],
+    "warrington indie": [
+        "indie"
+    ],
+    "buffalo ny metal": [
+        "metal"
+    ],
+    "samurai trap": [
+        "trap"
+    ],
+    "tampa indie": [
+        "indie"
+    ],
+    "brazilian post-hardcore": [
+        "hardcore"
+    ],
+    "okc indie": [
+        "indie"
+    ],
+    "guatemalan pop": [
+        "pop"
+    ],
+    "german tech house": [
+        "house"
+    ],
+    "alternative ccm": [
+        "alternative"
+    ],
+    "cypriot pop": [
+        "pop"
+    ],
+    "indy indie": [
+        "indie"
+    ],
+    "ghent indie": [
+        "indie"
+    ],
+    "pittsburgh rock": [
+        "rock"
+    ],
+    "rennes indie": [
+        "indie"
+    ],
+    "ambient post-rock": [
+        "rock"
+    ],
+    "jazz cubano": [
+        "jazz"
+    ],
+    "okinawan folk": [
+        "folk"
+    ],
+    "german thrash metal": [
+        "metal"
+    ],
+    "sydney indie": [
+        "indie"
+    ],
+    "igbo pop": [
+        "pop"
+    ],
+    "rap liegeois": [
+        "rap"
+    ],
+    "freeform hardcore": [
+        "hardcore"
+    ],
+    "persian alternative": [
+        "alternative"
+    ],
+    "detroit house": [
+        "house"
+    ],
+    "deep smooth jazz": [
+        "jazz"
+    ],
+    "connecticut hardcore": [
+        "hardcore"
+    ],
+    "thai pop rap": [
+        "pop",
+        "rap"
+    ],
+    "york indie": [
+        "indie"
+    ],
+    "korean indie folk": [
+        "indie",
+        "folk"
+    ],
+    "novo rock gaucho": [
+        "rock"
+    ],
+    "autonomous black metal": [
+        "metal"
+    ],
+    "sorani pop": [
+        "pop"
+    ],
+    "traditional ska": [
+        "traditional"
+    ],
+    "progressive power metal": [
+        "metal",
+        "power"
+    ],
+    "chinese indie rock": [
+        "rock",
+        "indie"
+    ],
+    "indonesian indie rock": [
+        "rock",
+        "indie"
+    ],
+    "afghan rap": [
+        "rap"
+    ],
+    "rhode island indie": [
+        "indie"
+    ],
+    "classic italian folk pop": [
+        "pop",
+        "classic",
+        "folk"
+    ],
+    "alberta hip hop": [
+        "hip-hop"
+    ],
+    "lapland metal": [
+        "metal"
+    ],
+    "brazilian progressive metal": [
+        "metal"
+    ],
+    "fort worth indie": [
+        "indie"
+    ],
+    "jackin' house": [
+        "house"
+    ],
+    "hokkien pop": [
+        "pop"
+    ],
+    "tunisian pop": [
+        "pop"
+    ],
+    "slovenian electronic": [
+        "electronic"
+    ],
+    "classic sinhala pop": [
+        "pop",
+        "classic"
+    ],
+    "hamilton on indie": [
+        "indie"
+    ],
+    "polish death metal": [
+        "metal"
+    ],
+    "uppsala indie": [
+        "indie"
+    ],
+    "munich electronic": [
+        "electronic"
+    ],
+    "croatian hip hop": [
+        "hip-hop"
+    ],
+    "instrumental surf": [
+        "instrumental"
+    ],
+    "rock viet": [
+        "rock"
+    ],
+    "malang indie": [
+        "indie"
+    ],
+    "power blues-rock": [
+        "rock",
+        "blues",
+        "power"
+    ],
+    "british contemporary classical": [
+        "classic"
+    ],
+    "swedish black metal": [
+        "metal"
+    ],
+    "apostolic worship": [
+        "worship"
+    ],
+    "charlotte nc indie": [
+        "indie"
+    ],
+    "russian folk": [
+        "folk"
+    ],
+    "mongolian alternative": [
+        "alternative"
+    ],
+    "straight-ahead jazz": [
+        "jazz"
+    ],
+    "rock chapin": [
+        "rock"
+    ],
+    "anarcho-punk": [
+        "punk"
+    ],
+    "electro trash": [
+        "electronic"
+    ],
+    "rochester ny indie": [
+        "indie"
+    ],
+    "danish jazz": [
+        "jazz"
+    ],
+    "21st century classical": [
+        "classic"
+    ],
+    "belarusian electronic": [
+        "electronic"
+    ],
+    "vintage dutch pop": [
+        "pop"
+    ],
+    "malaysian tamil pop": [
+        "pop"
+    ],
+    "phoenix indie": [
+        "indie"
+    ],
+    "gothenburg hip hop": [
+        "hip-hop"
+    ],
+    "neapolitan funk": [
+        "funk"
+    ],
+    "slovak trap": [
+        "trap"
+    ],
+    "indie rock peruano": [
+        "rock",
+        "indie"
+    ],
+    "family gospel": [
+        "gospel"
+    ],
+    "french punk": [
+        "punk"
+    ],
+    "ethiopian pop": [
+        "pop"
+    ],
+    "new wave of glam metal": [
+        "metal"
+    ],
+    "korean trap": [
+        "trap"
+    ],
+    "reggae maghreb": [
+        "reggae"
+    ],
+    "jazz drums": [
+        "jazz"
+    ],
+    "greek house": [
+        "house"
+    ],
+    "vintage jazz": [
+        "jazz"
+    ],
+    "jazz double bass": [
+        "jazz"
+    ],
+    "catalan folk": [
+        "folk"
+    ],
+    "cincinnati indie": [
+        "indie"
+    ],
+    "drone folk": [
+        "folk"
+    ],
+    "indie valenciana": [
+        "indie"
+    ],
+    "dub reggae": [
+        "reggae"
+    ],
+    "persian electronic": [
+        "electronic"
+    ],
+    "russian trap metal": [
+        "metal",
+        "trap"
+    ],
+    "armenian pop": [
+        "pop"
+    ],
+    "punk chileno": [
+        "punk"
+    ],
+    "garage punk": [
+        "punk"
+    ],
+    "korean underground rap": [
+        "rap"
+    ],
+    "norwegian house": [
+        "house"
+    ],
+    "ostrock": [
+        "rock"
+    ],
+    "guyanese pop": [
+        "pop"
+    ],
+    "tibetan pop": [
+        "pop"
+    ],
+    "trap cristao": [
+        "trap"
+    ],
+    "gothic black metal": [
+        "metal"
+    ],
+    "german jazz": [
+        "jazz"
+    ],
+    "classic punjabi pop": [
+        "pop",
+        "classic"
+    ],
+    "tamaulipas indie": [
+        "indie"
+    ],
+    "mega funk": [
+        "funk"
+    ],
+    "classic dutch pop": [
+        "pop",
+        "classic"
+    ],
+    "indie emo": [
+        "indie"
+    ],
+    "spanish folk": [
+        "folk"
+    ],
+    "funk evangelico": [
+        "funk"
+    ],
+    "spanish reggae": [
+        "reggae"
+    ],
+    "ugandan pop": [
+        "pop"
+    ],
+    "dissonant death metal": [
+        "metal"
+    ],
+    "musica popular amazonense": [
+        "pop"
+    ],
+    "classic azeri pop": [
+        "pop",
+        "classic"
+    ],
+    "icelandic electronic": [
+        "electronic"
+    ],
+    "ethio-jazz": [
+        "jazz"
+    ],
+    "welsh hip hop": [
+        "hip-hop"
+    ],
+    "experimental house": [
+        "house"
+    ],
+    "dark black metal": [
+        "metal"
+    ],
+    "palestinian pop": [
+        "pop"
+    ],
+    "argentine indie rock": [
+        "rock",
+        "indie"
+    ],
+    "melodipop": [
+        "pop"
+    ],
+    "swiss trap": [
+        "trap"
+    ],
+    "kolkata indie": [
+        "indie"
+    ],
+    "swedish stoner rock": [
+        "rock"
+    ],
+    "danish indie": [
+        "indie"
+    ],
+    "gothic alternative": [
+        "alternative"
+    ],
+    "afro-funk": [
+        "funk"
+    ],
+    "japanese garage rock": [
+        "rock"
+    ],
+    "turkish electronic": [
+        "electronic"
+    ],
+    "canadian blues": [
+        "blues"
+    ],
+    "musica popular uruguaya": [
+        "pop"
+    ],
+    "viral pop brasileiro": [
+        "pop"
+    ],
+    "congolese gospel": [
+        "gospel"
+    ],
+    "norrlandsk hip hop": [
+        "hip-hop"
+    ],
+    "nice indie": [
+        "indie"
+    ],
+    "swedish rockabilly": [
+        "rock"
+    ],
+    "portuguese indie": [
+        "indie"
+    ],
+    "polynesian hip hop": [
+        "hip-hop"
+    ],
+    "taiwan punk": [
+        "punk"
+    ],
+    "jazz vibraphone": [
+        "rap",
+        "jazz"
+    ],
+    "turkish classical": [
+        "classic"
+    ],
+    "sinaloa indie": [
+        "indie"
+    ],
+    "rap paranaense": [
+        "rap"
+    ],
+    "burmese pop": [
+        "pop"
+    ],
+    "action rock": [
+        "rock"
+    ],
+    "hamburg indie": [
+        "indie"
+    ],
+    "german hyperpop": [
+        "pop"
+    ],
+    "devon indie": [
+        "indie"
+    ],
+    "canadian hardcore": [
+        "hardcore"
+    ],
+    "italian electronica": [
+        "electronic"
+    ],
+    "spanish post-punk": [
+        "punk"
+    ],
+    "classic hungarian rock": [
+        "rock",
+        "classic"
+    ],
+    "indie shoegaze": [
+        "indie"
+    ],
+    "russian synthpop": [
+        "pop"
+    ],
+    "classic romanian pop": [
+        "pop",
+        "classic"
+    ],
+    "korean electronic": [
+        "electronic"
+    ],
+    "experimental jazz": [
+        "jazz"
+    ],
+    "kids hip hop": [
+        "hip-hop"
+    ],
+    "japanese blues": [
+        "blues"
+    ],
+    "virginia punk": [
+        "punk"
+    ],
+    "spanish indie folk": [
+        "indie",
+        "folk"
+    ],
+    "polish blues": [
+        "blues"
+    ],
+    "geek rock": [
+        "rock"
+    ],
+    "gulf hip hop": [
+        "hip-hop"
+    ],
+    "polish synthpop": [
+        "pop"
+    ],
+    "lithuanian indie": [
+        "indie"
+    ],
+    "truck-driving country": [
+        "country"
+    ],
+    "danish modern jazz": [
+        "jazz"
+    ],
+    "italian folk metal": [
+        "metal",
+        "folk"
+    ],
+    "japanese indie folk": [
+        "indie",
+        "folk"
+    ],
+    "taiwan campus folk": [
+        "folk"
+    ],
+    "classic anime": [
+        "classic"
+    ],
+    "reggae peruano": [
+        "reggae"
+    ],
+    "british black metal": [
+        "metal"
+    ],
+    "cyber metal": [
+        "metal"
+    ],
+    "austin hip hop": [
+        "hip-hop"
+    ],
+    "deep soft rock": [
+        "rock"
+    ],
+    "underground power pop": [
+        "pop",
+        "power"
+    ],
+    "folklore nuevo argentino": [
+        "folk"
+    ],
+    "post-black metal": [
+        "metal"
+    ],
+    "psychedelic punk": [
+        "punk",
+        "psychedelic"
+    ],
+    "chamber folk": [
+        "folk"
+    ],
+    "north carolina metal": [
+        "metal"
+    ],
+    "pop ambient": [
+        "pop"
+    ],
+    "acid jazz": [
+        "jazz"
+    ],
+    "new orleans indie": [
+        "indie"
+    ],
+    "sci-fi metal": [
+        "metal"
+    ],
+    "traditional british folk": [
+        "folk",
+        "traditional"
+    ],
+    "columbus ohio indie": [
+        "indie"
+    ],
+    "kannada hip hop": [
+        "hip-hop"
+    ],
+    "polish black metal": [
+        "metal"
+    ],
+    "canadian underground hip hop": [
+        "hip-hop"
+    ],
+    "louisiana metal": [
+        "metal"
+    ],
+    "finnish classical": [
+        "classic"
+    ],
+    "italo house": [
+        "house"
+    ],
+    "indie napoletano": [
+        "indie"
+    ],
+    "denver indie": [
+        "indie"
+    ],
+    "blues latinoamericano": [
+        "blues"
+    ],
+    "ok indie": [
+        "indie"
+    ],
+    "vocaloid metal": [
+        "metal"
+    ],
+    "lexington ky indie": [
+        "indie"
+    ],
+    "hungarian punk": [
+        "punk"
+    ],
+    "rap femenino mexicano": [
+        "rap"
+    ],
+    "rockabilly en espanol": [
+        "rock"
+    ],
+    "swamp blues": [
+        "blues"
+    ],
+    "deep gothic post-punk": [
+        "punk"
+    ],
+    "utah indie": [
+        "indie"
+    ],
+    "rap underground colombiano": [
+        "rap"
+    ],
+    "paraguayan rock": [
+        "rock"
+    ],
+    "varmland rock": [
+        "rock"
+    ],
+    "british country": [
+        "country"
+    ],
+    "stockholm indie": [
+        "indie"
+    ],
+    "indonesian post-hardcore": [
+        "hardcore"
+    ],
+    "buffalo ny indie": [
+        "indie"
+    ],
+    "guinean pop": [
+        "pop"
+    ],
+    "taiwan rock": [
+        "rock"
+    ],
+    "western mass indie": [
+        "indie"
+    ],
+    "austrian metal": [
+        "metal"
+    ],
+    "rap capixaba": [
+        "rap"
+    ],
+    "odia pop": [
+        "pop"
+    ],
+    "trondheim indie": [
+        "indie"
+    ],
+    "orchestral performance": [
+        "orchestra"
+    ],
+    "kasi rap": [
+        "rap"
+    ],
+    "jazz worship": [
+        "jazz",
+        "worship"
+    ],
+    "cleveland metal": [
+        "metal"
+    ],
+    "brisbane punk": [
+        "punk"
+    ],
+    "belarusian rock": [
+        "rock"
+    ],
+    "cape verdean folk": [
+        "folk"
+    ],
+    "experimental indie": [
+        "indie"
+    ],
+    "long island punk": [
+        "punk"
+    ],
+    "japanese dream pop": [
+        "pop"
+    ],
+    "tennessee metal": [
+        "metal"
+    ],
+    "neofolk": [
+        "folk"
+    ],
+    "cinematic post-rock": [
+        "rock"
+    ],
+    "telugu indie": [
+        "indie"
+    ],
+    "spiritual jazz": [
+        "jazz"
+    ],
+    "punk euskera": [
+        "punk"
+    ],
+    "puerto rican indie": [
+        "indie"
+    ],
+    "bulgarian trap": [
+        "trap"
+    ],
+    "puerto rican folk": [
+        "folk"
+    ],
+    "classic luk thung": [
+        "classic"
+    ],
+    "quebec punk": [
+        "punk"
+    ],
+    "jazzy dnb": [
+        "jazz"
+    ],
+    "bruneian pop": [
+        "pop"
+    ],
+    "newcastle indie": [
+        "indie"
+    ],
+    "pop paraguayo": [
+        "pop"
+    ],
+    "rock of gibraltar": [
+        "rock"
+    ],
+    "deathrock": [
+        "rock"
+    ],
+    "dublin indie": [
+        "indie"
+    ],
+    "classic progressive house": [
+        "classic",
+        "house"
+    ],
+    "deep progressive rock": [
+        "rock"
+    ],
+    "irish neo-traditional": [
+        "traditional"
+    ],
+    "british post-rock": [
+        "rock"
+    ],
+    "milwaukee hip hop": [
+        "hip-hop"
+    ],
+    "south african deep house": [
+        "house"
+    ],
+    "slavic folk metal": [
+        "metal",
+        "folk"
+    ],
+    "portland punk": [
+        "punk"
+    ],
+    "japanese heavy metal": [
+        "metal"
+    ],
+    "soviet synthpop": [
+        "pop"
+    ],
+    "math pop": [
+        "pop"
+    ],
+    "persian traditional": [
+        "traditional"
+    ],
+    "little rock indie": [
+        "rock",
+        "indie"
+    ],
+    "powerviolence": [
+        "power"
+    ],
+    "czech country": [
+        "country"
+    ],
+    "icelandic hip hop": [
+        "hip-hop"
+    ],
+    "dirty texas rap": [
+        "rap"
+    ],
+    "boston hardcore": [
+        "hardcore"
+    ],
+    "japanese psychedelic": [
+        "psychedelic"
+    ],
+    "latvian hip hop": [
+        "hip-hop"
+    ],
+    "samoan pop": [
+        "pop"
+    ],
+    "forro gospel": [
+        "gospel"
+    ],
+    "southampton indie": [
+        "indie"
+    ],
+    "indian electronic": [
+        "electronic"
+    ],
+    "background jazz product": [
+        "jazz"
+    ],
+    "lithuanian hip hop": [
+        "hip-hop"
+    ],
+    "experimental folk": [
+        "folk"
+    ],
+    "rajasthani pop": [
+        "pop"
+    ],
+    "san antonio rap": [
+        "rap"
+    ],
+    "hungarian indie": [
+        "indie"
+    ],
+    "italian gothic metal": [
+        "metal"
+    ],
+    "kannada pop": [
+        "pop"
+    ],
+    "classic japanese jazz": [
+        "classic",
+        "jazz"
+    ],
+    "string folk": [
+        "folk"
+    ],
+    "melodic black metal": [
+        "metal"
+    ],
+    "kentucky punk": [
+        "punk"
+    ],
+    "rap galego": [
+        "rap"
+    ],
+    "windsor on indie": [
+        "indie"
+    ],
+    "kentucky metal": [
+        "metal"
+    ],
+    "british death metal": [
+        "metal"
+    ],
+    "montenegrin pop": [
+        "pop"
+    ],
+    "brazilian power metal": [
+        "metal",
+        "power"
+    ],
+    "norwegian contemporary jazz": [
+        "jazz"
+    ],
+    "sonora indie": [
+        "indie"
+    ],
+    "hungarian underground rap": [
+        "rap"
+    ],
+    "korean worship": [
+        "worship"
+    ],
+    "christian power metal": [
+        "metal",
+        "power"
+    ],
+    "chinese traditional": [
+        "traditional"
+    ],
+    "cosmic post-rock": [
+        "rock"
+    ],
+    "palestinian hip hop": [
+        "hip-hop"
+    ],
+    "haitian gospel": [
+        "gospel"
+    ],
+    "rap feminino chileno": [
+        "rap"
+    ],
+    "folklore chileno": [
+        "folk"
+    ],
+    "idaho indie": [
+        "indie"
+    ],
+    "modern progressive rock": [
+        "rock"
+    ],
+    "kyrgyz hip hop": [
+        "hip-hop"
+    ],
+    "hungarian metal": [
+        "metal"
+    ],
+    "musica eletronica gospel": [
+        "gospel"
+    ],
+    "t-pop girl group": [
+        "pop"
+    ],
+    "bulgarian rock": [
+        "rock"
+    ],
+    "graz indie": [
+        "indie"
+    ],
+    "indie folk italiano": [
+        "indie",
+        "folk"
+    ],
+    "ukrainian post-punk": [
+        "punk"
+    ],
+    "jazz catala": [
+        "jazz"
+    ],
+    "deep east coast hip hop": [
+        "hip-hop"
+    ],
+    "belgian indie rock": [
+        "rock",
+        "indie"
+    ],
+    "greek contemporary classical": [
+        "classic"
+    ],
+    "swiss house": [
+        "house"
+    ],
+    "dark folk": [
+        "folk"
+    ],
+    "brazilian modern jazz": [
+        "jazz"
+    ],
+    "dark hardcore": [
+        "hardcore"
+    ],
+    "dallas indie": [
+        "indie"
+    ],
+    "maine indie": [
+        "indie"
+    ],
+    "texas hardcore": [
+        "hardcore"
+    ],
+    "norrbotten indie": [
+        "indie"
+    ],
+    "viking black metal": [
+        "metal"
+    ],
+    "croatian indie": [
+        "indie"
+    ],
+    "russian pop punk": [
+        "pop",
+        "punk"
+    ],
+    "swedish folk pop": [
+        "pop",
+        "folk"
+    ],
+    "punk rock italiano": [
+        "rock",
+        "punk"
+    ],
+    "chasidic pop": [
+        "pop"
+    ],
+    "rap pernambucano": [
+        "rap"
+    ],
+    "swiss reggae": [
+        "reggae"
+    ],
+    "spanish rockabilly": [
+        "rock"
+    ],
+    "bali indie": [
+        "indie"
+    ],
+    "japanese contemporary classical": [
+        "classic"
+    ],
+    "rock curitibano": [
+        "rock"
+    ],
+    "chinese worship": [
+        "worship"
+    ],
+    "grunge pop": [
+        "pop"
+    ],
+    "rosario indie": [
+        "indie"
+    ],
+    "thai worship": [
+        "worship"
+    ],
+    "peruvian punk": [
+        "punk"
+    ],
+    "deep contemporary country": [
+        "country"
+    ],
+    "japanese vocal jazz": [
+        "jazz"
+    ],
+    "maluku pop": [
+        "pop"
+    ],
+    "slavic metal": [
+        "metal"
+    ],
+    "worcester ma indie": [
+        "indie"
+    ],
+    "czech folk rock": [
+        "rock",
+        "folk"
+    ],
+    "jordanian pop": [
+        "pop"
+    ],
+    "punk catala": [
+        "punk"
+    ],
+    "armenian folk": [
+        "folk"
+    ],
+    "reggae mexicano": [
+        "reggae"
+    ],
+    "pennsylvania hardcore": [
+        "hardcore"
+    ],
+    "rap metal espanol": [
+        "metal",
+        "rap"
+    ],
+    "halifax indie": [
+        "indie"
+    ],
+    "east anglia indie": [
+        "indie"
+    ],
+    "baltic classical": [
+        "classic"
+    ],
+    "venda pop": [
+        "pop"
+    ],
+    "indie folk argentino": [
+        "indie",
+        "folk"
+    ],
+    "spanish electronic": [
+        "electronic"
+    ],
+    "oaxaca indie": [
+        "indie"
+    ],
+    "armenian hip hop": [
+        "hip-hop"
+    ],
+    "tamil worship": [
+        "worship"
+    ],
+    "polish indie rock": [
+        "rock",
+        "indie"
+    ],
+    "arabic instrumental": [
+        "instrumental"
+    ],
+    "dub punk": [
+        "punk"
+    ],
+    "depressive black metal": [
+        "metal"
+    ],
+    "norwegian punk rock": [
+        "rock",
+        "punk"
+    ],
+    "dominican indie": [
+        "indie"
+    ],
+    "tucson indie": [
+        "indie"
+    ],
+    "technical brutal death metal": [
+        "metal"
+    ],
+    "slam death metal": [
+        "metal"
+    ],
+    "indie veneto": [
+        "indie"
+    ],
+    "hard house": [
+        "house"
+    ],
+    "canadian garage rock": [
+        "rock"
+    ],
+    "czech metal": [
+        "metal"
+    ],
+    "ottawa indie": [
+        "indie"
+    ],
+    "indonesian punk": [
+        "punk"
+    ],
+    "swiss folk": [
+        "folk"
+    ],
+    "dutch jazz": [
+        "jazz"
+    ],
+    "psychedelic folk rock": [
+        "rock",
+        "folk",
+        "psychedelic"
+    ],
+    "sinhala rap": [
+        "rap"
+    ],
+    "traditional scottish folk": [
+        "folk",
+        "traditional"
+    ],
+    "ohio indie": [
+        "indie"
+    ],
+    "uk christian rap": [
+        "rap"
+    ],
+    "nordnorsk rap": [
+        "rap"
+    ],
+    "portland metal": [
+        "metal"
+    ],
+    "israeli jazz": [
+        "jazz"
+    ],
+    "jazz brass": [
+        "jazz"
+    ],
+    "galician folk": [
+        "folk"
+    ],
+    "greek psychedelic rock": [
+        "rock",
+        "psychedelic"
+    ],
+    "newfoundland indie": [
+        "indie"
+    ],
+    "psychedelic blues-rock": [
+        "rock",
+        "blues",
+        "psychedelic"
+    ],
+    "deep brazilian pop": [
+        "pop"
+    ],
+    "zambian hip hop": [
+        "hip-hop"
+    ],
+    "mississippi indie": [
+        "indie"
+    ],
+    "experimental electronic": [
+        "electronic"
+    ],
+    "norwegian space disco": [
+        "disco"
+    ],
+    "rock en asturiano": [
+        "rock"
+    ],
+    "cameroonian pop": [
+        "pop"
+    ],
+    "japanese electronic": [
+        "electronic"
+    ],
+    "classic korean pop": [
+        "pop",
+        "classic"
+    ],
+    "bahamian pop": [
+        "pop"
+    ],
+    "flemish folk": [
+        "folk"
+    ],
+    "folklore uruguayo": [
+        "folk"
+    ],
+    "folklore venezolano": [
+        "folk"
+    ],
+    "kansai indie": [
+        "indie"
+    ],
+    "rva indie": [
+        "indie"
+    ],
+    "macedonian folk": [
+        "folk"
+    ],
+    "surinamese pop": [
+        "pop"
+    ],
+    "australian indigenous hip hop": [
+        "hip-hop"
+    ],
+    "electro bailando": [
+        "electronic"
+    ],
+    "finnish pop punk": [
+        "pop",
+        "punk"
+    ],
+    "finnish reggae": [
+        "reggae"
+    ],
+    "power thrash": [
+        "power"
+    ],
+    "lebanese indie": [
+        "indie"
+    ],
+    "indie electronica": [
+        "electronic",
+        "indie"
+    ],
+    "fast melodic punk": [
+        "punk"
+    ],
+    "electronica chilena": [
+        "electronic"
+    ],
+    "instrumental progressive metal": [
+        "metal",
+        "instrumental"
+    ],
+    "elektropunk": [
+        "punk"
+    ],
+    "funk capixaba": [
+        "funk"
+    ],
+    "jewish hip hop": [
+        "hip-hop"
+    ],
+    "northeast indian indie": [
+        "indie"
+    ],
+    "kazakh indie": [
+        "indie"
+    ],
+    "rap portuense": [
+        "rap"
+    ],
+    "traditional soul": [
+        "traditional",
+        "soul"
+    ],
+    "texas punk": [
+        "punk"
+    ],
+    "canadian psychedelic": [
+        "psychedelic"
+    ],
+    "israeli folk": [
+        "folk"
+    ],
+    "amharic pop": [
+        "pop"
+    ],
+    "northern irish punk": [
+        "punk"
+    ],
+    "american 21st century classical": [
+        "classic"
+    ],
+    "bay area hip hop": [
+        "hip-hop"
+    ],
+    "deep dance pop": [
+        "pop"
+    ],
+    "cook islands pop": [
+        "pop"
+    ],
+    "israelite hip hop": [
+        "hip-hop"
+    ],
+    "ghanaian gospel": [
+        "gospel"
+    ],
+    "deep funk ostentacao": [
+        "funk"
+    ],
+    "cambodian pop": [
+        "pop"
+    ],
+    "cosmic death metal": [
+        "metal"
+    ],
+    "funky breaks": [
+        "funk"
+    ],
+    "pakistani electronic": [
+        "electronic"
+    ],
+    "modern jangle pop": [
+        "pop"
+    ],
+    "bisaya rap": [
+        "rap"
+    ],
+    "chinese jazz": [
+        "jazz"
+    ],
+    "norwegian alternative rock": [
+        "rock",
+        "alternative"
+    ],
+    "chattanooga indie": [
+        "indie"
+    ],
+    "jazz puertorriqueno": [
+        "jazz"
+    ],
+    "gospel reggae": [
+        "reggae",
+        "gospel"
+    ],
+    "mumbai indie": [
+        "indie"
+    ],
+    "turkish reggae": [
+        "reggae"
+    ],
+    "belgian modern jazz": [
+        "jazz"
+    ],
+    "punk melodico chileno": [
+        "punk"
+    ],
+    "tamil indie": [
+        "indie"
+    ],
+    "dc indie": [
+        "indie"
+    ],
+    "technical melodic death metal": [
+        "metal"
+    ],
+    "jazz harp": [
+        "jazz"
+    ],
+    "african electronic": [
+        "electronic"
+    ],
+    "edinburgh indie": [
+        "indie"
+    ],
+    "detroit indie": [
+        "indie"
+    ],
+    "lafayette indie": [
+        "indie"
+    ],
+    "belgian metal": [
+        "metal"
+    ],
+    "stl indie": [
+        "indie"
+    ],
+    "indie tico": [
+        "indie"
+    ],
+    "derby indie": [
+        "indie"
+    ],
+    "kurdish rock": [
+        "rock"
+    ],
+    "leipzig indie": [
+        "indie"
+    ],
+    "isle of wight indie": [
+        "indie"
+    ],
+    "chicano punk": [
+        "punk"
+    ],
+    "deep happy hardcore": [
+        "hardcore"
+    ],
+    "rap guarulhense": [
+        "rap"
+    ],
+    "british math rock": [
+        "rock"
+    ],
+    "pakistani rock": [
+        "rock"
+    ],
+    "czsk reggae": [
+        "reggae"
+    ],
+    "ecuadorian alternative rock": [
+        "rock",
+        "alternative"
+    ],
+    "wassoulou": [
+        "soul"
+    ],
+    "chinese indie pop": [
+        "pop",
+        "indie"
+    ],
+    "nz gangsta rap": [
+        "rap"
+    ],
+    "folk black metal": [
+        "metal",
+        "folk"
+    ],
+    "arkansas indie": [
+        "indie"
+    ],
+    "musica evangelica instrumental": [
+        "instrumental"
+    ],
+    "belgian electronic": [
+        "electronic"
+    ],
+    "street punk espanol": [
+        "punk"
+    ],
+    "dutch blues": [
+        "blues"
+    ],
+    "vintage italian pop": [
+        "pop"
+    ],
+    "lancashire indie": [
+        "indie"
+    ],
+    "indian underground rap": [
+        "rap"
+    ],
+    "swedish hardcore": [
+        "hardcore"
+    ],
+    "punk tuga": [
+        "punk"
+    ],
+    "bangladeshi rock": [
+        "rock"
+    ],
+    "classic nepali pop": [
+        "pop",
+        "classic"
+    ],
+    "italian contemporary jazz": [
+        "jazz"
+    ],
+    "quebec death metal": [
+        "metal"
+    ],
+    "greek rock": [
+        "rock"
+    ],
+    "japanese house": [
+        "house"
+    ],
+    "german pagan metal": [
+        "metal"
+    ],
+    "norwegian gospel": [
+        "gospel"
+    ],
+    "indonesian metal": [
+        "metal"
+    ],
+    "hmong pop": [
+        "pop"
+    ],
+    "eritrean pop": [
+        "pop"
+    ],
+    "mpb gospel": [
+        "gospel"
+    ],
+    "deep acoustic pop": [
+        "pop"
+    ],
+    "spanish classical": [
+        "classic"
+    ],
+    "korean soundtrack": [
+        "soundtrack"
+    ],
+    "chamber orchestra": [
+        "orchestra"
+    ],
+    "tijuana indie": [
+        "indie"
+    ],
+    "euskal indie": [
+        "indie"
+    ],
+    "post-disco soul": [
+        "disco",
+        "soul"
+    ],
+    "albany ny indie": [
+        "indie"
+    ],
+    "uk noise rock": [
+        "rock"
+    ],
+    "brazilian indie rock": [
+        "rock",
+        "indie"
+    ],
+    "chinese soundtrack": [
+        "soundtrack"
+    ],
+    "cologne electronic": [
+        "electronic"
+    ],
+    "hip hop boliviano": [
+        "hip-hop"
+    ],
+    "taiwan instrumental": [
+        "instrumental"
+    ],
+    "springfield mo indie": [
+        "indie"
+    ],
+    "polish folk metal": [
+        "metal",
+        "folk"
+    ],
+    "czech indie": [
+        "indie"
+    ],
+    "jazz violin": [
+        "jazz"
+    ],
+    "punta rock": [
+        "rock"
+    ],
+    "ukrainian classical piano": [
+        "classic"
+    ],
+    "pahadi pop": [
+        "pop"
+    ],
+    "trinidadian reggae": [
+        "reggae"
+    ],
+    "cleveland indie": [
+        "indie"
+    ],
+    "hindustani instrumental": [
+        "instrumental"
+    ],
+    "french garage rock": [
+        "rock"
+    ],
+    "dreampunk": [
+        "punk"
+    ],
+    "deep metalcore": [
+        "metal"
+    ],
+    "contemporary folk": [
+        "folk"
+    ],
+    "metal gotico": [
+        "metal"
+    ],
+    "turkce trap metal": [
+        "metal",
+        "trap"
+    ],
+    "french black metal": [
+        "metal"
+    ],
+    "swiss indie folk": [
+        "indie",
+        "folk"
+    ],
+    "rap chretien": [
+        "rap"
+    ],
+    "dub metal": [
+        "metal"
+    ],
+    "nordic contemporary classical": [
+        "classic"
+    ],
+    "hyperpop italiano": [
+        "pop"
+    ],
+    "japanese psychedelic rock": [
+        "rock",
+        "psychedelic"
+    ],
+    "south african r&b": [
+        "r&b"
+    ],
+    "garage punk blues": [
+        "punk",
+        "blues"
+    ],
+    "faroese pop": [
+        "pop"
+    ],
+    "vinahouse": [
+        "house"
+    ],
+    "luxembourgian indie": [
+        "indie"
+    ],
+    "semarang indie": [
+        "indie"
+    ],
+    "southeast asian post-rock": [
+        "rock"
+    ],
+    "indie rock colombiano": [
+        "rock",
+        "indie"
+    ],
+    "tanzanian hip hop": [
+        "hip-hop"
+    ],
+    "polish contemporary classical": [
+        "classic"
+    ],
+    "baptist gospel": [
+        "gospel"
+    ],
+    "minneapolis punk": [
+        "punk"
+    ],
+    "winnipeg hip hop": [
+        "hip-hop"
+    ],
+    "kalmar indie": [
+        "indie"
+    ],
+    "british choir": [
+        "choir"
+    ],
+    "kansas hip hop": [
+        "hip-hop"
+    ],
+    "wyoming indie": [
+        "indie"
+    ],
+    "italian folk": [
+        "folk"
+    ],
+    "fijian pop": [
+        "pop"
+    ],
+    "cork indie": [
+        "indie"
+    ],
+    "gothic post-punk": [
+        "punk"
+    ],
+    "west virginia indie": [
+        "indie"
+    ],
+    "panamanian rock": [
+        "rock"
+    ],
+    "lancaster pa indie": [
+        "indie"
+    ],
+    "denver metal": [
+        "metal"
+    ],
+    "gospel italiano": [
+        "gospel"
+    ],
+    "french post-punk": [
+        "punk"
+    ],
+    "marathi traditional": [
+        "traditional"
+    ],
+    "crack rock steady": [
+        "rock"
+    ],
+    "puglia indie": [
+        "indie"
+    ],
+    "canadian post-punk": [
+        "punk"
+    ],
+    "japanese girl punk": [
+        "punk"
+    ],
+    "canadian indigenous hip hop": [
+        "hip-hop"
+    ],
+    "modern psychedelic folk": [
+        "folk",
+        "psychedelic"
+    ],
+    "russian nu metal": [
+        "metal"
+    ],
+    "zambian pop": [
+        "pop"
+    ],
+    "noise punk": [
+        "punk"
+    ],
+    "classical harp": [
+        "classic"
+    ],
+    "solomon islands pop": [
+        "pop"
+    ],
+    "lithuanian rock": [
+        "rock"
+    ],
+    "essex indie": [
+        "indie"
+    ],
+    "singaporean electronic": [
+        "electronic"
+    ],
+    "malaysian punk": [
+        "punk"
+    ],
+    "australian blues": [
+        "blues"
+    ],
+    "deep neofolk": [
+        "folk"
+    ],
+    "minneapolis metal": [
+        "metal"
+    ],
+    "corsican folk": [
+        "folk"
+    ],
+    "malayalam hip hop": [
+        "hip-hop"
+    ],
+    "trash rock": [
+        "rock"
+    ],
+    "calgary indie": [
+        "indie"
+    ],
+    "rap tico": [
+        "rap"
+    ],
+    "rwandan pop": [
+        "pop"
+    ],
+    "classical cello": [
+        "classic"
+    ],
+    "atlantic canada hip hop": [
+        "hip-hop"
+    ],
+    "polish jazz": [
+        "jazz"
+    ],
+    "mongolian hip hop": [
+        "hip-hop"
+    ],
+    "iowa hip hop": [
+        "hip-hop"
+    ],
+    "bangladeshi hip hop": [
+        "hip-hop"
+    ],
+    "canadian psychedelic rock": [
+        "rock",
+        "psychedelic"
+    ],
+    "argentine hardcore": [
+        "hardcore"
+    ],
+    "romanian folk": [
+        "folk"
+    ],
+    "deep german indie": [
+        "indie"
+    ],
+    "kenyan hip hop": [
+        "hip-hop"
+    ],
+    "country boogie": [
+        "country"
+    ],
+    "piano house": [
+        "house"
+    ],
+    "technical black metal": [
+        "metal"
+    ],
+    "uk stoner rock": [
+        "rock"
+    ],
+    "nordic classical piano": [
+        "classic"
+    ],
+    "caucasian classical": [
+        "classic"
+    ],
+    "hardcore punk espanol": [
+        "punk",
+        "hardcore"
+    ],
+    "german electronica": [
+        "electronic"
+    ],
+    "traditional bluegrass": [
+        "traditional"
+    ],
+    "libyan pop": [
+        "pop"
+    ],
+    "indie cristao": [
+        "indie"
+    ],
+    "german stoner rock": [
+        "rock"
+    ],
+    "punk galego": [
+        "punk"
+    ],
+    "swiss alternative rock": [
+        "rock",
+        "alternative"
+    ],
+    "japanese worship": [
+        "worship"
+    ],
+    "mongolian pop": [
+        "pop"
+    ],
+    "atmospheric post-metal": [
+        "metal"
+    ],
+    "macedonian pop": [
+        "pop"
+    ],
+    "therapy": [
+        "rap"
+    ],
+    "pinoy metal": [
+        "metal"
+    ],
+    "finnish soul": [
+        "soul"
+    ],
+    "bangladeshi indie": [
+        "indie"
+    ],
+    "swedish psychedelic rock": [
+        "rock",
+        "psychedelic"
+    ],
+    "serbian electronic": [
+        "electronic"
+    ],
+    "experimental indie rock": [
+        "rock",
+        "indie"
+    ],
+    "deep melodic death metal": [
+        "metal"
+    ],
+    "uk diy punk": [
+        "punk"
+    ],
+    "stuttgart indie": [
+        "indie"
+    ],
+    "pei indie": [
+        "indie"
+    ],
+    "cavernous death metal": [
+        "metal"
+    ],
+    "german black metal": [
+        "metal"
+    ],
+    "ambient black metal": [
+        "metal"
+    ],
+    "baltic post-punk": [
+        "punk"
+    ],
+    "austin rock": [
+        "rock"
+    ],
+    "punk colombiano": [
+        "punk"
+    ],
+    "cornwall indie": [
+        "indie"
+    ],
+    "electronica peruana": [
+        "electronic"
+    ],
+    "nz metal": [
+        "metal"
+    ],
+    "folklore cuyano": [
+        "folk"
+    ],
+    "uruguayan indie": [
+        "indie"
+    ],
+    "maine hip hop": [
+        "hip-hop"
+    ],
+    "indorock": [
+        "rock"
+    ],
+    "classic danish rock": [
+        "rock",
+        "classic"
+    ],
+    "breton folk": [
+        "folk"
+    ],
+    "cosmic black metal": [
+        "metal"
+    ],
+    "belgian jazz": [
+        "jazz"
+    ],
+    "chain punk": [
+        "punk"
+    ],
+    "gospel drill": [
+        "gospel"
+    ],
+    "rock tico": [
+        "rock"
+    ],
+    "german street punk": [
+        "punk"
+    ],
+    "indonesian hardcore": [
+        "hardcore"
+    ],
+    "chinese folk": [
+        "folk"
+    ],
+    "lithuanian trap": [
+        "trap"
+    ],
+    "russian heavy metal": [
+        "metal"
+    ],
+    "manitoba country": [
+        "country"
+    ],
+    "memphis indie": [
+        "indie"
+    ],
+    "ukrainian folk pop": [
+        "pop",
+        "folk"
+    ],
+    "turkish post-punk": [
+        "punk"
+    ],
+    "vintage cantonese pop": [
+        "pop"
+    ],
+    "estonian rock": [
+        "rock"
+    ],
+    "italian post punk": [
+        "punk"
+    ],
+    "estonian electronic": [
+        "electronic"
+    ],
+    "early american folk": [
+        "folk"
+    ],
+    "northeast indian hip hop": [
+        "hip-hop"
+    ],
+    "tassie indie": [
+        "indie"
+    ],
+    "sevilla indie": [
+        "indie"
+    ],
+    "trap cristiano": [
+        "trap"
+    ],
+    "south african electronic": [
+        "electronic"
+    ],
+    "forro instrumental": [
+        "instrumental"
+    ],
+    "garhwali pop": [
+        "pop"
+    ],
+    "zurich indie": [
+        "indie"
+    ],
+    "south african country": [
+        "country"
+    ],
+    "classical soprano": [
+        "classic"
+    ],
+    "euskal metal": [
+        "metal"
+    ],
+    "icelandic post-punk": [
+        "punk"
+    ],
+    "lund indie": [
+        "indie"
+    ],
+    "ukrainian folk": [
+        "folk"
+    ],
+    "belgian blues": [
+        "blues"
+    ],
+    "psychedelic space rock": [
+        "rock",
+        "psychedelic"
+    ],
+    "deep folk metal": [
+        "metal",
+        "folk"
+    ],
+    "kansas indie": [
+        "indie"
+    ],
+    "bosnian indie": [
+        "indie"
+    ],
+    "hindi worship": [
+        "worship"
+    ],
+    "bangalore indie": [
+        "indie"
+    ],
+    "bossa nova jazz": [
+        "jazz"
+    ],
+    "montana indie": [
+        "indie"
+    ],
+    "german blues": [
+        "blues"
+    ],
+    "bolivian rock": [
+        "rock"
+    ],
+    "swedish underground rap": [
+        "rap"
+    ],
+    "swedish blues": [
+        "blues"
+    ],
+    "pashto pop": [
+        "pop"
+    ],
+    "adelaide indie": [
+        "indie"
+    ],
+    "post-punk mexicano": [
+        "punk"
+    ],
+    "canadian post-rock": [
+        "rock"
+    ],
+    "japanese traditional": [
+        "traditional"
+    ],
+    "hungarian classical performance": [
+        "classic"
+    ],
+    "finnish doom metal": [
+        "metal"
+    ],
+    "tijuana electronic": [
+        "electronic"
+    ],
+    "metal colombiano": [
+        "metal"
+    ],
+    "indian metal": [
+        "metal"
+    ],
+    "london on indie": [
+        "indie"
+    ],
+    "yogyakarta indie": [
+        "indie"
+    ],
+    "gospel soul": [
+        "gospel",
+        "soul"
+    ],
+    "brazilian tech house": [
+        "house"
+    ],
+    "romanian indie": [
+        "indie"
+    ],
+    "taiwan post-rock": [
+        "rock"
+    ],
+    "wisconsin indie": [
+        "indie"
+    ],
+    "indian jazz": [
+        "jazz"
+    ],
+    "lawrence ks indie": [
+        "indie"
+    ],
+    "lampung indie": [
+        "indie"
+    ],
+    "deep funk": [
+        "funk"
+    ],
+    "atmospheric post-rock": [
+        "rock"
+    ],
+    "french classical piano": [
+        "classic"
+    ],
+    "western saharan folk": [
+        "folk"
+    ],
+    "virginia indie": [
+        "indie"
+    ],
+    "georgian alternative": [
+        "alternative"
+    ],
+    "popullore jugu": [
+        "pop"
+    ],
+    "malmo indie": [
+        "indie"
+    ],
+    "hampton roads indie": [
+        "indie"
+    ],
+    "rusyn folk": [
+        "folk"
+    ],
+    "portuguese metal": [
+        "metal"
+    ],
+    "scottish hip hop": [
+        "hip-hop"
+    ],
+    "post-punk latinoamericano": [
+        "punk"
+    ],
+    "swiss worship": [
+        "worship"
+    ],
+    "singaporean hip hop": [
+        "hip-hop"
+    ],
+    "milwaukee indie": [
+        "indie"
+    ],
+    "blues mexicano": [
+        "blues"
+    ],
+    "sierra leonean pop": [
+        "pop"
+    ],
+    "slovenian rock": [
+        "rock"
+    ],
+    "caracas indie": [
+        "indie"
+    ],
+    "irish classical": [
+        "classic"
+    ],
+    "ukrainian metal": [
+        "metal"
+    ],
+    "outer hip hop": [
+        "hip-hop"
+    ],
+    "new york death metal": [
+        "metal"
+    ],
+    "japanese melodic punk": [
+        "punk"
+    ],
+    "electronica cristiana": [
+        "electronic"
+    ],
+    "classic moroccan pop": [
+        "pop",
+        "classic"
+    ],
+    "malagasy pop": [
+        "pop"
+    ],
+    "electronica venezuela": [
+        "electronic"
+    ],
+    "japanese bedroom pop": [
+        "pop"
+    ],
+    "violao classico": [
+        "classic"
+    ],
+    "house argentino": [
+        "house"
+    ],
+    "surinamese hip hop": [
+        "hip-hop"
+    ],
+    "portuguese folk": [
+        "folk"
+    ],
+    "pop catracho": [
+        "pop"
+    ],
+    "somali pop": [
+        "pop"
+    ],
+    "finnish progressive rock": [
+        "rock"
+    ],
+    "rock goiano": [
+        "rock"
+    ],
+    "derry indie": [
+        "indie"
+    ],
+    "jazz flute": [
+        "jazz"
+    ],
+    "musica indigena mexicana": [
+        "mexican"
+    ],
+    "austrian black metal": [
+        "metal"
+    ],
+    "west yorkshire indie": [
+        "indie"
+    ],
+    "indie singer-songwriter": [
+        "indie"
+    ],
+    "new england metal": [
+        "metal"
+    ],
+    "new wave of speed metal": [
+        "metal"
+    ],
+    "macedonian hip hop": [
+        "hip-hop"
+    ],
+    "maltese hip hop": [
+        "hip-hop"
+    ],
+    "beninese pop": [
+        "pop"
+    ],
+    "slovak folk": [
+        "folk"
+    ],
+    "sinhala indie": [
+        "indie"
+    ],
+    "spanish jazz": [
+        "jazz"
+    ],
+    "jazz venezolano": [
+        "jazz"
+    ],
+    "dresden indie": [
+        "indie"
+    ],
+    "italian jazz fusion": [
+        "jazz"
+    ],
+    "chinese instrumental": [
+        "instrumental"
+    ],
+    "chinese classical piano": [
+        "classic"
+    ],
+    "marimba mexicana": [
+        "mexican"
+    ],
+    "polish thrash metal": [
+        "metal"
+    ],
+    "japanese hyperpop": [
+        "pop"
+    ],
+    "finnish progressive metal": [
+        "metal"
+    ],
+    "neo metal": [
+        "metal"
+    ],
+    "kenyan alternative": [
+        "alternative"
+    ],
+    "polish hardcore": [
+        "hardcore"
+    ],
+    "swedish post-hardcore": [
+        "hardcore"
+    ],
+    "brasilia indie": [
+        "indie"
+    ],
+    "swedish post-punk": [
+        "punk"
+    ],
+    "turkish classical performance": [
+        "classic"
+    ],
+    "folklore veracruzano": [
+        "folk"
+    ],
+    "greek black metal": [
+        "metal"
+    ],
+    "italian death metal": [
+        "metal"
+    ],
+    "southern china indie": [
+        "indie"
+    ],
+    "yemeni pop": [
+        "pop"
+    ],
+    "mexican tech house": [
+        "house"
+    ],
+    "indie cantabria": [
+        "indie"
+    ],
+    "pittsburgh metal": [
+        "metal"
+    ],
+    "arizona punk": [
+        "punk"
+    ],
+    "south dakota indie": [
+        "indie"
+    ],
+    "guam indie": [
+        "indie"
+    ],
+    "uae indie": [
+        "indie"
+    ],
+    "geek folk": [
+        "folk"
+    ],
+    "pre-war blues": [
+        "blues"
+    ],
+    "austrian jazz": [
+        "jazz"
+    ],
+    "canadian rockabilly": [
+        "rock"
+    ],
+    "progressive alternative": [
+        "alternative"
+    ],
+    "rock gotico": [
+        "rock"
+    ],
+    "indie michoacano": [
+        "indie"
+    ],
+    "hard rock mexicano": [
+        "rock"
+    ],
+    "rock progressif francais": [
+        "rock"
+    ],
+    "bisrock": [
+        "rock"
+    ],
+    "kelowna bc indie": [
+        "indie"
+    ],
+    "danish black metal": [
+        "metal"
+    ],
+    "ilocano pop": [
+        "pop"
+    ],
+    "italian punk": [
+        "punk"
+    ],
+    "german death metal": [
+        "metal"
+    ],
+    "classic afrobeat": [
+        "classic"
+    ],
+    "swiss black metal": [
+        "metal"
+    ],
+    "carnatic instrumental": [
+        "instrumental"
+    ],
+    "german post-punk": [
+        "punk"
+    ],
+    "brazilian death metal": [
+        "metal"
+    ],
+    "italian post-hardcore": [
+        "hardcore"
+    ],
+    "reggae tico": [
+        "reggae"
+    ],
+    "belarusian punk": [
+        "punk"
+    ],
+    "uk rockabilly": [
+        "rock"
+    ],
+    "aarhus indie": [
+        "indie"
+    ],
+    "faroese indie": [
+        "indie"
+    ],
+    "italian metalcore": [
+        "metal"
+    ],
+    "oslo indie": [
+        "indie"
+    ],
+    "norwegian doom metal": [
+        "metal"
+    ],
+    "gospel rap": [
+        "rap",
+        "gospel"
+    ],
+    "finnish metalcore": [
+        "metal"
+    ],
+    "rogaland indie": [
+        "indie"
+    ],
+    "swahili gospel": [
+        "gospel"
+    ],
+    "indonesian death metal": [
+        "metal"
+    ],
+    "finnish electro": [
+        "electronic"
+    ],
+    "rap tuga underground": [
+        "rap"
+    ],
+    "heavy gothic rock": [
+        "rock"
+    ],
+    "mizo pop": [
+        "pop"
+    ],
+    "gospel singers": [
+        "gospel"
+    ],
+    "japanese classical performance": [
+        "classic"
+    ],
+    "palestinian traditional": [
+        "traditional"
+    ],
+    "portuguese indie rock": [
+        "rock",
+        "indie"
+    ],
+    "argentine jazz": [
+        "jazz"
+    ],
+    "native american hip hop": [
+        "hip-hop"
+    ],
+    "australian classical": [
+        "classic"
+    ],
+    "balfolk": [
+        "folk"
+    ],
+    "hawaiian indie": [
+        "indie"
+    ],
+    "finnish black metal": [
+        "metal"
+    ],
+    "gambian pop": [
+        "pop"
+    ],
+    "czech electronic": [
+        "electronic"
+    ],
+    "latvian indie": [
+        "indie"
+    ],
+    "west african jazz": [
+        "jazz"
+    ],
+    "american choir": [
+        "choir"
+    ],
+    "canadian death metal": [
+        "metal"
+    ],
+    "singaporean indie": [
+        "indie"
+    ],
+    "traditional english folk": [
+        "folk",
+        "traditional"
+    ],
+    "rap norteno chileno": [
+        "rap"
+    ],
+    "japanese death metal": [
+        "metal"
+    ],
+    "dutch black metal": [
+        "metal"
+    ],
+    "indonesian emo rap": [
+        "rap"
+    ],
+    "thai instrumental": [
+        "instrumental"
+    ],
+    "finnish worship": [
+        "worship"
+    ],
+    "electronicore": [
+        "electronic"
+    ],
+    "swedish rock-and-roll": [
+        "rock"
+    ],
+    "poznan indie": [
+        "indie"
+    ],
+    "danish death metal": [
+        "metal"
+    ],
+    "avant-garde black metal": [
+        "metal"
+    ],
+    "old school uk hip hop": [
+        "hip-hop"
+    ],
+    "xitsonga pop": [
+        "pop"
+    ],
+    "spanish electropop": [
+        "electronic",
+        "pop"
+    ],
+    "malawian pop": [
+        "pop"
+    ],
+    "seattle metal": [
+        "metal"
+    ],
+    "hull indie": [
+        "indie"
+    ],
+    "harmonica jazz": [
+        "jazz"
+    ],
+    "malayalam worship": [
+        "worship"
+    ],
+    "latvian rock": [
+        "rock"
+    ],
+    "burundian pop": [
+        "pop"
+    ],
+    "rap salvadoreno": [
+        "rap"
+    ],
+    "russian post-rock": [
+        "rock"
+    ],
+    "polish folk": [
+        "folk"
+    ],
+    "vapor house": [
+        "house"
+    ],
+    "boston electronic": [
+        "electronic"
+    ],
+    "slovak electronic": [
+        "electronic"
+    ],
+    "norwegian death metal": [
+        "metal"
+    ],
+    "spanish indie rock": [
+        "rock",
+        "indie"
+    ],
+    "salzburg indie": [
+        "indie"
+    ],
+    "german classical piano": [
+        "classic"
+    ],
+    "portuguese jazz": [
+        "jazz"
+    ],
+    "new hampshire indie": [
+        "indie"
+    ],
+    "basel indie": [
+        "indie"
+    ],
+    "punjabi folk": [
+        "folk"
+    ],
+    "dutch idol pop": [
+        "pop"
+    ],
+    "industrial hardcore": [
+        "hardcore"
+    ],
+    "dundee indie": [
+        "indie"
+    ],
+    "street punk": [
+        "punk"
+    ],
+    "russian experimental electronic": [
+        "electronic"
+    ],
+    "knoxville indie": [
+        "indie"
+    ],
+    "indie salvadoreno": [
+        "indie"
+    ],
+    "coventry indie": [
+        "indie"
+    ],
+    "pune indie": [
+        "indie"
+    ],
+    "chinese classical performance": [
+        "classic"
+    ],
+    "polish modern jazz": [
+        "jazz"
+    ],
+    "jazz accordion": [
+        "jazz"
+    ],
+    "rap gaucho": [
+        "rap"
+    ],
+    "estonian indie": [
+        "indie"
+    ],
+    "classical trumpet": [
+        "classic"
+    ],
+    "bosnian electronic": [
+        "electronic"
+    ],
+    "zim hip hop": [
+        "hip-hop"
+    ],
+    "nyc metal": [
+        "metal"
+    ],
+    "hip hop galsen": [
+        "hip-hop"
+    ],
+    "greenlandic pop": [
+        "pop"
+    ],
+    "russian folk metal": [
+        "metal",
+        "folk"
+    ],
+    "symphonic melodic death metal": [
+        "metal"
+    ],
+    "ukrainian alternative rock": [
+        "rock",
+        "alternative"
+    ],
+    "norwegian psychedelic": [
+        "psychedelic"
+    ],
+    "algerian folk": [
+        "folk"
+    ],
+    "bulgarian electronic": [
+        "electronic"
+    ],
+    "german post-rock": [
+        "rock"
+    ],
+    "cumbia funk": [
+        "funk"
+    ],
+    "indie campechano": [
+        "indie"
+    ],
+    "lao pop": [
+        "pop"
+    ],
+    "baja indie": [
+        "indie"
+    ],
+    "frankfurt indie": [
+        "indie"
+    ],
+    "indie fuzzpop": [
+        "pop",
+        "indie"
+    ],
+    "mexican hardcore": [
+        "hardcore"
+    ],
+    "mexican death metal": [
+        "metal"
+    ],
+    "rock cearense": [
+        "rock"
+    ],
+    "lounge house": [
+        "house"
+    ],
+    "japanese post-punk": [
+        "punk"
+    ],
+    "balkan folk metal": [
+        "metal",
+        "folk"
+    ],
+    "rock paraibano": [
+        "rock"
+    ],
+    "rock campineiro": [
+        "rock"
+    ],
+    "swansea indie": [
+        "indie"
+    ],
+    "indiana indie": [
+        "indie"
+    ],
+    "deep melodic hard rock": [
+        "rock"
+    ],
+    "psychedelic jazz fusion": [
+        "jazz",
+        "psychedelic"
+    ],
+    "nz alternative rock": [
+        "rock",
+        "alternative"
+    ],
+    "brazilian blues": [
+        "blues"
+    ],
+    "swiss jazz": [
+        "jazz"
+    ],
+    "rap ecuatoriano": [
+        "rap"
+    ],
+    "danish punk": [
+        "punk"
+    ],
+    "dutch death metal": [
+        "metal"
+    ],
+    "cardiff indie": [
+        "indie"
+    ],
+    "progressive black metal": [
+        "metal"
+    ],
+    "west-vlaamse hip hop": [
+        "hip-hop"
+    ],
+    "deep german punk": [
+        "punk"
+    ],
+    "north dakota indie": [
+        "indie"
+    ],
+    "umea hardcore": [
+        "hardcore"
+    ],
+    "dutch classical piano": [
+        "classic"
+    ],
+    "punk mexicano": [
+        "punk"
+    ],
+    "chinese electronic": [
+        "electronic"
+    ],
+    "togolese pop": [
+        "pop"
+    ],
+    "rap sureno chileno": [
+        "rap"
+    ],
+    "classic eurovision": [
+        "classic"
+    ],
+    "yorkshire folk": [
+        "folk"
+    ],
+    "faroese rock": [
+        "rock"
+    ],
+    "panamanian indie": [
+        "indie"
+    ],
+    "indie pop rock": [
+        "rock",
+        "pop",
+        "indie"
+    ],
+    "taiwanese pop": [
+        "pop"
+    ],
+    "rap metalcore": [
+        "metal",
+        "rap"
+    ],
+    "spanish progressive rock": [
+        "rock"
+    ],
+    "mexican traditional": [
+        "traditional"
+    ],
+    "norman ok indie": [
+        "indie"
+    ],
+    "cornish folk": [
+        "folk"
+    ],
+    "japanese progressive house": [
+        "house"
+    ],
+    "oth indie": [
+        "indie"
+    ],
+    "thai metal": [
+        "metal"
+    ],
+    "french hardcore": [
+        "hardcore"
+    ],
+    "rap abc paulista": [
+        "rap"
+    ],
+    "chilean metal": [
+        "metal"
+    ],
+    "blues-rock guitar": [
+        "rock",
+        "blues"
+    ],
+    "boy pop": [
+        "pop"
+    ],
+    "michigan folk": [
+        "folk"
+    ],
+    "australian jazz": [
+        "jazz"
+    ],
+    "swedish classical": [
+        "classic"
+    ],
+    "basque folk": [
+        "folk"
+    ],
+    "nz hardcore": [
+        "hardcore"
+    ],
+    "gospel blues": [
+        "blues",
+        "gospel"
+    ],
+    "polish experimental electronic": [
+        "electronic"
+    ],
+    "slovak indie": [
+        "indie"
+    ],
+    "finnish modern jazz": [
+        "jazz"
+    ],
+    "telugu worship": [
+        "worship"
+    ],
+    "kashmiri pop": [
+        "pop"
+    ],
+    "denver rap": [
+        "rap"
+    ],
+    "kyrgyz pop": [
+        "pop"
+    ],
+    "german hardcore": [
+        "hardcore"
+    ],
+    "scottish indie folk": [
+        "indie",
+        "folk"
+    ],
+    "houston indie": [
+        "indie"
+    ],
+    "rio grande do sul indie": [
+        "indie"
+    ],
+    "rap catarinense": [
+        "rap"
+    ],
+    "serbian indie": [
+        "indie"
+    ],
+    "dutch experimental electronic": [
+        "electronic"
+    ],
+    "classical jazz fusion": [
+        "classic",
+        "jazz"
+    ],
+    "muzica populara": [
+        "pop"
+    ],
+    "indie canario": [
+        "indie"
+    ],
+    "cascadian black metal": [
+        "metal"
+    ],
+    "lao hip hop": [
+        "hip-hop"
+    ],
+    "greek folk": [
+        "folk"
+    ],
+    "deep deep house": [
+        "house"
+    ],
+    "protest folk": [
+        "folk"
+    ],
+    "assyrian pop": [
+        "pop"
+    ],
+    "slovenian indie": [
+        "indie"
+    ],
+    "maltese pop": [
+        "pop"
+    ],
+    "folk siciliana": [
+        "folk"
+    ],
+    "syrian hip hop": [
+        "hip-hop"
+    ],
+    "viet instrumental": [
+        "instrumental"
+    ],
+    "finnish idol pop": [
+        "pop"
+    ],
+    "palestinian alternative": [
+        "alternative"
+    ],
+    "australian death metal": [
+        "metal"
+    ],
+    "finnish blues": [
+        "blues"
+    ],
+    "german rockabilly": [
+        "rock"
+    ],
+    "deep discofox": [
+        "disco"
+    ],
+    "fort wayne indie": [
+        "indie"
+    ],
+    "psicodelia mexicana": [
+        "mexican"
+    ],
+    "gabonese pop": [
+        "pop"
+    ],
+    "khmer hip hop": [
+        "hip-hop"
+    ],
+    "classical saxophone": [
+        "classic"
+    ],
+    "icelandic metal": [
+        "metal"
+    ],
+    "persian neo-traditional": [
+        "traditional"
+    ],
+    "russian old school hip hop": [
+        "hip-hop"
+    ],
+    "portsmouth indie": [
+        "indie"
+    ],
+    "early music choir": [
+        "choir"
+    ],
+    "musica colombiana instrumental": [
+        "instrumental"
+    ],
+    "mexican classical": [
+        "classic"
+    ],
+    "epic black metal": [
+        "metal"
+    ],
+    "mongolian folk": [
+        "folk"
+    ],
+    "israeli metal": [
+        "metal"
+    ],
+    "jazz guitar trio": [
+        "jazz"
+    ],
+    "belgian contemporary classical": [
+        "classic"
+    ],
+    "missouri indie": [
+        "indie"
+    ],
+    "finnish jazz": [
+        "jazz"
+    ],
+    "slovenian hip hop": [
+        "hip-hop"
+    ],
+    "jazzcore": [
+        "jazz"
+    ],
+    "limerick indie": [
+        "indie"
+    ],
+    "zim gospel": [
+        "gospel"
+    ],
+    "contemporary choir": [
+        "choir"
+    ],
+    "serbian alternative rock": [
+        "rock",
+        "alternative"
+    ],
+    "czsk hyperpop": [
+        "pop"
+    ],
+    "lapland hip hop": [
+        "hip-hop"
+    ],
+    "jazz orchestra": [
+        "jazz",
+        "orchestra"
+    ],
+    "yoruba worship": [
+        "worship"
+    ],
+    "italian post-rock": [
+        "rock"
+    ],
+    "icelandic punk": [
+        "punk"
+    ],
+    "rock caipira": [
+        "rock"
+    ],
+    "finnish folk": [
+        "folk"
+    ],
+    "slovenian metal": [
+        "metal"
+    ],
+    "classical mandolin": [
+        "classic"
+    ],
+    "icelandic jazz": [
+        "jazz"
+    ],
+    "american orchestra": [
+        "orchestra"
+    ],
+    "telugu hip hop": [
+        "hip-hop"
+    ],
+    "italian pop punk": [
+        "pop",
+        "punk"
+    ],
+    "black speed metal": [
+        "metal"
+    ],
+    "chennai indie": [
+        "indie"
+    ],
+    "korean jazz": [
+        "jazz"
+    ],
+    "myanmar indie": [
+        "indie"
+    ],
+    "russian hardcore": [
+        "hardcore"
+    ],
+    "norwegian folk": [
+        "folk"
+    ],
+    "chhattisgarhi pop": [
+        "pop"
+    ],
+    "industrial black metal": [
+        "metal"
+    ],
+    "australian post-rock": [
+        "rock"
+    ],
+    "canadian black metal": [
+        "metal"
+    ],
+    "bisaya indie": [
+        "indie"
+    ],
+    "wellington indie": [
+        "indie"
+    ],
+    "bogor indie": [
+        "indie"
+    ],
+    "baltic folk": [
+        "folk"
+    ],
+    "chinese metalcore": [
+        "metal"
+    ],
+    "garage rock mexicano": [
+        "rock"
+    ],
+    "free folk": [
+        "folk"
+    ],
+    "vintage taiwan pop": [
+        "pop"
+    ],
+    "portuguese black metal": [
+        "metal"
+    ],
+    "bulgarian r&b": [
+        "r&b"
+    ],
+    "siberian folk": [
+        "folk"
+    ],
+    "south african modern jazz": [
+        "jazz"
+    ],
+    "greek indie rock": [
+        "rock",
+        "indie"
+    ],
+    "metal catala": [
+        "metal"
+    ],
+    "classic tunisian pop": [
+        "pop",
+        "classic"
+    ],
+    "dark progressive house": [
+        "house"
+    ],
+    "cuban funk": [
+        "funk"
+    ],
+    "dusseldorf indie": [
+        "indie"
+    ],
+    "georgian pop": [
+        "pop"
+    ],
+    "triangle indie": [
+        "indie"
+    ],
+    "contemporary classical piano": [
+        "classic"
+    ],
+    "progressive technical death metal": [
+        "metal"
+    ],
+    "brazilian lo-fi rock": [
+        "rock"
+    ],
+    "classic bulgarian pop": [
+        "pop",
+        "classic"
+    ],
+    "belgian death metal": [
+        "metal"
+    ],
+    "bern indie": [
+        "indie"
+    ],
+    "japanese orchestra": [
+        "orchestra"
+    ],
+    "lowlands hardcore": [
+        "hardcore"
+    ],
+    "power noise": [
+        "power"
+    ],
+    "finnish post-punk": [
+        "punk"
+    ],
+    "merida indie": [
+        "indie"
+    ],
+    "iowa indie": [
+        "indie"
+    ],
+    "belgian black metal": [
+        "metal"
+    ],
+    "chamorro pop": [
+        "pop"
+    ],
+    "spanish psychedelic rock": [
+        "rock",
+        "psychedelic"
+    ],
+    "vintage norwegian pop": [
+        "pop"
+    ],
+    "austrian orchestra": [
+        "orchestra"
+    ],
+    "rwandan hip hop": [
+        "hip-hop"
+    ],
+    "korean metal": [
+        "metal"
+    ],
+    "swiss country": [
+        "country"
+    ],
+    "russian classical piano": [
+        "classic"
+    ],
+    "cameroonian hip hop": [
+        "hip-hop"
+    ],
+    "korean hyperpop": [
+        "pop"
+    ],
+    "taiwan classical performance": [
+        "classic"
+    ],
+    "samba gospel": [
+        "gospel"
+    ],
+    "sambalpuri pop": [
+        "pop"
+    ],
+    "icelandic black metal": [
+        "metal"
+    ],
+    "cape breton folk": [
+        "folk"
+    ],
+    "taiwan metal": [
+        "metal"
+    ],
+    "scottish gaelic folk": [
+        "folk"
+    ],
+    "cambodian rock": [
+        "rock"
+    ],
+    "venda rap": [
+        "rap"
+    ],
+    "australian post-punk": [
+        "punk"
+    ],
+    "french rock-and-roll": [
+        "rock"
+    ],
+    "canberra indie": [
+        "indie"
+    ],
+    "dutch punk": [
+        "punk"
+    ],
+    "finnish psychedelic rock": [
+        "rock",
+        "psychedelic"
+    ],
+    "deep progressive house": [
+        "house"
+    ],
+    "deep r&b": [
+        "r&b"
+    ],
+    "sesotho pop": [
+        "pop"
+    ],
+    "south carolina metal": [
+        "metal"
+    ],
+    "british classical piano": [
+        "classic"
+    ],
+    "classic sudanese pop": [
+        "pop",
+        "classic"
+    ],
+    "afro-cuban traditional": [
+        "traditional"
+    ],
+    "french stoner rock": [
+        "rock"
+    ],
+    "australian classical piano": [
+        "classic"
+    ],
+    "oulu indie": [
+        "indie"
+    ],
+    "wrock": [
+        "rock"
+    ],
+    "baton rouge indie": [
+        "indie"
+    ],
+    "barrelhouse piano": [
+        "house"
+    ],
+    "san antonio indie": [
+        "indie"
+    ],
+    "uk post-metal": [
+        "metal"
+    ],
+    "croatian metal": [
+        "metal"
+    ],
+    "lovecraftian metal": [
+        "metal"
+    ],
+    "ukrainian metalcore": [
+        "metal"
+    ],
+    "israeli punk": [
+        "punk"
+    ],
+    "cantonese worship": [
+        "worship"
+    ],
+    "florida hardcore": [
+        "hardcore"
+    ],
+    "italian classical piano": [
+        "classic"
+    ],
+    "mexican thrash metal": [
+        "metal"
+    ],
+    "norwegian hardcore": [
+        "hardcore"
+    ],
+    "rap euskera": [
+        "rap"
+    ],
+    "latin surf rock": [
+        "rock"
+    ],
+    "forest black metal": [
+        "metal"
+    ],
+    "georgian electronic": [
+        "electronic"
+    ],
+    "south sudanese pop": [
+        "pop"
+    ],
+    "nz punk": [
+        "punk"
+    ],
+    "math rock latinoamericano": [
+        "rock"
+    ],
+    "blackened hardcore": [
+        "hardcore"
+    ],
+    "indie hidrocalido": [
+        "indie"
+    ],
+    "nz jazz": [
+        "jazz"
+    ],
+    "danish classical": [
+        "classic"
+    ],
+    "welsh folk": [
+        "folk"
+    ],
+    "rez country": [
+        "country"
+    ],
+    "peruvian metal": [
+        "metal"
+    ],
+    "estonian folk": [
+        "folk"
+    ],
+    "slovenian folk": [
+        "folk"
+    ],
+    "adelaide punk": [
+        "punk"
+    ],
+    "russian contemporary classical": [
+        "classic"
+    ],
+    "wisconsin metal": [
+        "metal"
+    ],
+    "nagpuri pop": [
+        "pop"
+    ],
+    "french post-rock": [
+        "rock"
+    ],
+    "balinese traditional": [
+        "traditional"
+    ],
+    "austrian punk": [
+        "punk"
+    ],
+    "italian doom metal": [
+        "metal"
+    ],
+    "paraguayan indie": [
+        "indie"
+    ],
+    "indie poblano": [
+        "indie"
+    ],
+    "isle of man indie": [
+        "indie"
+    ],
+    "university choir": [
+        "choir"
+    ],
+    "german orchestra": [
+        "orchestra"
+    ],
+    "indie sudcaliforniano": [
+        "indie"
+    ],
+    "metal ecuatoriano": [
+        "metal"
+    ],
+    "ukrainian black metal": [
+        "metal"
+    ],
+    "spanish post-rock": [
+        "rock"
+    ],
+    "nubian traditional": [
+        "traditional"
+    ],
+    "northwest china indie": [
+        "indie"
+    ],
+    "malawian hip hop": [
+        "hip-hop"
+    ],
+    "classical clarinet": [
+        "classic"
+    ],
+    "vintage spanish pop": [
+        "pop"
+    ],
+    "malaysian metal": [
+        "metal"
+    ],
+    "new brunswick indie": [
+        "indie"
+    ],
+    "unblack metal": [
+        "metal"
+    ],
+    "burkinabe pop": [
+        "pop"
+    ],
+    "greek punk": [
+        "punk"
+    ],
+    "classical organ": [
+        "classic"
+    ],
+    "traditional funk": [
+        "traditional",
+        "funk"
+    ],
+    "tongan pop": [
+        "pop"
+    ],
+    "folk metal latinoamericano": [
+        "metal",
+        "folk"
+    ],
+    "neo-industrial rock": [
+        "rock"
+    ],
+    "balochi pop": [
+        "pop"
+    ],
+    "canadian classical piano": [
+        "classic"
+    ],
+    "deep italo disco": [
+        "disco"
+    ],
+    "aberdeen indie": [
+        "indie"
+    ],
+    "rotterdam indie": [
+        "indie"
+    ],
+    "arab metal": [
+        "metal"
+    ],
+    "yakut pop": [
+        "pop"
+    ],
+    "belgian stoner rock": [
+        "rock"
+    ],
+    "finnish hardcore": [
+        "hardcore"
+    ],
+    "st petersburg fl indie": [
+        "indie"
+    ],
+    "myanmar hip hop": [
+        "hip-hop"
+    ],
+    "latvian folk": [
+        "folk"
+    ],
+    "fado instrumental": [
+        "instrumental"
+    ],
+    "tajik pop": [
+        "pop"
+    ],
+    "georgian folk": [
+        "folk"
+    ],
+    "swedish pop punk": [
+        "pop",
+        "punk"
+    ],
+    "dortmund indie": [
+        "indie"
+    ],
+    "zambian gospel": [
+        "gospel"
+    ],
+    "tigrigna pop": [
+        "pop"
+    ],
+    "raw black metal": [
+        "metal"
+    ],
+    "indie boliviano": [
+        "indie"
+    ],
+    "surabaya indie": [
+        "indie"
+    ],
+    "ugandan gospel": [
+        "gospel"
+    ],
+    "grim death metal": [
+        "metal"
+    ],
+    "australian black metal": [
+        "metal"
+    ],
+    "belgian post-rock": [
+        "rock"
+    ],
+    "galician indie": [
+        "indie"
+    ],
+    "irish underground rap": [
+        "rap"
+    ],
+    "chinese post-rock": [
+        "rock"
+    ],
+    "romanian metal": [
+        "metal"
+    ],
+    "traditional rockabilly": [
+        "rock",
+        "traditional"
+    ],
+    "colombian electronic": [
+        "electronic"
+    ],
+    "metal gaucho": [
+        "metal"
+    ],
+    "igbo traditional": [
+        "traditional"
+    ],
+    "deep vocal house": [
+        "house"
+    ],
+    "chaotic black metal": [
+        "metal"
+    ],
+    "iraqi hip hop": [
+        "hip-hop"
+    ],
+    "firenze indie": [
+        "indie"
+    ],
+    "sesotho hip hop": [
+        "hip-hop"
+    ],
+    "russian power metal": [
+        "metal",
+        "power"
+    ],
+    "grisly death metal": [
+        "metal"
+    ],
+    "latvian electronic": [
+        "electronic"
+    ],
+    "turkmen pop": [
+        "pop"
+    ],
+    "luxembourgian pop": [
+        "pop"
+    ],
+    "war metal": [
+        "metal"
+    ],
+    "jazz chileno": [
+        "jazz"
+    ],
+    "italian black metal": [
+        "metal"
+    ],
+    "west virginia metal": [
+        "metal"
+    ],
+    "chechen pop": [
+        "pop"
+    ],
+    "taiwan electronic": [
+        "electronic"
+    ],
+    "classic psychedelic rock": [
+        "rock",
+        "classic",
+        "psychedelic"
+    ],
+    "japanese choir": [
+        "choir"
+    ],
+    "rwandan gospel": [
+        "gospel"
+    ],
+    "cuban electronic": [
+        "electronic"
+    ],
+    "classic latvian pop": [
+        "pop",
+        "classic"
+    ],
+    "italian stoner rock": [
+        "rock"
+    ],
+    "namibian pop": [
+        "pop"
+    ],
+    "drone rock": [
+        "rock"
+    ],
+    "oriental classical": [
+        "classic"
+    ],
+    "ohio hardcore": [
+        "hardcore"
+    ],
+    "traditional southern folk": [
+        "folk",
+        "traditional"
+    ],
+    "south african metal": [
+        "metal"
+    ],
+    "russian orchestra": [
+        "orchestra"
+    ],
+    "bulgarian indie": [
+        "indie"
+    ],
+    "irish black metal": [
+        "metal"
+    ],
+    "spanish blues": [
+        "blues"
+    ],
+    "wuhan indie": [
+        "indie"
+    ],
+    "igbo worship": [
+        "worship"
+    ],
+    "brazilian metalcore": [
+        "metal"
+    ],
+    "finnish rockabilly": [
+        "rock"
+    ],
+    "scottish jazz": [
+        "jazz"
+    ],
+    "rap paraguayo": [
+        "rap"
+    ],
+    "afghan traditional": [
+        "traditional"
+    ],
+    "konkani pop": [
+        "pop"
+    ],
+    "rap toscana": [
+        "rap"
+    ],
+    "colombian death metal": [
+        "metal"
+    ],
+    "pops orchestra": [
+        "pop",
+        "orchestra"
+    ],
+    "jazz colombiano": [
+        "jazz"
+    ],
+    "experimental black metal": [
+        "metal"
+    ],
+    "irish trap": [
+        "trap"
+    ],
+    "power electronics": [
+        "electronic",
+        "power"
+    ],
+    "chinese metal": [
+        "metal"
+    ],
+    "cypriot hip hop": [
+        "hip-hop"
+    ],
+    "inuit pop": [
+        "pop"
+    ],
+    "deep jazz fusion": [
+        "jazz"
+    ],
+    "western ny metal": [
+        "metal"
+    ],
+    "saraiki pop": [
+        "pop"
+    ],
+    "jazz dominicano": [
+        "jazz"
+    ],
+    "musica folk asturiana": [
+        "folk"
+    ],
+    "dutch underground hip hop": [
+        "hip-hop"
+    ],
+    "irish contemporary classical": [
+        "classic"
+    ],
+    "svensk indie": [
+        "indie"
+    ],
+    "indie paraense": [
+        "indie"
+    ],
+    "austrian stoner rock": [
+        "rock"
+    ],
+    "cambridge choir": [
+        "choir"
+    ],
+    "raga rock": [
+        "rock"
+    ],
+    "sundanese traditional": [
+        "traditional"
+    ],
+    "faroese folk": [
+        "folk"
+    ],
+    "danish folk": [
+        "folk"
+    ],
+    "seychelles pop": [
+        "pop"
+    ],
+    "hakkapop": [
+        "pop"
+    ],
+    "tuvan folk": [
+        "folk"
+    ],
+    "finnish electronic": [
+        "electronic"
+    ],
+    "rap gabonais": [
+        "rap"
+    ],
+    "brockton hip hop": [
+        "hip-hop",
+        "rock"
+    ],
+    "rap malien": [
+        "rap"
+    ],
+    "rock alagoano": [
+        "rock"
+    ],
+    "rap potiguar": [
+        "rap"
+    ],
+    "instrumental death metal": [
+        "metal",
+        "instrumental"
+    ],
+    "neo soul-jazz": [
+        "jazz",
+        "soul"
+    ],
+    "brazilian black metal": [
+        "metal"
+    ],
+    "leon gto indie": [
+        "indie"
+    ],
+    "japanese classical piano": [
+        "classic"
+    ],
+    "polish post-rock": [
+        "rock"
+    ],
+    "georgian hip hop": [
+        "hip-hop"
+    ],
+    "umea indie": [
+        "indie"
+    ],
+    "utah metal": [
+        "metal"
+    ],
+    "deep g funk": [
+        "funk"
+    ],
+    "brazilian stoner rock": [
+        "rock"
+    ],
+    "australian hardcore": [
+        "hardcore"
+    ],
+    "serbian folk": [
+        "folk"
+    ],
+    "rap nortista": [
+        "rap"
+    ],
+    "american classical piano": [
+        "classic"
+    ],
+    "rock catracho": [
+        "rock"
+    ],
+    "avant-rock": [
+        "rock"
+    ],
+    "women's choir": [
+        "choir"
+    ],
+    "marathi hip hop": [
+        "hip-hop"
+    ],
+    "indie psychedelic rock": [
+        "rock",
+        "indie",
+        "psychedelic"
+    ],
+    "barockinterpreten": [
+        "rock"
+    ],
+    "mexican post-rock": [
+        "rock"
+    ],
+    "dutch folk": [
+        "folk"
+    ],
+    "electroacoustic improvisation": [
+        "electronic"
+    ],
+    "indie hidalguense": [
+        "indie"
+    ],
+    "south african punk": [
+        "punk"
+    ],
+    "hardcore breaks": [
+        "hardcore"
+    ],
+    "bhutanese pop": [
+        "pop"
+    ],
+    "jazz tico": [
+        "jazz"
+    ],
+    "afrikaans gospel": [
+        "gospel"
+    ],
+    "turkish death metal": [
+        "metal"
+    ],
+    "australian thrash metal": [
+        "metal"
+    ],
+    "tibetan traditional": [
+        "traditional"
+    ],
+    "hungarian contemporary classical": [
+        "classic"
+    ],
+    "bahamian folk": [
+        "folk"
+    ],
+    "brazilian rockabilly": [
+        "rock"
+    ],
+    "post-punk brasileiro": [
+        "punk"
+    ],
+    "classical accordion": [
+        "classic"
+    ],
+    "arkansas metal": [
+        "metal"
+    ],
+    "mainland se asia metal": [
+        "metal"
+    ],
+    "macedonian electronic": [
+        "electronic"
+    ],
+    "chamber choir": [
+        "choir"
+    ],
+    "swiss punk": [
+        "punk"
+    ],
+    "norwegian blues": [
+        "blues"
+    ],
+    "rock potiguar": [
+        "rock"
+    ],
+    "italian hardcore": [
+        "hardcore"
+    ],
+    "dutch stoner rock": [
+        "rock"
+    ],
+    "hungarian classical piano": [
+        "classic"
+    ],
+    "deep classic garage rock": [
+        "rock",
+        "classic"
+    ],
+    "trap kreyol": [
+        "trap"
+    ],
+    "italian progressive metal": [
+        "metal"
+    ],
+    "vietnamese electronic": [
+        "electronic"
+    ],
+    "senegalese traditional": [
+        "traditional"
+    ],
+    "traditional reggae": [
+        "reggae",
+        "traditional"
+    ],
+    "indie arequipeno": [
+        "indie"
+    ],
+    "deep southern soul": [
+        "soul"
+    ],
+    "libyan hip hop": [
+        "hip-hop"
+    ],
+    "colombian hardcore": [
+        "hardcore"
+    ],
+    "classic ukrainian pop": [
+        "pop",
+        "classic"
+    ],
+    "portuguese death metal": [
+        "metal"
+    ],
+    "belgian punk": [
+        "punk"
+    ],
+    "singaporean punk": [
+        "punk"
+    ],
+    "northamptonshire indie": [
+        "indie"
+    ],
+    "croatian electronic": [
+        "electronic"
+    ],
+    "chinese classical": [
+        "classic"
+    ],
+    "russian choir": [
+        "choir"
+    ],
+    "deep indie singer-songwriter": [
+        "indie"
+    ],
+    "luxembourgian hip hop": [
+        "hip-hop"
+    ],
+    "irish gaelic folk": [
+        "folk"
+    ],
+    "south asian metal": [
+        "metal"
+    ],
+    "galway indie": [
+        "indie"
+    ],
+    "japanese hardcore": [
+        "hardcore"
+    ],
+    "indian instrumental rock": [
+        "rock",
+        "instrumental"
+    ],
+    "italian blues": [
+        "blues"
+    ],
+    "lithuanian folk": [
+        "folk"
+    ],
+    "dutch punk rock": [
+        "rock",
+        "punk"
+    ],
+    "christian thrash metal": [
+        "metal"
+    ],
+    "modern electroacoustic": [
+        "electronic"
+    ],
+    "rap mocambicana": [
+        "rap"
+    ],
+    "finnish choir": [
+        "choir"
+    ],
+    "metal paranaense": [
+        "metal"
+    ],
+    "french experimental rock": [
+        "rock"
+    ],
+    "greek jazz": [
+        "jazz"
+    ],
+    "sda choir": [
+        "choir"
+    ],
+    "delaware indie": [
+        "indie"
+    ],
+    "deep funk house": [
+        "house",
+        "funk"
+    ],
+    "chinese post-punk": [
+        "punk"
+    ],
+    "welsh choir": [
+        "choir"
+    ],
+    "korean classical performance": [
+        "classic"
+    ],
+    "croatian folk": [
+        "folk"
+    ],
+    "bulgarian folk": [
+        "folk"
+    ],
+    "diy pop punk": [
+        "pop",
+        "punk"
+    ],
+    "macedonian indie": [
+        "indie"
+    ],
+    "andalusian classical": [
+        "classic"
+    ],
+    "irish experimental electronic": [
+        "electronic"
+    ],
+    "cape breton indie": [
+        "indie"
+    ],
+    "classical bass": [
+        "classic"
+    ],
+    "spanish stoner rock": [
+        "rock"
+    ],
+    "spanish classical piano": [
+        "classic"
+    ],
+    "guatemalan metal": [
+        "metal"
+    ],
+    "malagasy folk": [
+        "folk"
+    ],
+    "swazi pop": [
+        "pop"
+    ],
+    "russian thrash metal": [
+        "metal"
+    ],
+    "classical countertenor": [
+        "classic"
+    ],
+    "malang punk": [
+        "punk"
+    ],
+    "men's choir": [
+        "choir"
+    ],
+    "rock sergipano": [
+        "rock"
+    ],
+    "bodo pop": [
+        "pop"
+    ],
+    "romanian black metal": [
+        "metal"
+    ],
+    "occult black metal": [
+        "metal"
+    ],
+    "deep free jazz": [
+        "jazz"
+    ],
+    "folk cantabria": [
+        "folk"
+    ],
+    "french folk": [
+        "folk"
+    ],
+    "pontian folk": [
+        "folk"
+    ],
+    "rap alagoano": [
+        "rap"
+    ],
+    "danish hardcore": [
+        "hardcore"
+    ],
+    "israeli traditional": [
+        "traditional"
+    ],
+    "hot jazz": [
+        "jazz"
+    ],
+    "himalayan folk": [
+        "folk"
+    ],
+    "belarusian metal": [
+        "metal"
+    ],
+    "rock nica": [
+        "rock"
+    ],
+    "chinese punk": [
+        "punk"
+    ],
+    "singaporean metal": [
+        "metal"
+    ],
+    "classical percussion": [
+        "classic"
+    ],
+    "melodic progressive metal": [
+        "metal"
+    ],
+    "garifuna folk": [
+        "folk"
+    ],
+    "alternative metalcore": [
+        "metal",
+        "alternative"
+    ],
+    "russian jazz": [
+        "jazz"
+    ],
+    "brazilian contemporary classical": [
+        "classic"
+    ],
+    "horror punk brasileiro": [
+        "punk"
+    ],
+    "circassian folk": [
+        "folk"
+    ],
+    "classical flute": [
+        "classic"
+    ],
+    "guatemalan indie": [
+        "indie"
+    ],
+    "israeli classical piano": [
+        "classic"
+    ],
+    "bolivian metal": [
+        "metal"
+    ],
+    "deep northern soul": [
+        "soul"
+    ],
+    "polynesian traditional": [
+        "traditional"
+    ],
+    "russian death metal": [
+        "metal"
+    ],
+    "edinburgh metal": [
+        "metal"
+    ],
+    "sulawesi indie": [
+        "indie"
+    ],
+    "classical mezzo-soprano": [
+        "classic"
+    ],
+    "soda pop": [
+        "pop"
+    ],
+    "normal indie": [
+        "indie"
+    ],
+    "rajasthani folk": [
+        "folk"
+    ],
+    "danish electro": [
+        "electronic"
+    ],
+    "estonian metal": [
+        "metal"
+    ],
+    "lombok indie": [
+        "indie"
+    ],
+    "post-punk colombiano": [
+        "punk"
+    ],
+    "vintage finnish jazz": [
+        "jazz"
+    ],
+    "australian rockabilly": [
+        "rock"
+    ],
+    "russian black metal": [
+        "metal"
+    ],
+    "thrash-groove metal": [
+        "metal"
+    ],
+    "oromo pop": [
+        "pop"
+    ],
+    "bengali folk": [
+        "folk"
+    ],
+    "rock pernambucano": [
+        "rock"
+    ],
+    "alaska hip hop": [
+        "hip-hop"
+    ],
+    "rock catarinense": [
+        "rock"
+    ],
+    "african metal": [
+        "metal"
+    ],
+    "bulgarian metal": [
+        "metal"
+    ],
+    "colombian black metal": [
+        "metal"
+    ],
+    "swedish contemporary classical": [
+        "classic"
+    ],
+    "deep active rock": [
+        "rock"
+    ],
+    "classical trombone": [
+        "classic"
+    ],
+    "dutch contemporary classical": [
+        "classic"
+    ],
+    "rap sergipano": [
+        "rap"
+    ],
+    "japanese melodic hardcore": [
+        "hardcore"
+    ],
+    "christian symphonic metal": [
+        "metal"
+    ],
+    "hungarian black metal": [
+        "metal"
+    ],
+    "rock progresivo mexicano": [
+        "rock"
+    ],
+    "vintage classical singing": [
+        "classic"
+    ],
+    "shanghai indie": [
+        "indie"
+    ],
+    "classic konkani pop": [
+        "pop",
+        "classic"
+    ],
+    "indie trujillano": [
+        "indie"
+    ],
+    "slash punk": [
+        "punk"
+    ],
+    "synthetic classical": [
+        "classic"
+    ],
+    "canadian stoner rock": [
+        "rock"
+    ],
+    "deep punk rock": [
+        "rock",
+        "punk"
+    ],
+    "vintage french psychedelic": [
+        "psychedelic"
+    ],
+    "korean punk": [
+        "punk"
+    ],
+    "metal noir quebecois": [
+        "metal"
+    ],
+    "lincoln ne indie": [
+        "indie"
+    ],
+    "metal tico": [
+        "metal"
+    ],
+    "saxony metal": [
+        "metal"
+    ],
+    "deep swedish rock": [
+        "rock"
+    ],
+    "idaho hip hop": [
+        "hip-hop"
+    ],
+    "spanish death metal": [
+        "metal"
+    ],
+    "classical baritone": [
+        "classic"
+    ],
+    "metal galego": [
+        "metal"
+    ],
+    "botswana pop": [
+        "pop"
+    ],
+    "caucasian classical piano": [
+        "classic"
+    ],
+    "electroacoustic composition": [
+        "electronic"
+    ],
+    "middle eastern traditional": [
+        "traditional"
+    ],
+    "lesotho traditional": [
+        "traditional"
+    ],
+    "swedish choir": [
+        "choir"
+    ],
+    "italian rockabilly": [
+        "rock"
+    ],
+    "german contemporary classical": [
+        "classic"
+    ],
+    "lithuanian jazz": [
+        "jazz"
+    ],
+    "vintage country folk": [
+        "country",
+        "folk"
+    ],
+    "colorado hardcore": [
+        "hardcore"
+    ],
+    "metalcore espanol": [
+        "metal"
+    ],
+    "rock in opposition": [
+        "rock"
+    ],
+    "early french punk": [
+        "punk"
+    ],
+    "vintage reggae": [
+        "reggae"
+    ],
+    "japanese black metal": [
+        "metal"
+    ],
+    "korean traditional": [
+        "traditional"
+    ],
+    "blues band": [
+        "blues"
+    ],
+    "brazilian heavy metal": [
+        "metal"
+    ],
+    "pontianak indie": [
+        "indie"
+    ],
+    "sardinia indie": [
+        "indie"
+    ],
+    "metal salvadoreno": [
+        "metal"
+    ],
+    "rock sul-mato-grossense": [
+        "rock"
+    ],
+    "mexican electronic": [
+        "electronic"
+    ],
+    "rock dominicano": [
+        "rock"
+    ],
+    "cathedral choir": [
+        "choir"
+    ],
+    "kikuyu pop": [
+        "pop"
+    ],
+    "orkney and shetland folk": [
+        "folk"
+    ],
+    "icelandic traditional": [
+        "traditional"
+    ],
+    "kikuyu gospel": [
+        "gospel"
+    ],
+    "deep vocal jazz": [
+        "jazz"
+    ],
+    "belgian hardcore": [
+        "hardcore"
+    ],
+    "egyptian traditional": [
+        "traditional"
+    ],
+    "jazz tuba": [
+        "jazz"
+    ],
+    "portuguese contemporary classical": [
+        "classic"
+    ],
+    "czsk black metal": [
+        "metal"
+    ],
+    "rap ecuatoguineano": [
+        "rap"
+    ],
+    "kosovan folk": [
+        "folk"
+    ],
+    "historic classical performance": [
+        "classic"
+    ],
+    "rap paraense": [
+        "rap"
+    ],
+    "bury st edmunds indie": [
+        "indie"
+    ],
+    "deep power-pop punk": [
+        "pop",
+        "punk",
+        "power"
+    ],
+    "norwegian choir": [
+        "choir"
+    ],
+    "kentucky mountain folk": [
+        "folk"
+    ],
+    "deep hardcore": [
+        "hardcore"
+    ],
+    "lithuanian metal": [
+        "metal"
+    ],
+    "ukrainian choir": [
+        "choir"
+    ],
+    "israeli classical": [
+        "classic"
+    ],
+    "austrian classical piano": [
+        "classic"
+    ],
+    "punk ecuatoriano": [
+        "punk"
+    ],
+    "moravian folk": [
+        "folk"
+    ],
+    "punk tico": [
+        "punk"
+    ],
+    "neo-trad doom metal": [
+        "metal"
+    ],
+    "instrumental black metal": [
+        "metal",
+        "instrumental"
+    ],
+    "bohol indie": [
+        "indie"
+    ],
+    "deep indie rock": [
+        "rock",
+        "indie"
+    ],
+    "indie tucumano": [
+        "indie"
+    ],
+    "italian contemporary classical": [
+        "classic"
+    ],
+    "haitian traditional": [
+        "traditional"
+    ],
+    "deep space rock": [
+        "rock"
+    ],
+    "canadian choir": [
+        "choir"
+    ],
+    "belfast indie": [
+        "indie"
+    ],
+    "portuguese post-rock": [
+        "rock"
+    ],
+    "punk ska": [
+        "punk"
+    ],
+    "russian modern jazz": [
+        "jazz"
+    ],
+    "brazilian post-rock": [
+        "rock"
+    ],
+    "luxembourgian electronic": [
+        "electronic"
+    ],
+    "borneo traditional": [
+        "traditional"
+    ],
+    "latin american classical piano": [
+        "classic"
+    ],
+    "serbian metal": [
+        "metal"
+    ],
+    "norwegian punk": [
+        "punk"
+    ],
+    "polish metalcore": [
+        "metal"
+    ],
+    "brazilian surf rock": [
+        "rock"
+    ],
+    "proto-rap": [
+        "rap"
+    ],
+    "jazz caraibes": [
+        "jazz"
+    ],
+    "mexican power metal": [
+        "metal",
+        "power"
+    ],
+    "finnish contemporary classical": [
+        "classic"
+    ],
+    "indie queretano": [
+        "indie"
+    ],
+    "classical piano trio": [
+        "classic"
+    ],
+    "antilliaanse folklore": [
+        "folk"
+    ],
+    "rock abc paulista": [
+        "rock"
+    ],
+    "malawian folk": [
+        "folk"
+    ],
+    "oxford choir": [
+        "choir"
+    ],
+    "indonesian thrash metal": [
+        "metal"
+    ],
+    "italian classical guitar": [
+        "classic"
+    ],
+    "folklore panameno": [
+        "folk"
+    ],
+    "indie nica": [
+        "indie"
+    ],
+    "slovak metal": [
+        "metal"
+    ],
+    "moorish traditional": [
+        "traditional"
+    ],
+    "botswana traditional": [
+        "traditional"
+    ],
+    "classical oboe": [
+        "classic"
+    ],
+    "musica rapa nui": [
+        "rap"
+    ],
+    "hard stoner rock": [
+        "rock"
+    ],
+    "classic nz country": [
+        "classic",
+        "country"
+    ],
+    "polish classical piano": [
+        "classic"
+    ],
+    "polish noise rock": [
+        "rock"
+    ],
+    "albanian folk": [
+        "folk"
+    ],
+    "metal paraguayo": [
+        "metal"
+    ],
+    "thai psychedelic": [
+        "psychedelic"
+    ],
+    "liberian pop": [
+        "pop"
+    ],
+    "indie catracho": [
+        "indie"
+    ],
+    "turkish black metal": [
+        "metal"
+    ],
+    "santa fe indie": [
+        "indie"
+    ],
+    "string orchestra": [
+        "orchestra"
+    ],
+    "british electroacoustic": [
+        "electronic"
+    ],
+    "nordic orchestra": [
+        "orchestra"
+    ],
+    "rhythm rock": [
+        "rock"
+    ],
+    "german choir": [
+        "choir"
+    ],
+    "indonesian black metal": [
+        "metal"
+    ],
+    "italian orchestra": [
+        "orchestra"
+    ],
+    "karelian folk": [
+        "folk"
+    ],
+    "deep hardcore punk": [
+        "punk",
+        "hardcore"
+    ],
+    "danish choir": [
+        "choir"
+    ],
+    "czech classical piano": [
+        "classic"
+    ],
+    "metal cristao": [
+        "metal"
+    ],
+    "french contemporary classical": [
+        "classic"
+    ],
+    "icelandic choir": [
+        "choir"
+    ],
+    "afrikaans folk": [
+        "folk"
+    ],
+    "deep latin jazz": [
+        "jazz"
+    ],
+    "rock paraense": [
+        "rock"
+    ],
+    "indie emo rock": [
+        "rock",
+        "indie"
+    ],
+    "pinoy traditional": [
+        "traditional"
+    ],
+    "tibetan folk pop": [
+        "pop",
+        "folk"
+    ],
+    "historic orchestral performance": [
+        "orchestra"
+    ],
+    "caucasian folk": [
+        "folk"
+    ],
+    "jazz composition": [
+        "jazz"
+    ],
+    "vintage gospel": [
+        "gospel"
+    ],
+    "metal cearense": [
+        "metal"
+    ],
+    "indie nordeste argentino": [
+        "indie"
+    ],
+    "czech hardcore": [
+        "hardcore"
+    ],
+    "french orchestra": [
+        "orchestra"
+    ],
+    "romanian classical piano": [
+        "classic"
+    ],
+    "malian traditional": [
+        "traditional"
+    ],
+    "latvian metal": [
+        "metal"
+    ],
+    "moroccan traditional": [
+        "traditional"
+    ],
+    "tatar folk": [
+        "folk"
+    ],
+    "school choir": [
+        "choir"
+    ],
+    "irish modern jazz": [
+        "jazz"
+    ],
+    "gospel papiamento": [
+        "gospel"
+    ],
+    "belfast metal": [
+        "metal"
+    ],
+    "indonesian electronic": [
+        "electronic"
+    ],
+    "turkmen hip hop": [
+        "hip-hop"
+    ],
+    "post-rock latinoamericano": [
+        "rock"
+    ],
+    "classical contralto": [
+        "classic"
+    ],
+    "inuit traditional": [
+        "traditional"
+    ],
+    "northumbrian folk": [
+        "folk"
+    ],
+    "ladakhi pop": [
+        "pop"
+    ],
+    "deep pop emo": [
+        "pop"
+    ],
+    "baltic black metal": [
+        "metal"
+    ],
+    "korean hardcore": [
+        "hardcore"
+    ],
+    "deep indie pop": [
+        "pop",
+        "indie"
+    ],
+    "metal uruguayo": [
+        "metal"
+    ],
+    "malaysian traditional": [
+        "traditional"
+    ],
+    "cryptic black metal": [
+        "metal"
+    ],
+    "thai traditional": [
+        "traditional"
+    ],
+    "spanish contemporary classical": [
+        "classic"
+    ],
+    "appenzeller folk": [
+        "folk"
+    ],
+    "danish contemporary classical": [
+        "classic"
+    ],
+    "ethiopian traditional": [
+        "traditional"
+    ],
+    "vintage rockabilly": [
+        "rock"
+    ],
+    "folklore quebecois": [
+        "folk"
+    ],
+    "botswana hip hop": [
+        "hip-hop"
+    ],
+    "estonian jazz": [
+        "jazz"
+    ],
+    "maldivian pop": [
+        "pop"
+    ],
+    "classical guitar quartet": [
+        "classic"
+    ],
+    "brazilian classical piano": [
+        "classic"
+    ],
+    "central american metal": [
+        "metal"
+    ],
+    "french rockabilly": [
+        "rock"
+    ],
+    "italian heavy metal": [
+        "metal"
+    ],
+    "deep delta blues": [
+        "blues"
+    ],
+    "alternative hardcore": [
+        "alternative",
+        "hardcore"
+    ],
+    "classical guitar duo": [
+        "classic"
+    ],
+    "korean classical piano": [
+        "classic"
+    ],
+    "galician jazz": [
+        "jazz"
+    ],
+    "traditional irish singing": [
+        "traditional"
+    ],
+    "modern free jazz": [
+        "jazz"
+    ],
+    "spanish black metal": [
+        "metal"
+    ],
+    "black metal argentino": [
+        "metal"
+    ],
+    "new zealand classical": [
+        "classic"
+    ],
+    "cypriot metal": [
+        "metal"
+    ],
+    "iranian metal": [
+        "metal"
+    ],
+    "nu electro": [
+        "electronic"
+    ],
+    "rock nacional feminino": [
+        "rock"
+    ],
+    "metal baiano": [
+        "metal"
+    ],
+    "vietnamese traditional": [
+        "traditional"
+    ],
+    "maltese metal": [
+        "metal"
+    ],
+    "baltic choir": [
+        "choir"
+    ],
+    "kamba pop": [
+        "pop"
+    ],
+    "twin cities indie": [
+        "indie"
+    ],
+    "czech contemporary classical": [
+        "classic"
+    ],
+    "jangle rock": [
+        "rock"
+    ],
+    "balkan classical piano": [
+        "classic"
+    ],
+    "uyghur folk": [
+        "folk"
+    ],
+    "austrian choir": [
+        "choir"
+    ],
+    "chilean black metal": [
+        "metal"
+    ],
+    "hawaiian punk": [
+        "punk"
+    ],
+    "australian choir": [
+        "choir"
+    ],
+    "irish death metal": [
+        "metal"
+    ],
+    "tanzanian traditional": [
+        "traditional"
+    ],
+    "classical saxophone quartet": [
+        "classic"
+    ],
+    "baltic classical piano": [
+        "classic"
+    ],
+    "deep symphonic black metal": [
+        "metal"
+    ],
+    "ainu folk": [
+        "folk"
+    ],
+    "mexican black metal": [
+        "metal"
+    ],
+    "central asian folk": [
+        "folk"
+    ],
+    "classical piano duo": [
+        "classic"
+    ],
+    "deep smooth r&b": [
+        "r&b"
+    ],
+    "brazilian doom metal": [
+        "metal"
+    ],
+    "balochi folk": [
+        "folk"
+    ],
+    "caribbean metal": [
+        "metal"
+    ],
+    "rock noise": [
+        "rock"
+    ],
+    "deep deep tech house": [
+        "house"
+    ],
+    "twee indie pop": [
+        "pop",
+        "indie"
+    ],
+    "deep neo-synthpop": [
+        "pop"
+    ],
+    "metal balear": [
+        "metal"
+    ],
+    "venezuelan metal": [
+        "metal"
+    ],
+    "kazakh traditional": [
+        "traditional"
+    ],
+    "luxembourgian metal": [
+        "metal"
+    ],
+    "metal nortista": [
+        "metal"
+    ],
+    "cantonese traditional": [
+        "traditional"
+    ],
+    "romanian contemporary classical": [
+        "classic"
+    ],
+    "dark electro-industrial": [
+        "electronic"
+    ],
+    "peruvian death metal": [
+        "metal"
+    ],
+    "trad jazz catala": [
+        "jazz"
+    ],
+    "rock cristao fluminense": [
+        "rock"
+    ],
+    "metal pernambucano": [
+        "metal"
+    ],
+    "korean contemporary classical": [
+        "classic"
+    ],
+    "yiddish folk": [
+        "folk"
+    ],
+    "classical horn": [
+        "classic"
+    ],
+    "burkinabe traditional": [
+        "traditional"
+    ],
+    "puerto rican metal": [
+        "metal"
+    ],
+    "tahitian traditional": [
+        "traditional"
+    ],
+    "classical tuba": [
+        "classic"
+    ],
+    "austrian contemporary classical": [
+        "classic"
+    ],
+    "swedish jazz orkester": [
+        "jazz"
+    ],
+    "indie tabasqueno": [
+        "indie"
+    ],
+    "polish choir": [
+        "choir"
+    ],
+    "montana metal": [
+        "metal"
+    ],
+    "belgian classical piano": [
+        "classic"
+    ],
+    "chip hop": [
+        "hip-hop"
+    ],
+    "metal catarinense": [
+        "metal"
+    ],
+    "swiss contemporary classical": [
+        "classic"
+    ],
+    "balikpapan indie": [
+        "indie"
+    ],
+    "rwandan traditional": [
+        "traditional"
+    ],
+    "burundian traditional": [
+        "traditional"
+    ],
+    "ghanaian traditional": [
+        "traditional"
+    ],
+    "faroese jazz": [
+        "jazz"
+    ],
+    "classical bassoon": [
+        "classic"
+    ],
+    "kyrgyz traditional": [
+        "traditional"
+    ],
+    "polish free jazz": [
+        "jazz"
+    ],
+    "cambodian traditional": [
+        "traditional"
+    ],
+    "metal piauiense": [
+        "metal"
+    ],
+    "burmese traditional": [
+        "traditional"
+    ],
+    "uzbek traditional": [
+        "traditional"
+    ],
+    "swiss classical piano": [
+        "classic"
+    ],
+    "papuan traditional": [
+        "traditional"
+    ],
+    "lao traditional": [
+        "traditional"
+    ],
+    "kenyan traditional": [
+        "traditional"
+    ],
+    "mazandarani folk": [
+        "folk"
+    ],
+    "yemeni traditional": [
+        "traditional"
+    ],
+    "tajik traditional": [
+        "traditional"
+    ],
+    "italian choir": [
+        "choir"
+    ],
+    "ugandan traditional": [
+        "traditional"
+    ],
+    "swazi traditional": [
+        "traditional"
+    ],
+    "hungarian choir": [
+        "choir"
+    ],
+    "yunnan traditional": [
+        "traditional"
+    ],
+    "classical string trio": [
+        "classic"
+    ],
+    "youth orchestra": [
+        "orchestra"
+    ]
+}
