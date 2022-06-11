@@ -3,3 +3,5 @@ data/
 !data/total.json
 !data/genres_dictionary.json
 *.csv
+.cache
+*.wav
