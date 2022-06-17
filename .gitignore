@@ -1,7 +1,7 @@
 .idea/
 data/
-!data/total.json
-!data/genres_dictionary.json
+!data/old/total.json
+!data/old/genres_dictionary.json
 *.csv
 .cache
 *.wav

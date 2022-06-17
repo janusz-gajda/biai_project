@@ -18,7 +18,7 @@ genres_in_dictionary = {}
 genres_without_translation = []
 genres_in_database_without_translation = {}
 
-with open('./data/genres_working.json', 'r') as file:
+with open('data/old/genres_working.json', 'r') as file:
     all_genres = ujson.load(file)
     file.close()
 count = 0

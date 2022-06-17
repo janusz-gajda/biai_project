@@ -1,12 +1,19 @@
 import io
 import json
+import multiprocessing
+import queue
 import subprocess
+import threading
+import time
+
 import pandas as pd
 import seaborn as sns
 import numpy as np
 import os
 import librosa as lb
 import glob
+import queue
+import concurrent.futures
 from pprint import pprint as pp
 import scipy
 import matplotlib.pyplot as plt
@@ -23,6 +30,9 @@ import itertools
 import ujson
 from scipy.stats import skew
 from scipy.stats import kurtosis
+
+songs_input = queue.Queue()
+songs_output = queue.Queue()
 
 
 def get_features_mean(song_data, sample_rate, hop_length, n_fft):
@@ -68,7 +78,8 @@ def get_features_mean(song_data, sample_rate, hop_length, n_fft):
     tonnetz_a = np.mean(tonnetz)
     tonnetz_std = np.std(tonnetz)
 
-    zcr = lb.feature.zero_crossing_rate(y=song_data, frame_length=sample_rate, hop_length=hop_length)  # zero crossing rate
+    zcr = lb.feature.zero_crossing_rate(y=song_data, frame_length=sample_rate,
+                                        hop_length=hop_length)  # zero crossing rate
     zcr_a = np.mean(zcr)
     zcr_std = np.std(zcr)
 
@@ -88,7 +99,8 @@ def get_features_mean(song_data, sample_rate, hop_length, n_fft):
                      'centroid_a': centroid_a, 'centroid_std': centroid_std, 'bw_a': bw_a, 'bw_std': bw_std,
                      'contrast_a': contrast_a, 'contrast_std': contrast_std, 'polyfeat_a': polyfeat_a,
                      'polyfeat_std': polyfeat_std, 'tonnetz_a': tonnetz_a, 'tonnetz_std': tonnetz_std,
-                     'zcr_a': zcr_a, 'zcr_std': zcr_std, 'onset_a': np.float64(onset_a), 'onset_std': np.float64(onset_std),
+                     'zcr_a': zcr_a, 'zcr_std': zcr_std, 'onset_a': np.float64(onset_a),
+                     'onset_std': np.float64(onset_std),
                      'bpm': bpm, 'rmseP_skew': rmsP_skew, 'rmseP_kurtosis': rmsP_kurtosis,
                      'rmseH_skew': rmsH_skew, 'rmseH_kurtosis': rmsH_kurtosis, 'beats_a': beats_a,
                      'beats_std': beats_std}
@@ -97,32 +109,60 @@ def get_features_mean(song_data, sample_rate, hop_length, n_fft):
     return features_dict
 
 
-if __name__ == "__main__":
+def analyser_thread():
+    while True:
+        if songs_input.empty():
+            exit(0)
+        song = songs_input.get()
+        song_id = song.split('\\')[-1].split('.')[0]
+        y, sr = lb.load(song, sr=44100)
+        # wav_data[song_id] = {'y': y, 'sr': sr}
+        res = get_features_mean(y, sr, hop_length=512, n_fft=2048)
+        songs_output.put({
+            "id": song_id,
+            "analysis": res
+        })
+
+
+def main():
     songs = {}
-    with open("../data/total.json", "r") as file:
+    with open("../data/new_results.json", "r") as file:
         songs = ujson.load(file)
         file.close()
 
     files = [f for f in glob.glob("..\\songs\\*.wav", recursive=True)]
 
     wav_data = {}
-    i = 1
+    songs_with_analysis = {}
+    i = 0
+    size = 0
     for file in files:
-        print(i, "of", len(files))
-        i += 1
-        song_id = file.split('\\')[-1].split('.')[0]
-        y, sr = lb.load(file, sr=44100)
-        # wav_data[song_id] = {'y': y, 'sr': sr}
-        res = get_features_mean(y, sr, hop_length=512, n_fft=2048)
-        songs[song_id]['audio_analysis'] = res
-        print("Song", songs[song_id]['track']['name'], "done")
-        if i % 10 == 0:
-            with open("../data/total_with_analysis.json", 'w') as file:
-                file.write(json.dumps(songs, separators=(',', ':')))
-                file.close()
-                print("Results saved")
+        songs_input.put(file)
+        size += 1
+    processes = []
+    for i in range(0, 5):
+        processes.append(threading.Thread(target=analyser_thread, args=()))
+        processes[i].start()
 
-    with open("../data/total_with_analysis.json", 'w') as file:
-        file.write(json.dumps(songs, separators=(',', ':')))
+    while True:
+        if songs_input.empty():
+            break
+        while not songs_output.empty():
+            results = songs_output.get()
+            song = songs[results["id"]]
+            song["audio_analysis"] = results["analysis"]
+            songs_with_analysis[results["id"]] = song
+            i += 1
+        with open("../data/data.json", 'w') as file:
+            file.write(json.dumps(songs_with_analysis, separators=(',', ':')))
+            file.close()
+        print("Saved", i, "of", size)
+        time.sleep(10)
+
+    with open("../data/data.json", 'w') as file:
+        file.write(json.dumps(songs_with_analysis, separators=(',', ':')))
         file.close()
-    abs(1)
+
+
+if __name__ == "__main__":
+    main()
