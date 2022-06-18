@@ -175,17 +175,17 @@ if __name__ == "__main__":
 
     model.fit(np_inputs_array, np_outputs_array, epochs=1500, verbose=1, batch_size=10)
     model.evaluate(np_inputs_array_test, np_outputs_array_test, verbose=1)
-    # size = np_inputs_array_test.shape
-    # predict = model.predict(np_inputs_array_test)
-    # for i in range(size[0]):
-    #     predicted_output = predict[i]
-    #     actual_output = np_outputs_array_test[i]
-    #     predicted_genres = []
-    #     name = test_names[i]
-    #     for j in range(len(genres)):
-    #         predicted_genres.append(genres[j] + ": " + str(round(predicted_output[j] * 100, 3)) + "%")
-    #     actual_genre = genres[int(actual_output)]
-    #     print(name, "Prediction", predicted_genres, "Actual", actual_genre)
+    size = np_inputs_array_test.shape
+    predict = model.predict(np_inputs_array_test)
+    for i in range(size[0]):
+        predicted_output = predict[i]
+        actual_output = np_outputs_array_test[i]
+        predicted_genres = []
+        name = test_names[i]
+        for j in range(len(genres)):
+            predicted_genres.append(genres[j] + ": " + str(round(predicted_output[j] * 100, 3)) + "%")
+        actual_genre = genres[int(actual_output)]
+        print(name, "Prediction", predicted_genres, "Actual", actual_genre)
 
     # kid = {"rmseP_a": 0.05808682972161509, "rmseP_std": 0.03350406150321627,
     #        "rmseH_a": 0.13447812560711736, "rmseH_std": 0.05039466668513202,
