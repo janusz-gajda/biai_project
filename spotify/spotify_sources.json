@@ -3,6 +3,21 @@
     "artists": ["5LfGQac0EIXyAN8aUwmNAQ", "711MCceyCBcFnzjGY4Q7Un", "3qm84nBOXUEQ2vnTfUTTFC",
       "12Chz98pHFMPJEknJQMWvI", "7jy3rLJdDQY21OgRLCZ9sD"],
     "playlists": ["37i9dQZF1EQpj7X7UK8OOF?si=045424fb3bcb404c", "7dowgSWOmvdpwNkGFMUs6e"],
+    "albums": ["67v63ubEsvDUQkYMzI7A9t"]
+  },
+  "pop": {
+    "artists": [],
+    "playlists": ["6gS3HhOiI17QNojjPuPzqc", "2ZIRxkFuqNPMnlY7vL54uK"],
+    "albums": []
+  },
+  "rap/hip-hop": {
+    "artists": [],
+    "playlists": ["6s5MoZzR70Qef7x4bVxDO1", "6MXkE0uYF4XwU4VTtyrpfP"],
+    "albums": []
+  },
+  "classical": {
+    "artists": [],
+    "playlists": ["3HYK6ri0GkvRcM6GkKh0hJ", "3GKQ9yeAYenQfMYg6tDZiw"],
     "albums": []
   }
 }
